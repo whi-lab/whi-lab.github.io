@@ -1,0 +1,16 @@
+---
+safe        : true
+lsi         : false
+permalink   : none
+markdown    : kramdown
+
+title:            'WHI Lab'
+tagline:          ''
+description:      'Wellbeing and Health Innovation Lab, IST, Penn State'
+url:              whilab.org
+
+author:
+  name:           'Saeed Abdullah'
+  url:            https://twitter.com/saeed_siam
+
+# paginate:         5

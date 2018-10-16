@@ -1,0 +1,13 @@
+---
+layout: page
+---
+
+<h2> <a href="#" class="no-link">
+Looking for that page is futile.
+</a>
+</h2>
+
+
+The [Vogons][vogons-wiki] have lost it.
+
+[vogons-wiki]: http://en.wikipedia.org/wiki/Vogon
