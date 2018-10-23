@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Projects
 ---
 
 Recently, I have been focusing on conversational agents, sensing health and wellbeing, and circadian computing.
@@ -16,14 +16,14 @@ You can also take a look at some of my previous projects [here](archived.html).
 <div class="row">
     <div class="col-lg-6">
         <a href="ca-engagement.html"><img src="/files/images/dev-1.jpg" ></a>
-        <h3><a href="#">Sustaining Engagement in Health Interventions</a></h3>
+        <h3><a href="ca-engagement.html">Sustaining Engagement in Health Interventions</a></h3>
         <p>Using conversational agents to sustain longitudinal user engagement to eHealth technologies</p>
 
     </div>
 
     <div class="col-lg-6">
         <a href="ca-ptsd.html"><img src="/files/images/dev-2.jpg" ></a>
-        <h3><a href="#">Intervention Delivery for Patients with PTSD</a></h3>
+        <h3><a href="ca-ptsd.html">Intervention Delivery for Patients with PTSD</a></h3>
         <p>Providing family intervention (e.g., couple therapy) to patients using Amazon Alexa</p>
     </div>
 
