@@ -3,36 +3,31 @@ layout: default
 title: Home
 ---
 
-I am an assistant professor in the [College of Information Sciences and Technology (IST)][ist-link]
-at Penn State.
+The Wellbeing & Health Innovation (WHI) lab is affiliated with the
+[College of Information Sciences and Technology][ist-link] at Penn State.
 
-My human-centric research spans the domains of ubiquitous computing, data
-science, and pervasive health technologies. I am particularly interested in
-developing novel assessment and intervention methods to support health
-and well-being. I am also exploring data-driven tools for long-term user
-engagement and adherence, which is crucial for the success of mHealth
-systems.
+In WHI lab, we aim to improve health and wellbeing _at a scale_ using novel
+technologies. Our research leverages mobile phones, ubiquitous sensors, and
+online data to passively model health behavior and contexts.
+We also develop data-driven and just-in-time interventions with a
+focus on sustained engagement.
 
-In recent years, I have designed, developed, and deployed ubiquitous and
-data-driven systems across a diverse set of domains: [sleep][sleep],
-[cognitive performance][alertness], [creativity][creativity], and
-serious mental illness including [bipolar disorder][moodrhythm-project] and
-[schizophrenia][eureka-project]. Take a look at the projects I have been
-[working on](/projects).
-
-
-Feel free to get in touch at _me@saeedabdullah.com_ or [@saeed_siam][twitter].
+Our research spreads across several application domains including
+passive sensing of [sleep and circadian disruption][sleep],
+relapse detection in [bipolar disorder][bd-prediction], and
+using Amazon Alexa for effective [PTSD interventions][alexa-ptsd]. Our work is
+inherently interdisciplinary — we closely collaborate with teams
+from [College of Health and Human Development][hhd] and
+[Hershey Medical Center][hershey-psychiatry].
 
 ---
-I am recruiting Ph.D. students who are excited about health technologies. If you are interested in working with me, see more details [here](./prospective-students.html).
-
-
+We are looking for PhD students to [join our lab!](./prospective-students.html)
 
 [ist-link]: https://ist.psu.edu/
 [clockwise-project]: projects/clockwise.html
-[moodrhythm-project]: projects/mood-rhythm.html
 [eureka-project]: projects/eureka.html
-[alertness]: projects/alertness-performance.html
-[creativity]: projects/creativity.html
 [sleep]: projects/cr-distruption-phone-sensing.html
-[twitter]: https://twitter.com/saeed_siam
+[bd-prediction]: projects/bd-prediction.html
+[alexa-ptsd]: projects/alexa-ptsd.html
+[hhd]: https://hhd.psu.edu/
+[hershey-psychiatry]: https://hmc.pennstatehealth.org/psychiatry
