@@ -51,8 +51,8 @@ us to associate personalized trends and changes in online activities
 with illness states — leading to a computational framework to
 identify early-warning signs in BD.
 
-This project is a collaboration with the [Department of Psychiatry][hmc]
-at Hershey Medical Center.
+This project is a collaboration with
+[Erika Saunders](https://profiles.psu.edu/profiles/display/112378)
+and [Dahlia Mukherjee](https://profiles.psu.edu/profiles/display/158660182).
 
-[hmc]: https://hmc.pennstatehealth.org/psychiatry
 

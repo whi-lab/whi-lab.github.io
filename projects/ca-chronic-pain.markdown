@@ -27,15 +27,19 @@ management. However, ensuring adherence and engagement to MBSR is
 a serious challenge and remains as a key barrier in translating it
 from clinical settings to real-world practice.
 
-In this proposal, we aim to address this compliance and adherence issue by using a
-conversational agent. Specifically, we propose to leverage the
-Amazon Alexa ecosystem to develop an interactive, personalized
-virtual coach for delivering MBSR. Based on prior research, we
-believe that such a virtual coach will engender trust and social
-rapport, resulting in sustained high engagement over a long period
-of time. Furthermore, our proposed approach is highly scalable and
-can improve access to MBSR practices, including for those in rural
-communities.
+In this proposal, we aim to address this compliance and adherence
+issue by using a conversational agent. Specifically, we propose
+to leverage the Amazon Alexa ecosystem to develop an interactive,
+personalized virtual coach for delivering MBSR. Based on prior
+research, we believe that such a virtual coach will engender trust
+and social rapport, resulting in sustained high engagement over a
+long period of time. Furthermore, our proposed approach is highly
+scalable and can improve access to MBSR practices, including for
+those in rural communities.
+
+This project is a collaboration with [Stephanie Lanza][lanza] and
+[Sebrina Doyle][doyle].
+
 
 [prevalence-pain]: https://doi.org/10.1016/j.jpain.2010.07.002
 [iom-prevalence]: https://doi.org/10.3109/15360288.2012.678473

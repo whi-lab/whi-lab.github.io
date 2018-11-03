@@ -38,5 +38,11 @@ CBCT treatment steps. These devices specifically enable
 us to leverage the shared and collaborative aspects of family and home
 environments for interactive, personalized, and timely delivery of CBCT steps.
 
+This project is a collaboration with
+[Linda Collins](https://www.methodology.psu.edu/people/lcollins)
+and [Steffany Fredman](http://hhd.psu.edu/hdfs/directory/Bio.aspx?id=Fredman).
+
+
+
 [how-common]: https://www.ptsd.va.gov/public/PTSD-overview/basics/how-common-is-ptsd.asp
 [national-academy]: http://www.nationalacademies.org/hmd/Reports/2014/Treatment-for-Posttraumatic-Stress-Disorder-in-Military-and-Veteran-Populations-Final-Assessment.aspx
