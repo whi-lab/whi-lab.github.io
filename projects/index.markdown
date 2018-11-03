@@ -3,8 +3,9 @@ layout: page
 title: Projects
 ---
 
-Recently, I have been focusing on conversational agents, sensing health and wellbeing, and circadian computing.
-You can also take a look at some of my previous projects [here](archived.html).
+We are interested in designing, developing, and deploying novel
+technologies for improving health and wellbeing. Our recent projects
+focus on conversational agents, passive sensing, and circadian computing.
 
 <div class="row">
     <div class="col-md-12 text-center">
@@ -17,14 +18,14 @@ You can also take a look at some of my previous projects [here](archived.html).
     <div class="col-lg-6">
         <a href="ca-engagement.html"><img src="/files/images/dev-1.jpg" ></a>
         <h3><a href="ca-engagement.html">Sustaining Engagement in Health Interventions</a></h3>
-        <p>Using conversational agents to sustain longitudinal user engagement to eHealth technologies</p>
+        <p>Using conversational agents to sustain longitudinal user engagement to eHealth technologies.</p>
 
     </div>
 
     <div class="col-lg-6">
         <a href="ca-ptsd.html"><img src="/files/images/dev-2.jpg" ></a>
         <h3><a href="ca-ptsd.html">Intervention Delivery for Patients with PTSD</a></h3>
-        <p>Providing family intervention (e.g., couple therapy) to patients using Amazon Alexa</p>
+        <p>Providing family intervention (e.g., couple therapy) to patients using Amazon Alexa.</p>
     </div>
 
 </div>
@@ -32,8 +33,8 @@ You can also take a look at some of my previous projects [here](archived.html).
 <div class="row">
     <div class="col-lg-6">
         <a href="ca-chronic-pain.html"><img src="/files/images/dev-3.jpg" ></a>
-        <h3><a href="ca-chronic-pain">Chronic Pain Management</a></h3>
-        <p>Real-time mindfulness intervention delivery for patients with chronic pain</p>
+        <h3><a href="ca-chronic-pain">Mindfulness Intervention for Chronic Pain Management</a></h3>
+        <p>A virtual coach for patients with chronic pain with a focus on Mindfulness-Based Stress Reduction (MBSR) practices.</p>
 
     </div>
 
