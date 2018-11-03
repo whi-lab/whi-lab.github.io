@@ -1,37 +1,42 @@
 ---
-title: Intervention Delivery for Patients with PTSD
+title: Alexa for PTSD Intervention Delivery
 layout: page
 ---
 
-There are well-established associations between PTSD and intimate relationship
-problems [13, 14]. A negative or unsupportive interpersonal milieu can impede
-recovery from PTSD, even when patients receive state-of-the-art individual
-therapy for PTSD [15, 16]. Recent studies show that family interventions (e.g.,
-couple therapy) can improve patient outcomes in PTSD. For example, Cognitive-Behavioral
-Conjoint Therapy (CBCT) for PTSD [3] has been shown to significantly decrease
-PTSD symptom severity as well as improving relationship functioning
-[3, 11, 12].
+<div class="row">
+    <div class="col-md-12">
+        <div class="col-xs-offset-1 col-md-10">
+            <img src="/files/images/dev-2.jpg"/>
+        </div>
+    </div>
+</div>
 
-However, effective integration of this modality in routine clinical
-care settings poses some serious logistical challenges. Specifically, it is
-resource intensive and require specialized training, 10–15 visits to mental health
-centers, and long clinical sessions (i.e., over 1 hour). Collectively, these
-issues result in significant barriers to receiving and continuing treatments.
-Indeed, many patients with PTSD remain untreated [4]. Furthermore, there is also
-a shortage of qualified personnel who can provide these treatment steps to the
-patients. In this project, we focus on these scalability and accessibility issues
-for providing PTSD care to patients across society. The key challenge we aim to
-address here is thus: how can we scale up a clinically validated treatment method
-for PTSD so that it can be effectively delivered to patients whenever and wherever
-they need it?
 
-Towards this, we aim to develop smart-home conversational agents using Amazon
-Alexa for the delivery of CBCT treatment steps. Recently, smartphone applications
-have been used to deliver psychoeducation and monitor symptoms. However, smartphone
-is an intimate and personal device and as such, it might not be appropriate for
-family interventions including CBCT. Amazon Alexa, on the other hand, enables
+Post-traumatic stress disorder (PTSD) is a chronic and persistent mental
+health disorder caused by traumatic events including combat experiences, serious
+accidents, and physical or sexual assaults. Approximately 8 million adults in the
+US suffer from PTSD in any given year and
+[7–8% of the US population will have PTSD at some point in their lives][how-common].
+This results in serious public health issues and societal burden.
+For instance, in 2012 the Department of Veterans Affairs (VA)
+spent [$3 billion on PTSD care][national-academy].
+
+There are effective interventions that can help manage PTSD symptoms. For example,
+family interventions like
+[Cognitive-Behavioral Conjoint Therapy (CBCT) for PTSD](https://jamanetwork.com/journals/jama/fullarticle/1346190)
+have been shown to significantly decrease PTSD symptom severity.
+However, effective integration of these interventions poses some serious logistical
+challenges. Specifically, they are often resource intensive and require specialized
+training, multiple visits to health centers, and long clinical sessions. Collectively,
+these issues result in significant barriers to receiving and continuing treatments.
+
+In this project, we aim to address these issues. Our key aim is to scale up a
+clinically validated family intervention for PTSD so that it can be effectively
+delivered to patients whenever and wherever they need it. Towards this, we aim to
+develop smart-home conversational agents using Amazon Alexa for the delivery of
+CBCT treatment steps. These devices specifically enable
 us to leverage the shared and collaborative aspects of family and home
 environments for interactive, personalized, and timely delivery of CBCT steps.
-Such a conversational agent can be deployed into any compatible smart-home devices
-(e.g., Amazon Echo) facilitating wide-scale dissemination of evidence-based
-treatment steps.
+
+[how-common]: https://www.ptsd.va.gov/public/PTSD-overview/basics/how-common-is-ptsd.asp
+[national-academy]: http://www.nationalacademies.org/hmd/Reports/2014/Treatment-for-Posttraumatic-Stress-Disorder-in-Military-and-Veteran-Populations-Final-Assessment.aspx
