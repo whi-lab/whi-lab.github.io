@@ -53,9 +53,9 @@ You can also take a look at some of my previous projects [here](archived.html).
 
 <div class="row">
     <div class="col-lg-6">
-        <a href="#"><img src="/files/images/dev-5.jpg" ></a>
+        <a href="bd-prediction.html"><img src="/files/images/dev-5.jpg" ></a>
         <h3><a href="bd-prediction.html">Predicting Relapse Onset in Bipolar Disorder</a></h3>
-        <p>Leveraging online behavioral data to identify behavioral anomalies and early-warning signs in bipolar disorder</p>
+        <p>Leveraging online behavioral data to identify early-warning signs in bipolar disorder.</p>
 
     </div>
 
