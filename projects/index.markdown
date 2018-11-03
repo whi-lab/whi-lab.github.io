@@ -31,8 +31,8 @@ You can also take a look at some of my previous projects [here](archived.html).
 
 <div class="row">
     <div class="col-lg-6">
-        <a href="ca-pain.html"><img src="/files/images/dev-3.jpg" ></a>
-        <h3><a href="#">Chronic Pain Management</a></h3>
+        <a href="ca-chronic-pain.html"><img src="/files/images/dev-3.jpg" ></a>
+        <h3><a href="ca-chronic-pain">Chronic Pain Management</a></h3>
         <p>Real-time mindfulness intervention delivery for patients with chronic pain</p>
 
     </div>
