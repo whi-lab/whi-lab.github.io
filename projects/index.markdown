@@ -39,7 +39,7 @@ You can also take a look at some of my previous projects [here](archived.html).
 
     <div class="col-lg-6">
         <a href="#"><img src="/files/images/dev-8.jpg" ></a>
-        <h3><a href="interpretable-ca.html">Transparent and interpretable agents</a></h3>
+        <h3><a href="interpretable-ca.html">Transparent & Interpretable Agents</a></h3>
         <p>How can we make smart-speakers transparent and interpretable to users?</p>
     </div>
 </div>
