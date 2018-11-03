@@ -56,7 +56,7 @@ focus on conversational agents, passive sensing, and circadian computing.
     <div class="col-lg-6">
         <a href="bd-prediction.html"><img src="/files/images/dev-5.jpg" ></a>
         <h3><a href="bd-prediction.html">Predicting Relapse Onset in Bipolar Disorder</a></h3>
-        <p>Leveraging online behavioral data to identify early-warning signs in bipolar disorder.</p>
+        <p>A prediction framework that will identify anomalies and early-warning signs in bipolar disorder using continuous streams of online behavioral data. </p>
 
     </div>
 
