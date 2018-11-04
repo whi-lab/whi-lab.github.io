@@ -6,7 +6,7 @@ title: Prospective Students
 We are looking for students interested in pervasive health technologies.
 Our research goals revolve around designing, developing, and deploying
 novel sensing and intervention systems focusing on health and
-well-being. Please take a look at our [recent projects](/projects).
+wellbeing. Please take a look at our [recent projects](/projects).
 _If you are excited about the possibilities of technologies in
 reshaping health care, you should consider joining our lab!_
 
