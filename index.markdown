@@ -17,8 +17,9 @@ passive sensing of [sleep and circadian disruption][sleep],
 relapse detection in [bipolar disorder][bd-prediction], and
 using Amazon Alexa for effective [PTSD interventions][alexa-ptsd]. Our work is
 inherently interdisciplinary — we closely collaborate with teams
-from [College of Health and Human Development][hhd] and
-[Hershey Medical Center][hershey-psychiatry].
+from [College of Health and Human Development][hhd],
+[Hershey Medical Center][hershey-psychiatry], and
+[College of Communications][comm].
 
 ---
 We are looking for PhD students to [join our lab!](./prospective-students.html)
@@ -31,3 +32,4 @@ We are looking for PhD students to [join our lab!](./prospective-students.html)
 [alexa-ptsd]: projects/alexa-ptsd.html
 [hhd]: https://hhd.psu.edu/
 [hershey-psychiatry]: https://hmc.pennstatehealth.org/psychiatry
+[comm]: https://bellisario.psu.edu/
