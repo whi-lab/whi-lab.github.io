@@ -46,3 +46,5 @@ This project is a collaboration with [Stephanie Lanza][lanza] and
 [cdc-jama]: https://jamanetwork.com/journals/jama/fullarticle/2503508
 [acceptance-mbsr]: https://doi.org/10.1080/16506073.2015.1098724
 [mbsr-adult]: https://jamanetwork.com/journals/jama/fullarticle/2504811?linkId=22574735
+[lanza]: https://methodology.psu.edu/people/slanza
+[doyle]: http://prevention.psu.edu/people/doyle-sebrina
