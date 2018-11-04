@@ -1,33 +1,40 @@
 ---
 layout: default
-title:
+title: Prospective Students
 ---
 
-I am looking for Ph.D. applicants interested in pervasive health technologies. My lab’s research goals revolve around designing, developing, and deploying novel sensing and intervention systems focusing on health and well-being.
+We are looking for students interested in pervasive health technologies.
+Our research goals revolve around designing, developing, and deploying
+novel sensing and intervention systems focusing on health and
+well-being. Please take a look at our [recent projects](/projects).
+_If you are excited about the possibilities of technologies in
+reshaping health care, you should consider joining our lab!_
 
-Within this broad remit, there are a number of potential projects:
+If you are an undergraduate or master's student _currently at Penn
+State_ and looking for research experience, please get in touch
+with [Saeed](https://saeedabdullah.com).
 
-* Intelligent Personal Assistance focusing on health
+### Prospective Ph.D. Student ###
 
-* Conversational agents for patients with serious mental illnesses
-
-* Long term engagement and adherence in mHealth system
-
-* Novel sensing for continuous monitoring of sleep and cognitive performance
-
-
-### Skills ###
-
-Given the multidisciplinary nature of these projects, a successful candidate should have:
+Given the multidisciplinary nature of our research projects, an
+ideal Ph.D.  student aiming to join our lab should have:
 
 * Programming skills. Experiences in mobile programming is a plus.
 
-* Statistical and analytical skills. Experience in machine learning and sensor data analysis is a plus.
+* Statistical and analytical skills. Experience in machine learning
+and sensor data analysis is a plus.
 
-* Interest in Human-Computer Interaction and design
+* Prior research experience in Human-Computer Interaction and/or
+Ubiquitous Computing.
 
-* Strong communication skill
+* Strong communication skill.
 
-_But, more than anything else, if you are excited about the possibilities of technologies in reshaping health care, you should consider applying!_
+If you are a prospective Ph.D. student, you can find detailed
+information about applying to IST
+[here](https://ist.psu.edu/application/grad). You might also want
+to checkout the [FAQ](https://ist.psu.edu/education/degree/phd/faq).
 
-You can find detailed information about applying to IST [here](https://ist.psu.edu/application/grad). You might also want to checkout the [FAQ](https://ist.psu.edu/education/degree/phd/faq).
+Feel free to [get in touch with us](/members) if you have any
+questions about our projects.
+
+
