@@ -7,10 +7,10 @@ The Wellbeing & Health Innovation (WHI) lab is affiliated with the
 [College of Information Sciences and Technology][ist-link] at Penn
 State.
 
-In the WHI lab, we aim to improve health and wellbeing _at a scale_
-using novel HCI and UbiComp technologies. Our research leverages
+In the WHI lab, we develop novel HCI and UbiComp technologies to
+improve health and wellbeing _at a scale_. Our research leverages
 mobile phones, sensors, and online data to passively model health
-behavior and contexts. We also develop data-driven and just-in-time
+behaviors and contexts. We also design data-driven and just-in-time
 interventions with a focus on sustained engagement.
 
 Our research spreads across several application domains including
