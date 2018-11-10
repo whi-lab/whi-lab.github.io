@@ -28,7 +28,7 @@ We are looking for students to [join our lab](./prospective-students.html)!
 [clockwise-project]: projects/clockwise.html
 [sleep]: projects/cr-distruption-phone-sensing.html
 [bd-prediction]: projects/bd-prediction.html
-[alexa-ptsd]: projects/alexa-ptsd.html
+[alexa-ptsd]: projects/ca-ptsd.html
 [hhd]: https://hhd.psu.edu/
 [hershey-psychiatry]: https://hmc.pennstatehealth.org/psychiatry
 [comm]: https://bellisario.psu.edu/
