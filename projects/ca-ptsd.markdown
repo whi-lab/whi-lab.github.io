@@ -6,7 +6,7 @@ layout: page
 <div class="row">
     <div class="col-md-12">
         <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/dev-2.jpg"/>
+            <img src="/files/images/projects/ca-alexa-ptsd.jpg"/>
         </div>
     </div>
 </div>

@@ -7,7 +7,7 @@ layout: page
 
     <div class="col-md-12">
         <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/social-media-image.jpg"/>
+            <img src="/files/images/projects/social-media-image.jpg"/>
         </div>
     </div>
 </div>

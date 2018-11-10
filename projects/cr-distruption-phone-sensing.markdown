@@ -6,7 +6,7 @@ layout: page
 <div class="row">
     <div class="col-md-12">
         <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/passive-sensing.jpg"/>
+            <img src="/files/images/projects/passive-sensing.jpg"/>
         </div>
     </div>
 </div>
