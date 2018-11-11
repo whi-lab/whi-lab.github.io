@@ -8,7 +8,7 @@ The Wellbeing & Health Innovation (WHI) lab is affiliated with the
 State.
 
 In the WHI lab, we develop novel HCI and UbiComp technologies to
-improve health and wellbeing _at a scale_. Our research leverages
+improve health and wellbeing at scale. Our research leverages
 mobile phones, sensors, and online data to passively model health
 behaviors and contexts. We also design data-driven and just-in-time
 interventions with a focus on sustained engagement.
