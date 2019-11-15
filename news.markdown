@@ -3,7 +3,7 @@ title: News
 layout: page
 ---
 
-* _November, 2019_: We [presented](https://saeedabdullah.com/files/pubs/dhh-smartspeaker-cscw-2019.pdf) [three](https://saeedabdullah.com/files/pubs/light-smartspeaker-cscw-2019.pdf) [posters](https://saeedabdullah.com/files/pubs/backchanneling-alexa-cscw-2019.pdf) in CSCW focusing on conversational agents and smart speakers.
+* _November, 2019_: We [presented](https://saeedabdullah.com/files/pubs/dhh-smartspeaker-cscw-2019.pdf) [three](https://saeedabdullah.com/files/pubs/light-smartspeaker-cscw-2019.pdf) [posters](https://saeedabdullah.com/files/pubs/backchanneling-alexa-cscw-2019.pdf) in [CSCW](https://cscw.acm.org/2019/) focusing on conversational agents and smart speakers.
 
 * _October, 2019_: We are collaborating with [Kathryn Schmitz](https://cancer.psu.edu/researchers/individual/-/researcher/5B6500F63D5438DBE0540010E056499A/kathryn-schmitz-phd-mph-facsm) to develop a care platform using smart speakers for patients with metastatic breast cancer. This project is supported by a grant from the [American Institute for Cancer Research](https://www.aicr.org/).
 
