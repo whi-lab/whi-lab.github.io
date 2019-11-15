@@ -2,6 +2,11 @@
 title: News
 layout: page
 ---
+
+* _October, 2019_: We are collaborating with [Kathryn Schmitz](https://cancer.psu.edu/researchers/individual/-/researcher/5B6500F63D5438DBE0540010E056499A/kathryn-schmitz-phd-mph-facsm) to develop a care platform using smart speakers for patients with metastatic breast cancer. This project is supported by a grant from the [American Institute for Cancer Research](https://www.aicr.org/).
+
+* _July, 2019_: We have received an [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850287) to develop conversational agents for patients with PTSD.
+
 * _April, 2019_: [Johnna](https://johnnablair.weebly.com/) attended the Computing Research Association Grad Cohort Workshop for Women ([CRA-W 2019](https://cra.org/cra-w/events/grad-cohort-2019/)).
 
 * _March, 2019_: [Sahiti](https://sahitikunchay.github.io/) presented her work on [light behaviors in smart-speakers](/files/2019/poster-sahiti-grad-exhibition-2019-03-22.pdf) at [Penn State Graduate Exhibition](http://gradschool.psu.edu/exhibition/).
