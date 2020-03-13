@@ -3,6 +3,17 @@ title: News
 layout: page
 ---
 
+* _March, 2020_: Our [paper](https://saeedabdullah.com/files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf) has received an Honourable Mention Award at CHI 2020!
+
+* _March, 2020_: [Sahiti](https://sahitikunchay.github.io/) attended the [2020 CRA-WP URMD Grad Cohort Workshop](https://cra.org/cra-wp/grad-cohort-for-urmd/).
+
+* _March, 2020_: [Shan](https://shanwang61.github.io/) has received Distinguished Master’s Thesis Award! Her thesis focuses on designing digital interventions to reduce prolonged sedentary behaviors.
+
+2019
+----
+
+* _December, 2019_: We have [two](https://saeedabdullah.com/files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf) [papers](https://saeedabdullah.com/files/pubs/public-speaking-smartspeaker-CHI-2020.pdf) accepted at [CHI 2020](https://chi2020.acm.org/) focusing on smart speakers!
+
 * _November, 2019_: We [presented](https://saeedabdullah.com/files/pubs/dhh-smartspeaker-cscw-2019.pdf) [three](https://saeedabdullah.com/files/pubs/light-smartspeaker-cscw-2019.pdf) [posters](https://saeedabdullah.com/files/pubs/backchanneling-alexa-cscw-2019.pdf) in [CSCW](https://cscw.acm.org/2019/) focusing on conversational agents and smart speakers.
 
 * _October, 2019_: We are collaborating with [Kathryn Schmitz](https://cancer.psu.edu/researchers/individual/-/researcher/5B6500F63D5438DBE0540010E056499A/kathryn-schmitz-phd-mph-facsm) to develop a care platform using smart speakers for patients with metastatic breast cancer. This project is supported by a grant from the [American Institute for Cancer Research](https://www.aicr.org/).
