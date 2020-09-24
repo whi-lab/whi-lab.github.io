@@ -17,4 +17,7 @@ Gemfile.lock
 #Ignore .DS_Store
 .DS_Store
 
-
+# VSCode
+.vscode/*
+*.code-workspace
+.history/
