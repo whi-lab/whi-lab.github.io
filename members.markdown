@@ -55,13 +55,10 @@ title: Members
 
 <div class="row">
     <div class="col-lg-4 col-xs-12 text-center">
-<<<<<<< HEAD
-=======
         <a href="http://nasimmotalebi.wixsite.com/nasimmotalebi"><img class="img-circle img-center" src="/files/images/nasim-motalebi.jpg"></a>
            <p> <a href="http://nasimmotalebi.wixsite.com/nasimmotalebi">Nasim Motalebi</a><br/>Master's Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
->>>>>>> ea3c33e57436c983b53312c7bda82c1db2abeef6
         <a href="https://shanwang61.github.io/"><img class="img-circle img-center" src="/files/images/shan-wang.jpg"></a>
            <p> <a href="https://shanwang61.github.io/">Shan Wang</a><br/>Master's Student</p>
     </div>
