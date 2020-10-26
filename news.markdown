@@ -3,6 +3,10 @@ title: News
 layout: page
 ---
 
+* _September, 2020_: [Sahiti](https://sahitikunchay.github.io/) attended the [5th International Workshop on Mental Health And Well-Being: Sensing And Intervention](https://ubicomp-mental-health.github.io) at [UbiComp 2020](https://ubicomp.org/ubicomp2020).
+
+* _August, 2020_: Welcome to 3 new members: [Sanjana](https://sm7gc.github.io), [Ling](https://lingqiu3.github.io/portfolio), and [Hee Jeong](https://heejeong-han.github.io)!!
+
 * _March, 2020_: Our [paper](https://saeedabdullah.com/files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf) has received an Honourable Mention Award at CHI 2020!
 
 * _March, 2020_: [Sahiti](https://sahitikunchay.github.io/) attended the [2020 CRA-WP URMD Grad Cohort Workshop](https://cra.org/cra-wp/grad-cohort-for-urmd/).
