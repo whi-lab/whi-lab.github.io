@@ -3,6 +3,12 @@ title: News
 layout: page
 ---
 
+
+* _January, 2021_: Our project on smart assistant accessibility was featured in [Penn State News](https://news.psu.edu/story/643330/2021/01/07/research/study-suggests-smart-assistant-design-improvements-deaf-users), [Science Blog](https://scienceblog.com/520393/study-suggests-smart-assistant-design-improvements-for-deaf-users/), and [Hearing Review](https://www.hearingreview.com/inside-hearing/research/smart-assistant).
+
+2020
+----
+
 * _September, 2020_: [Sahiti](https://sahitikunchay.github.io/) attended the [5th International Workshop on Mental Health And Well-Being: Sensing And Intervention](https://ubicomp-mental-health.github.io) at [UbiComp 2020](https://ubicomp.org/ubicomp2020).
 
 * _August, 2020_: Welcome to 3 new members: [Sanjana](https://sm7gc.github.io), [Ling](https://lingqiu3.github.io), and [Hee Jeong](https://heejeong-han.github.io)!!
