@@ -40,8 +40,8 @@ title: Members
            <p> <a href="https://sm7gc.github.io/" target="_blank">Sanjana Mendu</a><br/>PhD Student</p>
     </div>
     <div class="col-lg-4 text-center">
-        <a href="https://lingqiu3.github.io/portfolio/" target="_blank"><img class="img-circle img-center" src="/files/images/ling-qiu.jpg"></a>
-           <p> <a href="https://lingqiu3.github.io/portfolio/" target="_blank">Ling Qiu</a><br/>PhD Student</p>
+        <a href="https://lingqiu3.github.io" target="_blank"><img class="img-circle img-center" src="/files/images/ling-qiu.jpg"></a>
+           <p> <a href="https://lingqiu3.github.io" target="_blank">Ling Qiu</a><br/>PhD Student</p>
     </div>
 </div>
 
