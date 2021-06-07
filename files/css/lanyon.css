@@ -444,6 +444,18 @@ a.pagination-item:hover {
 }
 
 
+/* WHI Lab */
+.theme-whi .sidebar,
+.theme-whi .sidebar-toggle:active,
+.theme-whi #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #00367a;
+}
+.theme-whi .container a,
+.theme-whi .sidebar-toggle,
+.theme-whi .related-posts li a:hover {
+  color: #00367a;
+}
+
 /*
  * Themes
  *
