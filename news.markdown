@@ -3,13 +3,12 @@ title: News
 layout: page
 ---
 
-Upcoming
-----
-
-* _June, 2021_: [Johnna](https://johnnablair.weebly.com) and [Saeed](https://saeedabdullah.com) will be speaking at the [CHHA (Canadian Hard of Hearing Association) National Educational Conference](https://www.chhaconference.ca/agenda).
-
 2021
 ----
+
+* _August, 2021_: Welcome to 3 new members: [Suhas](), [Jeff](https://brozena.net/), and [Linh]()!!
+
+* _June, 2021_: [Johnna](https://johnnablair.weebly.com) and [Saeed](https://saeedabdullah.com) will be speaking at the [CHHA (Canadian Hard of Hearing Association) National Educational Conference](https://www.chhaconference.ca/agenda).
 
 * _April, 2021_: Our project using smart speakers to provide personalized care for women with metastatic breast cancer was featured in [Penn State News](https://news.psu.edu/story/656467/2021/04/27/research/amazon-alexa-skill-offers-supportive-care-breast-cancer-patients).
 
