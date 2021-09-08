@@ -51,20 +51,29 @@ title: Members
     </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-lg-4 col-xs-12 text-center">
-        <a ><img class="img-circle img-center" src="https://fortbendseniors.org/wp-content/uploads/2019/01/blank-white-square-thumbnail.jpg"></a>
-        <p> <a >Suhas Bettapalli Nagaraj</a><br/>PhD Student</p>
+        <a href="https://sites.psu.edu/suhas/" target="_blank"><img class="img-circle img-center" src="/files/images/suhas-bn.jpg"></a>
+        <p> <a href="https://sites.psu.edu/suhas/" target="_blank">Suhas Bettapalli Nagaraj</a><br/>PhD Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
         <a href="https://brozena.net/" target="_blank"><img class="img-circle img-center" src="/files/images/jeff-brozena.jpg"></a>
            <p> <a href="https://brozena.net/" target="_blank">Jeff Brozena</a><br/>PhD Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
-        <a ><img class="img-circle img-center" src="https://fortbendseniors.org/wp-content/uploads/2019/01/blank-white-square-thumbnail.jpg"></a>
-        <p> <a >Linh Ly</a><br/>PhD Student</p>
+        <a ><img class="img-circle img-center" src="/files/images/placeholder.png"></a>
+        <p> <a >Sarah Tran</a><br/>PhD Student</p>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-lg-4 col-xs-12 text-center"></div>
+    <div class="col-lg-4 col-xs-12 text-center">
+        <a ><img class="img-circle img-center" src="/files/images/placeholder.png"></a>
+        <p> <a >Devanshi Agnihotri</a><br/>MS Student</p>
+    </div>
+    <div class="col-lg-4 col-xs-12 text-center"></div>
+</div> -->
 
 <div class="row">
     <div class="col-md-12 text-center">
@@ -87,5 +96,4 @@ title: Members
         <a href="https://ryanjaeger.github.io/index"><img class="img-circle img-center" src="/files/images/ryan-jaeger.jpg"></a>
            <p> <a href="https://ryanjaeger.github.io/index">Ryan Jaeger</a><br/>Undergraduate Student</p>
     </div>
-
 </div>

@@ -450,16 +450,22 @@ a.pagination-item:hover {
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
 
+/* 
+ * http://visualidentity.psu.edu/standard/color-mark-specifications/index.html 
+ * PSU Light Blue: #96bee6 
+ * PSU Dark Blue: #1e407c
+ */
+
 /* WHI Lab */
 .theme-whi .sidebar,
 .theme-whi .sidebar-toggle:active,
 .theme-whi #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #003087;
+  background-color: #1e407c; 
 }
 .theme-whi .container a,
 .theme-whi .sidebar-toggle,
 .theme-whi .related-posts li a:hover {
-  color: #003087;
+  color: #1e407c;
 }
 
 /* Red */
