@@ -450,7 +450,14 @@ a.pagination-item:hover {
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
 
-/* WHI Lab */
+/* 
+* WHI Lab 
+* 
+* Colors taken from official Penn State Visual Identity
+* http://visualidentity.psu.edu/standard/color-mark-specifications/index.html 
+*/
+
+
 .theme-whi .sidebar,
 .theme-whi .sidebar-toggle:active,
 .theme-whi #sidebar-checkbox:checked ~ .sidebar-toggle {
@@ -459,7 +466,7 @@ a.pagination-item:hover {
 .theme-whi .container a,
 .theme-whi .sidebar-toggle,
 .theme-whi .related-posts li a:hover {
-  color: #6cace4;
+  color: #6cace4; /* PSU Light Blue */
 }
 
 /* Red */
