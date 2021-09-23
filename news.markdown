@@ -3,15 +3,14 @@ title: News
 layout: page
 ---
 
-Upcoming
-----
-
-* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) are co-organizing the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io/) at [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/).
-
-* _September, 2021_: [Johnna](https://johnnablair.weebly.com) will be presenting her work on --- at the [UbiComp](https://www.ubicomp.org/ubicomp2021/) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4/)!
-
 2021
 ----
+
+* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) was selected to be a part of the 2021 [Google CS Research Mentorship Program](https://research.google/outreach/csrmp/)
+
+* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io/) at [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/).
+
+* _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her work on --- at the [UbiComp](https://www.ubicomp.org/ubicomp2021/) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4/)!
 
 * _August, 2021_: We have [two]() [papers]() accepted in the [UbiComp/ISCWC Adjunct Proceedings]().
 
