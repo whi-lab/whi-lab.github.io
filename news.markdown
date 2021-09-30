@@ -3,13 +3,20 @@ title: News
 layout: page
 ---
 
-Upcoming
-----
-
-* _June, 2021_: [Johnna](https://johnnablair.weebly.com) and [Saeed](https://saeedabdullah.com) will be speaking at the [CHHA (Canadian Hard of Hearing Association) National Educational Conference](https://www.chhaconference.ca/agenda).
-
 2021
 ----
+
+* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) was selected to be a part of the 2021 [Google CS Research Mentorship Program](https://research.google/outreach/csrmp/)
+
+* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io/) at [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/).
+
+* _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her work on --- at the [UbiComp](https://www.ubicomp.org/ubicomp2021/) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4/)!
+
+* _August, 2021_: We have [two]() [papers]() accepted in the [UbiComp/ISCWC Adjunct Proceedings]().
+
+* _August, 2021_: Welcome to 3 new members: [Suhas](https://sites.psu.edu/suhas), [Jeff](https://brozena.net), and [Sarah]()!!
+
+* _June, 2021_: [Johnna](https://johnnablair.weebly.com) and [Saeed](https://saeedabdullah.com) gave a keynote speech at the [CHHA (Canadian Hard of Hearing Association) National Educational Conference](https://www.chhaconference.ca/agenda).
 
 * _April, 2021_: Our project using smart speakers to provide personalized care for women with metastatic breast cancer was featured in [Penn State News](https://news.psu.edu/story/656467/2021/04/27/research/amazon-alexa-skill-offers-supportive-care-breast-cancer-patients).
 
@@ -32,7 +39,7 @@ Upcoming
 
 * _September, 2020_: [Sahiti](https://sahitikunchay.github.io) attended the [5th International Workshop on Mental Health And Well-Being: Sensing And Intervention](https://ubicomp-mental-health.github.io) at [UbiComp 2020](https://ubicomp.org/ubicomp2020).
 
-* _August, 2020_: Welcome to 3 new members: [Sanjana](https://sm7gc.github.io), [Ling](https://lingqiu3.github.io), and [Hee Jeong](https://heejeong-han.github.io)!!
+* _August, 2020_: Welcome to 3 new members: [Sanjana](https://sanjanamendu.com), [Ling](https://lingqiu3.github.io), and [Hee Jeong](https://heejeong-han.github.io)!!
 
 * _March, 2020_: Our [paper](https://saeedabdullah.com/files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf) has received an Honourable Mention Award at CHI 2020!
 
