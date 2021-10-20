@@ -61,16 +61,16 @@ title: Members
            <p> <a href="https://brozena.net/" target="_blank">Jeff Brozena</a><br/>PhD Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
-        <a ><img class="img-circle img-center" src="/files/images/placeholder.png"></a>
-        <p> <a >Sarah Tran</a><br/>PhD Student</p>
+        <a ><img class="img-circle img-center" src="/files/images/sarah-tran.png"></a>
+        <p> <a href="https://sarah-tran.weebly.com" target="_blank">Sarah Tran</a><br/>PhD Student</p>
     </div>
 </div>
 
 <div class="row">
     <div class="col-lg-4 col-xs-12 text-center"></div>
     <div class="col-lg-4 col-xs-12 text-center">
-        <a ><img class="img-circle img-center" src="/files/images/placeholder.png"></a>
-        <p> <a >Devanshi Agnihotri</a><br/>MS Student</p>
+        <a ><img class="img-circle img-center" src="/files/images/devanshi-agnihotri.jpg"></a>
+        <p> <a href="https://www.linkedin.com/in/devanshi-agnihotri-91241a151" target="_blank">Devanshi Agnihotri</a><br/>MS Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center"></div>
 </div>
@@ -85,15 +85,15 @@ title: Members
 
 <div class="row">
     <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://nasimmotalebi.wixsite.com/nasimmotalebi"><img class="img-circle img-center" src="/files/images/nasim-motalebi.jpg"></a>
+        <a href="https://nasimmotalebi.wixsite.com/nasimmotalebi" target="_blank"><img class="img-circle img-center" src="/files/images/nasim-motalebi.jpg"></a>
            <p> <a href="https://nasimmotalebi.wixsite.com/nasimmotalebi">Nasim Motalebi</a><br/>Master's Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://shanwang61.github.io/"><img class="img-circle img-center" src="/files/images/shan-wang.jpg"></a>
+        <a href="https://shanwang61.github.io/" target="_blank"><img class="img-circle img-center" src="/files/images/shan-wang.jpg"></a>
            <p> <a href="https://shanwang61.github.io/">Shan Wang</a><br/>Master's Student</p>
     </div>
     <div class="col-lg-4 text-center">
-        <a href="https://ryanjaeger.github.io/index"><img class="img-circle img-center" src="/files/images/ryan-jaeger.jpg"></a>
+        <a href="https://ryanjaeger.github.io/index" target="_blank"><img class="img-circle img-center" src="/files/images/ryan-jaeger.jpg"></a>
            <p> <a href="https://ryanjaeger.github.io/index">Ryan Jaeger</a><br/>Undergraduate Student</p>
     </div>
 </div>
