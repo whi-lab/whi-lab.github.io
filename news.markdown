@@ -12,7 +12,7 @@ layout: page
 
 * _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her work on --- at the [UbiComp](https://www.ubicomp.org/ubicomp2021/) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4/)!
 
-* _August, 2021_: We have [two]() [papers]() accepted in the [UbiComp/ISCWC Adjunct Proceedings]().
+* _August, 2021_: We have [two](https://dl.acm.org/doi/10.1145/3460418.3479332) [papers](https://dl.acm.org/doi/10.1145/3460418.3479336) accepted in the [UbiComp/ISCWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
 
 * _August, 2021_: Welcome to 3 new members: [Suhas](https://sites.psu.edu/suhas), [Jeff](https://brozena.net), and [Sarah]()!!
 
