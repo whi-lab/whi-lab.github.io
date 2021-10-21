@@ -10,7 +10,7 @@ layout: page
 
 * _September, 2021_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io/) at [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/).
 
-* _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her work on --- at the [UbiComp](https://www.ubicomp.org/ubicomp2021/) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4/)!
+* _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her proposed dissertation work on understanding the needs of users for an online data-driven intervention for bipolar disorder at the [UbiComp Doctoral Colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4/)!
 
 * _August, 2021_: We have [two](https://dl.acm.org/doi/10.1145/3460418.3479332) [papers](https://dl.acm.org/doi/10.1145/3460418.3479336) accepted in the [UbiComp/ISCWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
 
