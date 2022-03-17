@@ -3,6 +3,15 @@ title: News
 layout: page
 ---
 
+2022
+----
+
+* _February, 2022_: The WHI Lab's [https://nittanyai.psu.edu/](Nittany AI) team has advanced to the second phase of the [https://nittanyai.psu.edu/alliance-programs/nittany-ai-challenge/](Nittany AI Challenge). 
+
+* _February, 2022_: [Sahiti](https://sahitikunchay.github.io) is attending the 2022 [https://cra.org/cra-wp/grad-cohort-ideals/](CRA-WP Grad Cohort Workshop for IDEALS). 
+
+* _February, 2022_: [Sahiti](https://sahitikunchay.github.io) is joining Google this summer as a research intern on the FitBit Research Team, where she will be working on understanding individuals' menstrual health journeys through biometric signals."
+
 2021
 ----
 
