@@ -6,11 +6,11 @@ layout: page
 2022
 ----
 
-* _February, 2022_: The WHI Lab's [https://nittanyai.psu.edu/](Nittany AI) team has advanced to the second phase of the [https://nittanyai.psu.edu/alliance-programs/nittany-ai-challenge/](Nittany AI Challenge). 
+* _March, 2022_: [Sahiti](https://sahitikunchay.github.io) is attending the 2022 [CRA-WP Grad Cohort Workshop for IDEALS](https://cra.org/cra-wp/grad-cohort-ideals/).
 
-* _February, 2022_: [Sahiti](https://sahitikunchay.github.io) is attending the 2022 [https://cra.org/cra-wp/grad-cohort-ideals/](CRA-WP Grad Cohort Workshop for IDEALS). 
+* _February, 2022_: The WHI Lab's [Nittany AI](https://nittanyai.psu.edu/) team has advanced to the second phase of the [Nittany AI Challenge](https://nittanyai.psu.edu/alliance-programs/nittany-ai-challenge/).
 
-* _February, 2022_: [Sahiti](https://sahitikunchay.github.io) is joining Google this summer as a research intern on the FitBit Research Team, where she will be working on understanding individuals' menstrual health journeys through biometric signals."
+* _February, 2022_: [Sahiti](https://sahitikunchay.github.io) is joining Google this summer as a research intern with the FitBit Research Team, where she will be working on understanding individuals' menstrual health journeys through biometric signals.
 
 2021
 ----
@@ -19,9 +19,9 @@ layout: page
 
 * _September, 2021_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io/) at [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/).
 
-* _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her work on --- at the [UbiComp](https://www.ubicomp.org/ubicomp2021/) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4/)!
+* _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her work at the [UbiComp](https://www.ubicomp.org/ubicomp2021/) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4/)!
 
-* _August, 2021_: We have [two]() [papers]() accepted in the [UbiComp/ISCWC Adjunct Proceedings]().
+* _August, 2021_: We have [two](https://doi.org/10.1145/3460418.3479332) [papers](https://doi.org/10.1145/3460418.3479336) accepted in the [UbiComp/ISCWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
 
 * _August, 2021_: Welcome to 3 new members: [Suhas](https://sites.psu.edu/suhas), [Jeff](https://brozena.net), and [Sarah]()!!
 
