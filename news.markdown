@@ -6,11 +6,19 @@ layout: page
 2022
 ----
 
+* _April, 2022_: We have received the [SSRI Large Pilot Award](https://ssri.psu.edu/funding/ssri-pilot-award) to support financial wellbeing of individuals with bipolar disorder.
+
 * _March, 2022_: [Sahiti](https://sahitikunchay.github.io) is attending the 2022 [CRA-WP Grad Cohort Workshop for IDEALS](https://cra.org/cra-wp/grad-cohort-ideals/).
 
 * _February, 2022_: The WHI Lab's [Nittany AI](https://nittanyai.psu.edu/) team has advanced to the second phase of the [Nittany AI Challenge](https://nittanyai.psu.edu/alliance-programs/nittany-ai-challenge/).
 
 * _February, 2022_: [Sahiti](https://sahitikunchay.github.io) is joining Google this summer as a research intern with the FitBit Research Team, where she will be working on understanding individuals' menstrual health journeys through biometric signals.
+
+* _January, 2022_: Our paper on privacy sensitive speech analysis using federated learning to assess depression has been accepted in [ICASSP](https://2022.ieeeicassp.org/).
+
+* _January, 2022_: Our paper on the use of Alexa as an active listener and its implication for mental health support has been accepted in [CSCW](https://cscw.acm.org/2022/).
+
+
 
 2021
 ----
