@@ -3,6 +3,27 @@ title: News
 layout: page
 ---
 
+2022
+----
+
+* _April, 2022_: We have received the [SSRI Large Pilot Award](https://ssri.psu.edu/funding/ssri-pilot-award) to support financial wellbeing of individuals with bipolar disorder.
+
+* _March, 2022_: [Hee Jeong](https://heejeong-han.github.io), [Suhas](https://sites.psu.edu/suhas), and [Ling](https://lingqiu3.github.io) participated in the [W3PHIAI-22 Health Intelligence Hackallenge](https://aaai.org/Conferences/AAAI-22/ws22workshops/#ws20) and had their paper accepted at Springer Nature. Hee Jeong also presented our work at the [workshop](https://aaai.org/Conferences/AAAI-22/ws22workshops/#ws20) co-located with [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+
+* _March, 2022_: The WHI Lab's [Nittany AI](https://nittanyai.psu.edu/) team has advanced to the third phase of the [Nittany AI Challenge](https://nittanyai.psu.edu/alliance-programs/nittany-ai-challenge/).
+
+* _March, 2022_: [Sahiti](https://sahitikunchay.github.io) is attending the 2022 [CRA-WP Grad Cohort Workshop for IDEALS](https://cra.org/cra-wp/grad-cohort-ideals/).
+
+* _February, 2022_: The WHI Lab's [Nittany AI](https://nittanyai.psu.edu/) team has advanced to the second phase of the [Nittany AI Challenge](https://nittanyai.psu.edu/alliance-programs/nittany-ai-challenge/).
+
+* _February, 2022_: [Sahiti](https://sahitikunchay.github.io) is joining Google this summer as a research intern with the FitBit Research Team, where she will be working on understanding individuals' menstrual health journeys through biometric signals.
+
+* _January, 2022_: Our paper on privacy sensitive speech analysis using federated learning to assess depression has been accepted in [ICASSP](https://2022.ieeeicassp.org/).
+
+* _January, 2022_: Our paper on the use of Alexa as an active listener and its implication for mental health support has been accepted in [CSCW](https://cscw.acm.org/2022/).
+
+
+
 2021
 ----
 
@@ -10,9 +31,9 @@ layout: page
 
 * _September, 2021_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io/) at [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/).
 
-* _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her proposed dissertation work on developing an online data-driven intervention for bipolar disorder at the [UbiComp Doctoral Colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4/)!
+* _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her work at the [UbiComp](https://www.ubicomp.org/ubicomp2021/) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4/)!
 
-* _August, 2021_: We have [two](https://dl.acm.org/doi/10.1145/3460418.3479332) [papers](https://dl.acm.org/doi/10.1145/3460418.3479336) accepted in the [UbiComp/ISCWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
+* _August, 2021_: We have [two](https://doi.org/10.1145/3460418.3479332) [papers](https://doi.org/10.1145/3460418.3479336) accepted in the [UbiComp/ISCWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
 
 * _August, 2021_: Welcome to 3 new members: [Suhas](https://sites.psu.edu/suhas), [Jeff](https://brozena.net), and [Sarah]()!!
 
