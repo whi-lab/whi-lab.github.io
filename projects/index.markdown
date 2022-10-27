@@ -66,7 +66,11 @@ focus on conversational agents, passive sensing, and circadian computing.
         <p>What does your phone and social media usage tell about you? We use these patterns to  identify sleep behavior and circadian disruptions including social jet lag.</p>
     </div>
 
-
+    <div class="col-lg-6">
+      <a href="finhealth.html"><img src="/files/images/projects/finhealth.jpg"></a>
+      <h3><a href="finhealth.html">Supporting Financial Wellbeing in Bipolar Disorder</a></h3>
+      <p>Using open banking technologies to support financial wellbeing for individuals living with serious mental illnesses.</p>
+    </div>
 </div>
 
 
