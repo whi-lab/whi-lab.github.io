@@ -35,7 +35,13 @@ If you are interested in some of our past projects, take a look <a href="past.ht
     </div>
 </div>
 
-<div class="row">
+<div class="row">    
+    <div class="col-lg-6">
+      <a href="finhealth.html"><img src="/files/images/projects/finhealth.jpg" height="192.65px"></a>
+      <!-- https://www.self.inc/info/img/post/mental-health-spending/mental-health-spending-header.jpg -->
+      <h3><a href="finhealth.html">Supporting Financial Wellbeing in Bipolar Disorder</a></h3>
+      <p>Using open banking technologies to support financial wellbeing for individuals living with serious mental illnesses.</p>
+    </div>
     <div class="col-lg-6">
         <a href="bd-prediction.html"><img src="/files/images/projects/bd-online-behavior.jpg" ></a>
         <!-- https://thenounproject.com/photo/two-people-discussing-statistics-on-business-in-an-office-bxMXZ0/ -->
