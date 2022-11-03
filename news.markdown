@@ -12,7 +12,7 @@ layout: page
 
 <!-- * _XXX_, 2022_: Hackallenge  paper acceptance (wait for DOI) -->
   
-* _October, 2022_: [Hee Jeong](https://heejeong-han.github.io) presented our work on [ACOUSTICS (AutomatiC classificatiOn of sUbjectS with demenTIa and healthy Controls using text transcriptions and Speech data)](files/posters/hackallenge-icds-symposium-2022-10-12.pdf) at the [ICDS Symposium](https://www.icds.psu.edu/news-events/icds-symposium/fall-2022-icds-symposium).
+* _October, 2022_: [Hee Jeong](https://heejeong-han.github.io) presented our work on [dementia diagnosis using text and speech data](files/posters/hackallenge-icds-symposium-2022-10-12.pdf) at the [ICDS Symposium](https://www.icds.psu.edu/news-events/icds-symposium/fall-2022-icds-symposium).
   
 * _September, 2022_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io) at [UbiComp 2022](https://www.ubicomp.org/ubicomp2022).
   
