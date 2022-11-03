@@ -26,12 +26,12 @@ title: Members
 
 <div class="row">
     <div class="col-lg-4 text-center">
-        <a href="https://sahitikunchay.github.io" target="_blank"><img class="img-circle img-center" src="/files/images/sahiti-kunchay.jpg"></a>
-           <p> <a href="https://sahitikunchay.github.io" target="_blank">Sahiti Kunchay</a><br/>PhD Student</p>
+        <a href="https://sahitikunchay.github.io/" target="_blank"><img class="img-circle img-center" src="/files/images/sahiti-kunchay.jpg"></a>
+           <p> <a href="https://sahitikunchay.github.io/" target="_blank">Sahiti Kunchay</a><br/>PhD Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://heejeong-han.github.io" target="_blank"><img class="img-circle img-center text-center" src="/files/images/heejeong-han.jpg"></a>
-           <p> <a href="https://heejeong-han.github.io" target="_blank">Hee Jeong Han</a><br/>PhD Student</p>
+        <a href="https://heejeong-han.github.io/" target="_blank"><img class="img-circle img-center text-center" src="/files/images/heejeong-han.jpg"></a>
+           <p> <a href="https://heejeong-han.github.io/" target="_blank">Hee Jeong Han</a><br/>PhD Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
         <a href="https://sanjanamendu.com/" target="_blank"><img class="img-circle img-center" src="/files/images/sanjana-mendu.jpg"></a>

@@ -443,25 +443,31 @@ a.pagination-item:hover {
           transform: translateX(-14rem);
 }
 
-
-/* WHI Lab */
-.theme-whi .sidebar,
-.theme-whi .sidebar-toggle:active,
-.theme-whi #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #00367a;
-}
-.theme-whi .container a,
-.theme-whi .sidebar-toggle,
-.theme-whi .related-posts li a:hover {
-  color: #00367a;
-}
-
 /*
  * Themes
  *
  * Apply custom color schemes by adding the appropriate class to the `body`.
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
+
+/* 
+* WHI Lab 
+* 
+* Colors taken from official Penn State Visual Identity
+* https://brand.psu.edu/design-toolkit/design-essentials
+*/
+
+
+.theme-whi .sidebar,
+.theme-whi .sidebar-toggle:active,
+.theme-whi #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #009cde; /* Pennsylvania Sky */
+}
+.theme-whi .container a,
+.theme-whi .sidebar-toggle,
+.theme-whi .related-posts li a:hover {
+  color: #009cde; /* Pennsylvania Sky */
+}
 
 /* Red */
 .theme-base-08 .sidebar,
