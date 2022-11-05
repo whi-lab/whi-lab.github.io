@@ -17,9 +17,9 @@ If you are interested in some of our past projects, take a look <a href="past.ht
 
 <div class="row">
     <div class="col-lg-6">
-        <a href="ca-ptsd.html"><img src="/files/images/projects/ca-alexa-ptsd.jpg" ></a>
-        <h3><a href="ca-ptsd.html">Intervention Delivery for Patients with PTSD</a></h3>
-        <p>Providing family intervention (e.g., couple therapy) to patients using Amazon Alexa.</p>
+        <a href="ca-engagement.html"><img src="/files/images/projects/ca-engagement.jpg" ></a>
+        <h3><a href="ca-engagement.html">Sustaining Engagement in Health Interventions</a></h3>
+        <p>Using conversational agents to sustain longitudinal user engagement to eHealth technologies.</p>
     </div>
     <div class="col-lg-6">
         <a href="ca-chronic-pain.html"><img src="/files/images/projects/ca-chronic-pain.jpg" ></a>
@@ -35,16 +35,14 @@ If you are interested in some of our past projects, take a look <a href="past.ht
     </div>
 </div>
 
-<div class="row">    
+<div class="row">
     <div class="col-lg-6">
       <a href="finhealth.html"><img src="/files/images/projects/finhealth.jpg" height="192.65px"></a>
-      <!-- https://www.self.inc/info/img/post/mental-health-spending/mental-health-spending-header.jpg -->
       <h3><a href="finhealth.html">Supporting Financial Wellbeing in Bipolar Disorder</a></h3>
       <p>Using open banking technologies to support financial wellbeing for individuals living with serious mental illnesses.</p>
     </div>
     <div class="col-lg-6">
         <a href="bd-prediction.html"><img src="/files/images/projects/bd-online-behavior.jpg" ></a>
-        <!-- https://thenounproject.com/photo/two-people-discussing-statistics-on-business-in-an-office-bxMXZ0/ -->
         <h3><a href="bd-prediction.html">Predicting Relapse Onset in Bipolar Disorder</a></h3>
         <p>A prediction framework that will identify anomalies and early-warning signs in bipolar disorder using continuous streams of online behavioral data. </p>
     </div>
