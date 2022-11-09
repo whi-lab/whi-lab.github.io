@@ -29,6 +29,14 @@ If you are interested in some of our past projects, take a look <a href="past.ht
 </div>
 
 <div class="row">
+    <div class="col-lg-6">
+        <a href="nurse-amie.html"><img src="/files/images/projects/nurse-amie.jpg" ></a>
+        <h3><a href="nurse-amie.html">Nurse AMIE (Addressing Metastatic Individuals Everyday)</a></h3>
+        <p>Using smart speakers to provide supportive care intervention for women with metastatic breast cancer.</p>
+    </div>
+</div>
+
+<div class="row">
     <div class="col-md-12 text-center">
         <hr>
         <h1> Sensing Health & Wellbeing </h1>
