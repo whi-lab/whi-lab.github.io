@@ -19,8 +19,8 @@ title: Members
            <p> <a href="https://www.rajumaharjan.com" target="_blank">Raju Maharjan</a><br/>Postdoctoral Researcher</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://johnnablair.weebly.com/" target="_blank"><img class="img-circle img-center" src="/files/images/johnna-blair.jpg"></a>
-           <p> <a href="https://johnnablair.weebly.com/" target="_blank">Johnna Blair</a><br/>PhD Student</p>
+        <a href="https://johnnablair.weebly.com" target="_blank"><img class="img-circle img-center" src="/files/images/johnna-blair.jpg"></a>
+           <p> <a href="https://johnnablair.weebly.com" target="_blank">Johnna Blair</a><br/>PhD Student</p>
     </div>
 </div>
 
@@ -45,12 +45,12 @@ title: Members
            <p> <a href="https://lingqiu3.github.io" target="_blank">Ling Qiu</a><br/>PhD Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://sites.psu.edu/suhas/" target="_blank"><img class="img-circle img-center" src="/files/images/suhas-bn.jpg"></a>
-        <p> <a href="https://sites.psu.edu/suhas/" target="_blank">Suhas Bettapalli Nagaraj</a><br/>PhD Student</p>
+        <a href="https://sites.psu.edu/suhas" target="_blank"><img class="img-circle img-center" src="/files/images/suhas-bn.jpg"></a>
+        <p> <a href="https://sites.psu.edu/suhas" target="_blank">Suhas Bettapalli Nagaraj</a><br/>PhD Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://brozena.net/" target="_blank"><img class="img-circle img-center" src="/files/images/jeff-brozena.jpg"></a>
-           <p> <a href="https://brozena.net/" target="_blank">Jeff Brozena</a><br/>PhD Student</p>
+        <a href="https://brozena.net" target="_blank"><img class="img-circle img-center" src="/files/images/jeff-brozena.jpg"></a>
+           <p> <a href="https://brozena.net" target="_blank">Jeff Brozena</a><br/>PhD Student</p>
     </div>
 </div>
 

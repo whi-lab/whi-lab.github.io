@@ -6,35 +6,56 @@ layout: page
 2022
 ----
 
+* _November_, 2022_: Our [paper](https://doi.org/10.3389/fpsyt.2022.810057) on understanding the relationship between financial behavior and mental health was accepted in [Frontiers](https://www.frontiersin.org/journals/psychiatry).
+
+* _October, 2022_: [Raju](https://www.rajumaharjan.com) gave an invited talk on "Leveraging Voice Interfaces to Support Health and Wellbeing" at the [University of Technology Sydney](https://www.uts.edu.au).
+
+* _October, 2022_: [Sahiti](https://sahitikunchay.github.io)'s internship work at [FitBit Research](https://healthsolutions.fitbit.com/researchers) was featured by the [Center for Technology and Behavioral Health](https://twitter.com/dartmouthctbh/status/1585614590733389824?s=46&t=zqmqtlt1mUfc1RNjlkPDxw) and [Penn State News](https://www.psu.edu/news/information-sciences-and-technology/story/ist-student-diversifies-wearable-tech-health-data-apps).
+
+<!-- * _XXX_, 2022_: Hackallenge  paper acceptance (wait for DOI) -->
+  
+* _October, 2022_: [Hee Jeong](https://heejeong-han.github.io) presented our work on [dementia diagnosis using text and speech data](files/posters/hackallenge-icds-symposium-2022-10-12.pdf) at the [ICDS Symposium](https://www.icds.psu.edu/news-events/icds-symposium/fall-2022-icds-symposium).
+  
+* _September, 2022_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io) at [UbiComp 2022](https://www.ubicomp.org/ubicomp2022).
+  
+* _September, 2022_: Our [paper](https://doi.org/10.1249/01.mss.0000879068.43957.d0) on comparing two delivery modes of a supportive care platform for metastatic breast cancer patients was accepted in [Medicine & Science in Sports & Exercise](https://journals.lww.com/acsm-msse/pages/default.aspx).
+
+* _September, 2022_: [Suhas](https://sites.psu.edu/suhas) was selected to be a part of [Google CS Research Mentorship Program](https://research.google/outreach/csrmp) (2022b Cohort).
+
+* _July, 2022_: Our [paper](https://doi.org/10.2196/35749) outlining a forthcoming systematic review of design approaches and evaluation methods in mHealth apps targeting substance use has been published on [JMIR Research Protocols](https://www.researchprotocols.org).
+
+* _July, 2022_: [Raju](https://www.rajumaharjan.com) has joined the lab as a postdoctoral researcher. Welcome, Raju!
+
+* _June, 2022_: [Sarah](https://sarah-tran.weebly.com) and [Suhas](https://sites.psu.edu/suhas) were awarded the [NSF NRT LINDIV Graduate Fellowship](https://lindiv.la.psu.edu/about).
+
 * _April, 2022_: We have received the [SSRI Large Pilot Award](https://ssri.psu.edu/funding/ssri-pilot-award) to support financial wellbeing of individuals with bipolar disorder.
 
 * _April, 2022_: [Sahiti](https://sahitikunchay.github.io) has passed the comprehensive exam — congrats!
 
-* _April, 2022_: Our team [has been selected to receive funding](https://www.psu.edu/news/academics/story/ten-student-teams-awarded-combined-15000-build-mvps-nittany-ai-challenge/) for the next phase in the 2022 Nittany AI Challenge.
+* _April, 2022_: Our team [has been selected to receive funding](https://www.psu.edu/news/academics/story/ten-student-teams-awarded-combined-15000-build-mvps-nittany-ai-challenge) for the next phase of the [Nittany AI Challenge](https://nittanyai.psu.edu/alliance-programs/nittany-ai-challenge).
 
-* _March, 2022_: [Sahiti](https://sahitikunchay.github.io) is attending the 2022 [CRA-WP Grad Cohort Workshop for IDEALS](https://cra.org/cra-wp/grad-cohort-ideals/).
+* _March, 2022_: [Sahiti](https://sahitikunchay.github.io) is attending the 2022 [CRA-WP Grad Cohort Workshop for IDEALS](https://cra.org/cra-wp/grad-cohort-ideals).
 
-* _February, 2022_: The WHI Lab's [Nittany AI](https://nittanyai.psu.edu/) team has advanced to the second phase of the [Nittany AI Challenge](https://nittanyai.psu.edu/alliance-programs/nittany-ai-challenge/).
+* _February, 2022_: The WHI Lab's [Nittany AI](https://nittanyai.psu.edu) team has advanced to the second phase of the [Nittany AI Challenge](https://nittanyai.psu.edu/alliance-programs/nittany-ai-challenge).
 
-* _February, 2022_: [Sahiti](https://sahitikunchay.github.io) is joining Google this summer as a research intern with the FitBit Research Team, where she will be working on understanding individuals' menstrual health journeys through biometric signals.
+* _February, 2022_: [Sahiti](https://sahitikunchay.github.io) is joining [Google](https://research.google) this summer as a research intern with the [FitBit Research](https://healthsolutions.fitbit.com/researchers) team, where she will be working on understanding individuals' menstrual health journeys through biometric signals.
 
-* _January, 2022_: Our paper on privacy sensitive speech analysis using federated learning to assess depression has been accepted in [ICASSP](https://2022.ieeeicassp.org/).
+* _January, 2022_: Our [paper](https://doi.org/10.1109/ICASSP43922.2022.9746827) on privacy sensitive speech analysis using federated learning to assess depression has been accepted in [ICASSP](https://2022.ieeeicassp.org).
 
-* _January, 2022_: Our paper on the use of Alexa as an active listener and its implication for mental health support has been accepted in [CSCW](https://cscw.acm.org/2022/).
-
+* _January, 2022_: Our paper on the use of Alexa as an active listener and its implication for mental health support has been accepted in [CSCW](https://cscw.acm.org/2022).
 
 2021
 ----
 
-* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) was selected to be a part of the 2021 [Google CS Research Mentorship Program](https://research.google/outreach/csrmp/)
+* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) was selected to be a part of the 2021 [Google CS Research Mentorship Program](https://research.google/outreach/csrmp)
 
-* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io/) at [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/).
+* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io) at [UbiComp 2021](https://www.ubicomp.org/ubicomp2021).
 
-* _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her work at the [UbiComp](https://www.ubicomp.org/ubicomp2021/) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4/)!
+* _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her work at the [UbiComp](https://www.ubicomp.org/ubicomp2021) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4)!
 
 * _August, 2021_: We have [two](https://doi.org/10.1145/3460418.3479332) [papers](https://doi.org/10.1145/3460418.3479336) accepted in the [UbiComp/ISCWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
 
-* _August, 2021_: Welcome to 3 new members: [Suhas](https://sites.psu.edu/suhas), [Jeff](https://brozena.net), and [Sarah]()!!
+* _August, 2021_: Welcome to 3 new members: [Suhas](https://sites.psu.edu/suhas), [Jeff](https://brozena.net), and [Sarah](https://sarah-tran.weebly.com)!!
 
 * _June, 2021_: [Johnna](https://johnnablair.weebly.com) and [Saeed](https://saeedabdullah.com) gave a keynote speech at the [CHHA (Canadian Hard of Hearing Association) National Educational Conference](https://www.chhaconference.ca/agenda).
 
@@ -55,7 +76,7 @@ layout: page
 
 * _December, 2020_: Our [paper](/files/pubs/johnna-ubicomp-2020-12.pdf) on smart assistant accessibility was accepted in [UbiComp/ACM IMWUT](https://www.ubicomp.org/ubicomp2021).
 
-<!-- * _October, 2020_: Our [workshop paper]() presenting preliminary findings on collaborative clinical work and predicting relapse onset in bipolar disorder from online behavioral data was accepted in [PervasiveHealth 2020](https://pervasivehealth.eai-conferences.org/2020). -->
+* _October, 2020_: Our [workshop paper](https://doi.org/10.1145/3421937.3421947) presenting preliminary findings on collaborative clinical work and predicting relapse onset in bipolar disorder from online behavioral data was accepted in [PervasiveHealth 2020](https://pervasivehealth.eai-conferences.org/2020).
 
 * _September, 2020_: [Sahiti](https://sahitikunchay.github.io) attended the [5th International Workshop on Mental Health And Well-Being: Sensing And Intervention](https://ubicomp-mental-health.github.io) at [UbiComp 2020](https://ubicomp.org/ubicomp2020).
 
@@ -86,7 +107,7 @@ layout: page
 
 * _March, 2019_: Our project leveraging Apple Watches to analyze substance use in young adults was featured in [Penn State News](https://news.psu.edu/story/562939/2019/03/13/research/close-watch-ist-seed-grant-funds-study-assess-and-predict-substance).
 
-* _November, 2018_: [Johnna](https://johnnablair.weebly.com) presented her paper on [photo based meal tracking](/files/pubs/johnna-onenote-amia-2018-12-05.pdf) at the American Medical Informatics Association Conference (AMIA 2018).
+* _November, 2018_: [Johnna](https://johnnablair.weebly.com) presented her paper on [photo based meal tracking](/files/pubs/johnna-onenote-amia-2018-12-05.pdf) at the American Medical Informatics Association Conference ([AMIA 2018](http://www.amiaconference.net/amia-2018)).
 
 * _September, 2018_: We have been awarded [a seed grant from SSRI](http://www.ssri.psu.edu/news/2798/seed-grants-support-opioid-research-announced). This project aims to use [Amazon Alexa for real-time mindfulness intervention delivery to patients with chronic pain](/projects/ca-chronic-pain).
 
