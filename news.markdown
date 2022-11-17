@@ -6,7 +6,7 @@ layout: page
 2022
 ----
 
-* _November_, 2022_: Our [paper](https://doi.org/10.3389/fpsyt.2022.810057) on understanding the relationship between financial behavior and mental health was accepted in [Frontiers](https://www.frontiersin.org/journals/psychiatry).
+* _November, 2022_: Our [paper](https://doi.org/10.3389/fpsyt.2022.810057) on understanding the relationship between financial behavior and mental health was accepted in [Frontiers](https://www.frontiersin.org/journals/psychiatry).
 
 * _October, 2022_: [Raju](https://www.rajumaharjan.com) gave an invited talk on "Leveraging Voice Interfaces to Support Health and Wellbeing" at the [University of Technology Sydney](https://www.uts.edu.au).
 
