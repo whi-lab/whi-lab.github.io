@@ -3,13 +3,40 @@ title: News
 layout: page
 ---
 
-Upcoming
+2022
 ----
 
-* _June, 2021_: [Johnna](https://johnnablair.weebly.com) and [Saeed](https://saeedabdullah.com) will be speaking at the [CHHA (Canadian Hard of Hearing Association) National Educational Conference](https://www.chhaconference.ca/agenda).
+* _April, 2022_: We have received the [SSRI Large Pilot Award](https://ssri.psu.edu/funding/ssri-pilot-award) to support financial wellbeing of individuals with bipolar disorder.
+
+* _April, 2022_: [Sahiti](https://sahitikunchay.github.io) has passed the comprehensive exam — congrats!
+
+* _April, 2022_: Our team [has been selected to receive funding](https://www.psu.edu/news/academics/story/ten-student-teams-awarded-combined-15000-build-mvps-nittany-ai-challenge/) for the next phase in the 2022 Nittany AI Challenge.
+
+* _March, 2022_: [Sahiti](https://sahitikunchay.github.io) is attending the 2022 [CRA-WP Grad Cohort Workshop for IDEALS](https://cra.org/cra-wp/grad-cohort-ideals/).
+
+* _February, 2022_: The WHI Lab's [Nittany AI](https://nittanyai.psu.edu/) team has advanced to the second phase of the [Nittany AI Challenge](https://nittanyai.psu.edu/alliance-programs/nittany-ai-challenge/).
+
+* _February, 2022_: [Sahiti](https://sahitikunchay.github.io) is joining Google this summer as a research intern with the FitBit Research Team, where she will be working on understanding individuals' menstrual health journeys through biometric signals.
+
+* _January, 2022_: Our paper on privacy sensitive speech analysis using federated learning to assess depression has been accepted in [ICASSP](https://2022.ieeeicassp.org/).
+
+* _January, 2022_: Our paper on the use of Alexa as an active listener and its implication for mental health support has been accepted in [CSCW](https://cscw.acm.org/2022/).
+
 
 2021
 ----
+
+* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) was selected to be a part of the 2021 [Google CS Research Mentorship Program](https://research.google/outreach/csrmp/)
+
+* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io/) at [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/).
+
+* _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her work at the [UbiComp](https://www.ubicomp.org/ubicomp2021/) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4/)!
+
+* _August, 2021_: We have [two](https://doi.org/10.1145/3460418.3479332) [papers](https://doi.org/10.1145/3460418.3479336) accepted in the [UbiComp/ISCWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
+
+* _August, 2021_: Welcome to 3 new members: [Suhas](https://sites.psu.edu/suhas), [Jeff](https://brozena.net), and [Sarah]()!!
+
+* _June, 2021_: [Johnna](https://johnnablair.weebly.com) and [Saeed](https://saeedabdullah.com) gave a keynote speech at the [CHHA (Canadian Hard of Hearing Association) National Educational Conference](https://www.chhaconference.ca/agenda).
 
 * _April, 2021_: Our project using smart speakers to provide personalized care for women with metastatic breast cancer was featured in [Penn State News](https://news.psu.edu/story/656467/2021/04/27/research/amazon-alexa-skill-offers-supportive-care-breast-cancer-patients).
 
@@ -32,7 +59,7 @@ Upcoming
 
 * _September, 2020_: [Sahiti](https://sahitikunchay.github.io) attended the [5th International Workshop on Mental Health And Well-Being: Sensing And Intervention](https://ubicomp-mental-health.github.io) at [UbiComp 2020](https://ubicomp.org/ubicomp2020).
 
-* _August, 2020_: Welcome to 3 new members: [Sanjana](https://sm7gc.github.io), [Ling](https://lingqiu3.github.io), and [Hee Jeong](https://heejeong-han.github.io)!!
+* _August, 2020_: Welcome to 3 new members: [Sanjana](https://sanjanamendu.com), [Ling](https://lingqiu3.github.io), and [Hee Jeong](https://heejeong-han.github.io)!!
 
 * _March, 2020_: Our [paper](https://saeedabdullah.com/files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf) has received an Honourable Mention Award at CHI 2020!
 
