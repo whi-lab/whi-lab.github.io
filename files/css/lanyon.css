@@ -454,19 +454,19 @@ a.pagination-item:hover {
 * WHI Lab 
 * 
 * Colors taken from official Penn State Visual Identity
-* http://visualidentity.psu.edu/standard/color-mark-specifications/index.html 
+* https://brand.psu.edu/design-toolkit/design-essentials
 */
 
 
 .theme-whi .sidebar,
 .theme-whi .sidebar-toggle:active,
 .theme-whi #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #003087; /* PSU Dark Blue */
+  background-color: #009cde; /* Pennsylvania Sky */
 }
 .theme-whi .container a,
 .theme-whi .sidebar-toggle,
 .theme-whi .related-posts li a:hover {
-  color: #6cace4; /* PSU Light Blue */
+  color: #009cde; /* Pennsylvania Sky */
 }
 
 /* Red */
