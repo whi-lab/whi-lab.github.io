@@ -29,9 +29,9 @@ Our project can lead to novel, supportive technologies to empower individuals wi
 ## Papers ##
 <!-- TODO: review list of publications -->
 
-* **Johnna Blair**, **Jeff Brozena**, Mark Matthews, Thomas Richardson, and **Saeed Abdullah**.
+* **Johnna Blair**, **Jeff Brozena**, Mark Matthews, Thomas Richardson, and **Saeed Abdullah**. (2022).
 [Financial technologies (FinTech) for mental health: The potential of objective financial data to better understand the relationships between financial behavior and mental health][frontiers-2022].
-Frontiers in Psychiatry '22.
+Frontiers in Psychiatry.
 
 ## Support ##
 <!-- TODO: list funding sources (if applicable) -->
@@ -46,4 +46,6 @@ Support for this research is provided by [insert grant info here] grant.
 [Dahlia Mukherjee](https://profiles.psu.edu/profiles/display/158660182)  
 [Saeed Abdullah](https://saeedabdullah.com)
 
-[frontiers-2022]: /404.markdown
+[frontiers-2022]: /files/pubs/finhealth-frontiers-2022.pdf
+
+<small><a href="https://www.self.inc/info/mental-health-personal-spending-report">Image</a> by <a href="https://www.self.inc">Self Financial, Inc.</a></small>

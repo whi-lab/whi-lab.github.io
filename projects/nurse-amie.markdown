@@ -41,10 +41,12 @@ CHI LBW.
 
 [Ling Qiu](https://lingqiu3.github.io)  
 [Bethany Kanski](https://www.linkedin.com/in/bethany-kanski-4427b6137)  
-[Shawna Doerksen](https://twitter.com/shawnadoerksen)  
-[Kathryn H. Schmitz](https://twitter.com/fitaftercancer)  
-[Saeed Abdullah](https://saeedabdullah.com)
+[Shawna Doerksen, Ph.D.](https://twitter.com/shawnadoerksen)  
+[Kathryn H. Schmitz, Ph.D.](https://twitter.com/fitaftercancer)  
+[Saeed Abdullah, Ph.D.](https://saeedabdullah.com)
 
 <!-- TODO: add DOI vs. host files locally? -->
-[msse-2022]: /404.markdown
-[chi-lbw-2021]: /files/pubs/ling-nurse-amie-lbw-2021.pdf
+[msse-2022]: /files/pubs/nurse-amie-mmse-2022.pdf
+[chi-lbw-2021]: /files/pubs/nurse-amie-lbw-2021.pdf
+
+<!-- https://www.youtube.com/watch?v=ADtX-uLfGJs (2022 SBM Research Spotlight Presentation) -->
