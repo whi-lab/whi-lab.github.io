@@ -40,5 +40,5 @@ Support for this research is provided by [insert grant info here] grant.
 [Johnna Blair](https://johnnablair.weebly.com)  
 [Saeed Abdullah](https://saeedabdullah.com)
 
-[ubicomp-2020]: /files/pubs/johnna-ubicomp-2020-12.pdf
-[cscw-poster-2019]: /404.markdown
+[ubicomp-2020]: /files/pubs/speaker-accessibility-ubicomp-2020.pdf
+[cscw-poster-2019]: /files/pubs/speaker-accessibility-cscw-2019.pdf

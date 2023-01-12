@@ -44,7 +44,7 @@ layout: page
 
 * _March, 2021_: [Johnna](https://johnnablair.weebly.com) passed her comprehensive exam with flying colors!
 
-* _January, 2021_: We have [two](/files/pubs/johnna-chi-lbw-2021.pdf) [papers](/files/pubs/ling-nurse-amie-lbw-2021.pdf) accepted in [CHI 2021 Late Breaking Work](https://chi2021.acm.org).
+* _January, 2021_: We have [two](/files/pubs/covid-twitter-chi-lbw-2021.pdf) [papers](/files/pubs/nurse-amie-lbw-2021.pdf) accepted in [CHI 2021 Late Breaking Work](https://chi2021.acm.org).
 
 * _January, 2021_: [Johnna](https://johnnablair.weebly.com) participated in a [podcast](https://www.byuradio.org/topofmind) [interview](https://www.byuradio.org/b30d7f99-9ed6-4e36-b597-6b4840718d4b) discussing her work on smart assistant accessibility.
  
@@ -86,7 +86,7 @@ layout: page
 
 * _March, 2019_: Our project leveraging Apple Watches to analyze substance use in young adults was featured in [Penn State News](https://news.psu.edu/story/562939/2019/03/13/research/close-watch-ist-seed-grant-funds-study-assess-and-predict-substance).
 
-* _November, 2018_: [Johnna](https://johnnablair.weebly.com) presented her paper on [photo based meal tracking](/files/pubs/johnna-onenote-amia-2018-12-05.pdf) at the American Medical Informatics Association Conference (AMIA 2018).
+* _November, 2018_: [Johnna](https://johnnablair.weebly.com) presented her paper on [photo based meal tracking](/files/pubs/onenote-amia-2018.pdf) at the American Medical Informatics Association Conference (AMIA 2018).
 
 * _September, 2018_: We have been awarded [a seed grant from SSRI](http://www.ssri.psu.edu/news/2798/seed-grants-support-opioid-research-announced). This project aims to use [Amazon Alexa for real-time mindfulness intervention delivery to patients with chronic pain](/projects/ca-chronic-pain).
 
