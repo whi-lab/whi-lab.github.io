@@ -25,7 +25,7 @@ title: Members
 </div>
 
 <div class="row">
-    <div class="col-lg-4 text-center">
+    <div class="col-lg-4 col-xs-12 text-center">
         <a href="https://sahitikunchay.github.io/" target="_blank"><img class="img-circle img-center" src="/files/images/members/sahiti-kunchay.jpg"></a>
            <p> <a href="https://sahitikunchay.github.io/" target="_blank">Sahiti Kunchay</a><br/>PhD Student</p>
     </div>
@@ -40,7 +40,7 @@ title: Members
 </div>
 
 <div class="row">
-    <div class="col-lg-4 text-center">
+    <div class="col-lg-4 col-xs-12 text-center">
         <a href="https://lingqiu3.github.io" target="_blank"><img class="img-circle img-center" src="/files/images/members/ling-qiu.jpg"></a>
            <p> <a href="https://lingqiu3.github.io" target="_blank">Ling Qiu</a><br/>PhD Student</p>
     </div>
@@ -88,7 +88,7 @@ title: Members
 
 <div class="row">
     <div class="col-lg-4 col-xs-12 text-center"></div>
-    <div class="col-lg-4 text-center">
+    <div class="col-lg-4 col-xs-12 text-center">
         <a href="https://www.linkedin.com/in/ryan-jaeger-965b42144" target="_blank"><img class="img-circle img-center" src="/files/images/members/ryan-jaeger.jpg"></a>
            <p> <a href="https://www.linkedin.com/in/ryan-jaeger-965b42144">Ryan Jaeger</a><br/>Undergraduate Student</p>
     </div>
