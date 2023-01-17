@@ -115,6 +115,9 @@ layout: page
 
 * _March, 2019_: Our project leveraging Apple Watches to analyze substance use in young adults was featured in [Penn State News](https://news.psu.edu/story/562939/2019/03/13/research/close-watch-ist-seed-grant-funds-study-assess-and-predict-substance).
 
+2018
+----
+
 * _November, 2018_: [Johnna](https://johnnablair.weebly.com) presented her paper on [photo based meal tracking](/files/pubs/johnna-onenote-amia-2018-12-05.pdf) at the American Medical Informatics Association Conference ([AMIA 2018](http://www.amiaconference.net/amia-2018)).
 
 * _September, 2018_: We have been awarded [a seed grant from SSRI](http://www.ssri.psu.edu/news/2798/seed-grants-support-opioid-research-announced). This project aims to use [Amazon Alexa for real-time mindfulness intervention delivery to patients with chronic pain](/projects/ca-chronic-pain).
