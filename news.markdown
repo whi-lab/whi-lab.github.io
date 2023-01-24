@@ -120,7 +120,7 @@ layout: page
 
 * _November, 2018_: [Johnna](https://johnnablair.weebly.com) presented her paper on [photo based meal tracking](/files/pubs/johnna-onenote-amia-2018-12-05.pdf) at the American Medical Informatics Association Conference ([AMIA 2018](http://www.amiaconference.net/amia-2018)).
 
-* _September, 2018_: We have been awarded [a seed grant from SSRI](http://www.ssri.psu.edu/news/2798/seed-grants-support-opioid-research-announced). This project aims to use [Amazon Alexa for real-time mindfulness intervention delivery to patients with chronic pain](/projects/ca-chronic-pain).
+* _September, 2018_: We have been awarded [a seed grant from SSRI](http://www.ssri.psu.edu/news/seed-grants-support-opioid-research-announced). This project aims to use [Amazon Alexa for real-time mindfulness intervention delivery to patients with chronic pain](/projects/ca-chronic-pain).
 
 * _May, 2018_: We have one full paper and two workshop papers accepted in [PervasiveHealth](http://pervasivehealth.org).
 
