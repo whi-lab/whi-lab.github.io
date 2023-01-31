@@ -45,7 +45,6 @@ CHI LBW.
 [Kathryn H. Schmitz, Ph.D.](https://twitter.com/fitaftercancer)  
 [Saeed Abdullah, Ph.D.](https://saeedabdullah.com)
 
-<!-- TODO: add DOI vs. host files locally? -->
 [msse-2022]: /files/pubs/nurse-amie-mmse-2022.pdf
 [chi-lbw-2021]: /files/pubs/nurse-amie-lbw-2021.pdf
 
