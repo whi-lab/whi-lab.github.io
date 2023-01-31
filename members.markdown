@@ -63,11 +63,7 @@ title: Members
 </div>
 
 <div class="row">
-    <!-- <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://sarah-tran.weebly.com" target="_blank"><img class="img-circle img-center" src="/files/images/members/sarah-tran.jpg"></a>
-        <p> <a href="https://sarah-tran.weebly.com" target="_blank">Sarah Tran</a><br/>PhD Student</p>
-    </div> -->
-    <div class="col-lg-4 col-xs-12 text-center">
+    <div class="col-lg-4 col-xs-1 text-center">
         <a href="https://www.linkedin.com/in/devanshi-agnihotri-91241a151" target="_blank"><img class="img-circle img-center" src="/files/images/members/devanshi-agnihotri.jpg"></a>
         <p> <a href="https://www.linkedin.com/in/devanshi-agnihotri-91241a151" target="_blank">Devanshi Agnihotri</a><br/>MS Student</p>
     </div>
