@@ -5,7 +5,7 @@ layout: page
 <div class="row">
     <div class="col-md-12">
         <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/projects/clockwise-1.jpg"/>
+            <img src="/files/images/projects/clockwise.jpg"/>
         </div>
     </div>
 </div>

@@ -26,7 +26,7 @@ title: Past Projects
         <p>What does your phone and social media usage tell about you? We use these patterns to  identify sleep behavior and circadian disruptions including social jet lag.</p>
     </div>
     <div class="col-lg-6">
-        <a href="clockwise.html"><img src="/files/images/projects/clockwise-1.jpg" ></a>
+        <a href="clockwise.html"><img src="/files/images/projects/clockwise.jpg" ></a>
         <h3><a href="clockwise.html">ClockWise: Towards Circadian Aware Technology</a></h3>
         <p>Advancing a vision for "<em>Circadian Computing</em>" — designing, developing and deploying novel technology that helps to maintain our innate biological rhythms.</p>
     </div>
