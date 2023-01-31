@@ -8,14 +8,27 @@ title: Past Projects
 
 <div class="row">
     <div class="col-lg-6">
-        <a href="speaker-accessibility.html"><img src="/files/images/projects/speaker-accessibility.jpg" ></a>
-        <h3><a href="speaker-accessibility.html">Smart Assistant Accessibility for Deaf and Hard of Hearing Users</a></h3>
-        <p>How can we make smart-speakers transparent and interpretable to users?</p>
+        <a href="bd-prediction.html"><img src="/files/images/projects/bd-online-behavior.jpg" ></a>
+        <h3><a href="bd-prediction.html">Predicting Relapse Onset in Bipolar Disorder</a></h3>
+        <p>A prediction framework that will identify anomalies and early-warning signs in bipolar disorder using continuous streams of online behavioral data. </p>
     </div>
     <div class="col-lg-6">
-        <a href="interpretable-ca.html"><img src="/files/images/projects/ca-interpretable.jpg" ></a>
-        <h3><a href="interpretable-ca.html">Transparent & Interpretable Agents</a></h3>
-        <p>How can we make smart-speakers transparent and interpretable to users?</p>
+        <a href="speaker-accessibility.html"><img src="/files/images/projects/speaker-accessibility.jpg" ></a>
+        <h3><a href="speaker-accessibility.html">Smart Assistant Accessibility for Deaf and Hard of Hearing (DHH) Users</a></h3>
+        <p>How can we make smart-speakers more accessible to the DHH community?</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-6">
+        <a href="expressive-lights.html"><img src="/files/images/projects/expressive-lights.jpg" ></a>
+        <h3><a href="expressive-lights.html">Investigating Users' Perceptions of Light Behaviors in Smart Speakers</a></h3>
+        <p>A mixed-methods evaluation of how users perceive the light apparatus on Amazon Echo and Google Home devices</p>
+    </div>
+    <div class="col-lg-6">
+        <a href="covid-twitter.html"><img src="/files/images/projects/covid-twitter.jpg" ></a>
+        <h3><a href="covid-twitter.html">Essential Workers' Discussion of COVID-19 Impacts on Twitter</a></h3>
+        <p></p>
     </div>
 </div>
 
