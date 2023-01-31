@@ -52,7 +52,7 @@ If you are interested in some of our past projects, take a look <a href="past.ht
     </div>
 </div>
 
-<!-- <div class="row">
+<div class="row">
     <div class="col-lg-6">
       <a href="finhealth.html"><img src="/files/images/projects/finhealth.jpg"></a>
       <h3><a href="finhealth.html">Supporting Financial Wellbeing in Bipolar Disorder</a></h3>
@@ -63,14 +63,9 @@ If you are interested in some of our past projects, take a look <a href="past.ht
         <h3><a href="bd-prediction.html">Predicting Relapse Onset in Bipolar Disorder</a></h3>
         <p>A prediction framework that will identify anomalies and early-warning signs in bipolar disorder using continuous streams of online behavioral data. </p>
     </div>
-</div> -->
+</div>
 
-<div class="row">    
-    <div class="col-lg-6">
-      <a href="finhealth.html"><img src="/files/images/projects/finhealth.jpg"></a>
-      <h3><a href="finhealth.html">Supporting Financial Wellbeing in Bipolar Disorder</a></h3>
-      <p>Using open banking technologies to support financial wellbeing for individuals living with serious mental illnesses.</p>
-    </div>
+<div class="row">
     <div class="col-lg-6">
       <a href="watch-over.html"><img src="/files/images/projects/watch-over.jpg"></a>
       <h3><a href="watch-over.html">WatchOver</a></h3>
