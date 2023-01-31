@@ -20,8 +20,6 @@ layout: page
 * _October, 2022_: [Raju](https://www.rajumaharjan.com) gave an invited talk on "Leveraging Voice Interfaces to Support Health and Wellbeing" at the [University of Technology Sydney](https://www.uts.edu.au).
 
 * _October, 2022_: [Sahiti](https://sahitikunchay.github.io)'s internship work at [FitBit Research](https://healthsolutions.fitbit.com/researchers) was featured by the [Center for Technology and Behavioral Health](https://twitter.com/dartmouthctbh/status/1585614590733389824?s=46&t=zqmqtlt1mUfc1RNjlkPDxw) and [Penn State News](https://www.psu.edu/news/information-sciences-and-technology/story/ist-student-diversifies-wearable-tech-health-data-apps).
-
-<!-- * _XXX_, 2022_: Hackallenge  paper acceptance (wait for DOI) -->
   
 * _October, 2022_: [Hee Jeong](https://heejeong-han.github.io) presented our work on [dementia diagnosis using text and speech data](files/posters/hackallenge-icds-symposium-2022-10-12.pdf) at the [ICDS Symposium](https://www.icds.psu.edu/news-events/icds-symposium/fall-2022-icds-symposium).
   
