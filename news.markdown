@@ -3,14 +3,15 @@ title: News
 layout: page
 ---
 
+2023
+----
+
+* _January_, 2023_:We have two papers conditionally accepted at [CHI 2023](https://chi2023.acm.org)!
+
 2022
 ----
 
 * _December, 2022_: [Raju](https://www.rajumaharjan.com) gave an [invited talk](files/slides/maharjan-postdoc-symposium.pdf) on "Research at the Intersection of Design, Technology, and Mental Health & Best Wellness Apps to Reduce Stress" at the [15th annual Penn State Postdoctoral Symposium](https://www.research.psu.edu/node/5503).
-
-* _December, 2022_: [Sanjana](https://www.sanjanamendu.com) presented our work on evaluating the acceptability of a voice interface for facilitating mindfulness practice among expert facilitators at the [8th annual Penn State Addiction Symposium](https://research.med.psu.edu/addiction-symposium/).
-
-* _December, 2022_: [Sanjana](https://www.sanjanamendu.com) and [Hee Jeong](https://heejeong-han.github.io) passed their comprehensive exams with flying colors!
 
 * _November, 2022_: Our [paper](https://link.springer.com/chapter/10.1007/978-3-031-14771-5_29) on automatic classification of dementia using text and speech data was accepted in [Multimodal AI in Healthcare](https://link.springer.com/book/10.1007/978-3-031-14771-5).
 
