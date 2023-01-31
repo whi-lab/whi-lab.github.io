@@ -31,7 +31,7 @@ CSCW '19 Companion. ([Poster][cscw-poster-2019])
 [Johnna Blair](https://johnnablair.weebly.com)  
 [Saeed Abdullah](https://saeedabdullah.com)
 
-[ubicomp-2020]: /files/pubs/speaker-accessibility-ubicomp-2020.pdf
+[ubicomp-2020]: /files/pubs/speaker-accessibility-ubicomp-2021.pdf
 [cscw-poster-abstract-2019]: /files/pubs/speaker-accessibility-cscw-2019.pdf
 [cscw-poster-2019]: /files/posters/speaker-accessibility-cscw-2019.pdf
 

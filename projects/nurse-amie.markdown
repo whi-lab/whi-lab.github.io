@@ -46,6 +46,6 @@ CHI LBW.
 [Saeed Abdullah, Ph.D.](https://saeedabdullah.com)
 
 [msse-2022]: /files/pubs/nurse-amie-mmse-2022.pdf
-[chi-lbw-2021]: /files/pubs/nurse-amie-lbw-2021.pdf
+[chi-lbw-2021]: /files/pubs/nurse-amie-chi-lbw-2021.pdf
 
 <!-- https://www.youtube.com/watch?v=ADtX-uLfGJs (2022 SBM Research Spotlight Presentation) -->

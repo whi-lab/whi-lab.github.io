@@ -28,7 +28,7 @@ Our long-term goal is to develop a computational framework that can identify beh
 <!-- * **Johnna Blair**, Dahlia Mukherjee, Erika FH Saunders, and **Saeed Abdullah**.
 [Knowing How Long a Storm Might Last Makes it Easier to Weather: Exploring Needs and Attitudes Toward a Data-driven and Preemptive Intervention System for Bipolar Disorder]. CHI '23. (forthcoming) -->
 * **Johnna Blair**.
-[Designing for serious mental illnesses: Enabling early detection and supporting financial wellbeing in bipolar disorder][ubicomp-poster-2021].
+[Designing for serious mental illnesses: Enabling early detection and supporting financial wellbeing in bipolar disorder][ubicomp-2021].
 UbiComp-ISWC ’21 Adjunct.
 * **Johnna Blair**, Dahlia Mukherjee, Erika FH Saunders, and **Saeed Abdullah**.
 [Opportunities for Collaborative Clinical Work: Predicting Relapse Onset in Bipolar Disorder from Online Behavior][pervasive-health-2020].
@@ -40,7 +40,7 @@ PervasiveHealth ’20.
 [Dahlia Mukherjee](https://profiles.psu.edu/profiles/display/158660182)  
 [Saeed Abdullah](https://saeedabdullah.com)
 
-[ubicomp-poster-2021]: /files/pubs/bd-prediction-ubicomp-2021.pdf
+[ubicomp-2021]: /files/pubs/bd-prediction-ubicomp-2021.pdf
 [pervasive-health-2020]: /files/pubs/bd-prediction-pervasive-health-2020.pdf
 
 <small><a href="https://www.freepik.com/free-vector/mental-health-awareness-concept_7974025.htm">Image</a> by <a href="https://www.freepik.com/author/pikisuperstar">pikisuperstar</a> on <a href="https://www.freepik.com/">Freepik</a></small>
