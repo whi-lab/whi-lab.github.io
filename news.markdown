@@ -3,16 +3,23 @@ title: News
 layout: page
 ---
 
+2023
+----
+
+* _January_, 2023_:We have two papers conditionally accepted at [CHI 2023](https://chi2023.acm.org)!
+
 2022
 ----
 
-* _November_, 2022_: Our [paper](https://doi.org/10.3389/fpsyt.2022.810057) on understanding the relationship between financial behavior and mental health was accepted in [Frontiers](https://www.frontiersin.org/journals/psychiatry).
+* _December, 2022_: [Raju](https://www.rajumaharjan.com) gave an [invited talk](files/slides/maharjan-postdoc-symposium.pdf) on "Research at the Intersection of Design, Technology, and Mental Health & Best Wellness Apps to Reduce Stress" at the [15th annual Penn State Postdoctoral Symposium](https://www.research.psu.edu/node/5503).
+
+* _November, 2022_: Our [paper](https://link.springer.com/chapter/10.1007/978-3-031-14771-5_29) on automatic classification of dementia using text and speech data was accepted in [Multimodal AI in Healthcare](https://link.springer.com/book/10.1007/978-3-031-14771-5).
+
+* _November, 2022_: Our [paper](https://doi.org/10.3389/fpsyt.2022.810057) on understanding the relationship between financial behavior and mental health was accepted in [Frontiers](https://www.frontiersin.org/journals/psychiatry).
 
 * _October, 2022_: [Raju](https://www.rajumaharjan.com) gave an invited talk on "Leveraging Voice Interfaces to Support Health and Wellbeing" at the [University of Technology Sydney](https://www.uts.edu.au).
 
 * _October, 2022_: [Sahiti](https://sahitikunchay.github.io)'s internship work at [FitBit Research](https://healthsolutions.fitbit.com/researchers) was featured by the [Center for Technology and Behavioral Health](https://twitter.com/dartmouthctbh/status/1585614590733389824?s=46&t=zqmqtlt1mUfc1RNjlkPDxw) and [Penn State News](https://www.psu.edu/news/information-sciences-and-technology/story/ist-student-diversifies-wearable-tech-health-data-apps).
-
-<!-- * _XXX_, 2022_: Hackallenge  paper acceptance (wait for DOI) -->
   
 * _October, 2022_: [Hee Jeong](https://heejeong-han.github.io) presented our work on [dementia diagnosis using text and speech data](files/posters/hackallenge-icds-symposium-2022-10-12.pdf) at the [ICDS Symposium](https://www.icds.psu.edu/news-events/icds-symposium/fall-2022-icds-symposium).
   
@@ -61,7 +68,7 @@ layout: page
 
 * _April, 2021_: Our project using smart speakers to provide personalized care for women with metastatic breast cancer was featured in [Penn State News](https://news.psu.edu/story/656467/2021/04/27/research/amazon-alexa-skill-offers-supportive-care-breast-cancer-patients).
 
-* _April, 2021_: [Sanjana](https://sm7gc.github.io) and [Hee Jeong](https://heejeong-han.github.io) attended the [2021 CRA-WP Grad Cohort for Women](https://web.cvent.com/event/6bb235cd-85c6-4087-bc1f-fd19b2681eca/summary).
+* _April, 2021_: [Sanjana](https://www.sanjanamendu.com) and [Hee Jeong](https://heejeong-han.github.io) attended the [2021 CRA-WP Grad Cohort for Women](https://web.cvent.com/event/6bb235cd-85c6-4087-bc1f-fd19b2681eca/summary).
 
 * _March, 2021_: [Johnna](https://johnnablair.weebly.com) passed her comprehensive exam with flying colors!
 
@@ -80,7 +87,7 @@ layout: page
 
 * _September, 2020_: [Sahiti](https://sahitikunchay.github.io) attended the [5th International Workshop on Mental Health And Well-Being: Sensing And Intervention](https://ubicomp-mental-health.github.io) at [UbiComp 2020](https://ubicomp.org/ubicomp2020).
 
-* _August, 2020_: Welcome to 3 new members: [Sanjana](https://sanjanamendu.com), [Ling](https://lingqiu3.github.io), and [Hee Jeong](https://heejeong-han.github.io)!!
+* _August, 2020_: Welcome to 3 new members: [Sanjana](https://www.sanjanamendu.com), [Ling](https://lingqiu3.github.io), and [Hee Jeong](https://heejeong-han.github.io)!!
 
 * _March, 2020_: Our [paper](https://saeedabdullah.com/files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf) has received an Honourable Mention Award at CHI 2020!
 
@@ -107,9 +114,12 @@ layout: page
 
 * _March, 2019_: Our project leveraging Apple Watches to analyze substance use in young adults was featured in [Penn State News](https://news.psu.edu/story/562939/2019/03/13/research/close-watch-ist-seed-grant-funds-study-assess-and-predict-substance).
 
+2018
+----
+
 * _November, 2018_: [Johnna](https://johnnablair.weebly.com) presented her paper on [photo based meal tracking](/files/pubs/johnna-onenote-amia-2018-12-05.pdf) at the American Medical Informatics Association Conference ([AMIA 2018](http://www.amiaconference.net/amia-2018)).
 
-* _September, 2018_: We have been awarded [a seed grant from SSRI](http://www.ssri.psu.edu/news/2798/seed-grants-support-opioid-research-announced). This project aims to use [Amazon Alexa for real-time mindfulness intervention delivery to patients with chronic pain](/projects/ca-chronic-pain).
+* _September, 2018_: We have been awarded [a seed grant from SSRI](http://www.ssri.psu.edu/news/seed-grants-support-opioid-research-announced). This project aims to use [Amazon Alexa for real-time mindfulness intervention delivery to patients with chronic pain](/projects/ca-chronic-pain).
 
 * _May, 2018_: We have one full paper and two workshop papers accepted in [PervasiveHealth](http://pervasivehealth.org).
 
