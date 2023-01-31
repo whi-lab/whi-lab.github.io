@@ -1,5 +1,5 @@
 ---
-title: "Smart Assistant Accessibility for Deaf and Hard of Hearing Users"
+title: "Voice Assistant Accessibility for Deaf and Hard of Hearing Users"
 layout: page
 ---
 
@@ -35,4 +35,4 @@ CSCW '19 Companion. ([Poster][cscw-poster-2019])
 [cscw-poster-abstract-2019]: /files/pubs/speaker-accessibility-cscw-2019.pdf
 [cscw-poster-2019]: /files/posters/speaker-accessibility-cscw-2019.pdf
 
-<small><a href="https://www.freepik.com/free-vector/smart-speaker-concept-illustration_36239330.htm">Image</a> by <a href="https://www.freepik.com/author/stories">storyset</a> on <a href="https://www.freepik.com/">Freepik</a></small>
+<small><a href="https://www.freepik.com/free-vector/users-buying-smart-speaker-applications-online-smart-assistant-applications-online-store-voice-activated-digital-assistants-apps-market-concept-vector-isolated-illustration_11668669.htm">Image</a> by <a href="https://www.freepik.com/author/vectorjuice">vectorjuice</a> on <a href="https://www.freepik.com/">Freepik</a></small>

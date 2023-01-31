@@ -8,14 +8,14 @@ title: Past Projects
 
 <div class="row">
     <div class="col-lg-6">
-        <a href="bd-prediction.html"><img src="/files/images/projects/bd-online-behavior.jpg" ></a>
+        <a href="bd-prediction.html"><img src="/files/images/projects/bd-prediction.jpg" ></a>
         <h3><a href="bd-prediction.html">Predicting Relapse Onset in Bipolar Disorder</a></h3>
         <p>A prediction framework that will identify anomalies and early-warning signs in bipolar disorder using continuous streams of online behavioral data. </p>
     </div>
     <div class="col-lg-6">
         <a href="speaker-accessibility.html"><img src="/files/images/projects/speaker-accessibility.jpg" ></a>
-        <h3><a href="speaker-accessibility.html">Smart Assistant Accessibility for Deaf and Hard of Hearing (DHH) Users</a></h3>
-        <p>How can we make smart-speakers more accessible to the DHH community?</p>
+        <h3><a href="speaker-accessibility.html">Voice Assistant Accessibility for Deaf and Hard of Hearing Users</a></h3>
+        <p>How can we make smart-speakers more accessible to the deaf and hard of hearing (DHH) community?</p>
     </div>
 </div>
 
@@ -27,8 +27,8 @@ title: Past Projects
     </div>
     <div class="col-lg-6">
         <a href="covid-twitter.html"><img src="/files/images/projects/covid-twitter.jpg" ></a>
-        <h3><a href="covid-twitter.html">Essential Workers' Discussion of COVID-19 Impacts on Twitter</a></h3>
-        <p></p>
+        <h3><a href="covid-twitter.html">Pandemic-Related Mental Health Discourse on Twitter</a></h3>
+        <p>An exploration of what Twitter can initially tell us about the pandemic experiences of essential workers.</p>
     </div>
 </div>
 
