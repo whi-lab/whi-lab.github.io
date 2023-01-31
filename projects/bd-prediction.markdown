@@ -6,7 +6,7 @@ layout: page
 <div class="row">
     <div class="col-md-12">
 	<div class="col-xs-offset-1 col-md-10">
-	    <img src="/files/images/projects/bd-online-behavior.jpg"/>
+	    <img src="/files/images/projects/bd-prediction.jpg"/>
 	</div>
     </div>
 </div>
@@ -43,4 +43,4 @@ PervasiveHealth ’20.
 [ubicomp-2021]: /files/pubs/bd-prediction-ubicomp-2021.pdf
 [pervasive-health-2020]: /files/pubs/bd-prediction-pervasive-health-2020.pdf
 
-<small><a href="https://www.freepik.com/free-vector/mental-health-awareness-concept_7974025.htm">Image</a> by <a href="https://www.freepik.com/author/pikisuperstar">pikisuperstar</a> on <a href="https://www.freepik.com/">Freepik</a></small>
+<small><a href="https://www.freepik.com/free-vector/online-concept-illustration_7769789.htm">Image</a> by <a href="https://www.freepik.com/author/stories">storyset</a> on <a href="https://www.freepik.com/">Freepik</a></small>
