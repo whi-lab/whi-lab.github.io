@@ -14,7 +14,7 @@ layout: page
 
 * _February, 2023_: [Ling](https://lingqiu3.github.io) has passed the comprehensive exam - congrats!
 
-* _January, 2023_: We have two papers conditionally accepted at [CHI 2023](https://chi2023.acm.org)!
+* _January, 2023_: We have two papers accepted at [CHI 2023](https://chi2023.acm.org)! The first paper focuses on [designing preemptive interventions for indviduals with bipolar disorder](https://saeedabdullah.com/files/pubs/2023-bd-premptive-intervention-chi.pdf). The second paper aims to [improve physical activity among Hispanic users](https://saeedabdullah.com/files/pubs/2023-fitness-chi.pdf).
 
 2022
 ----
