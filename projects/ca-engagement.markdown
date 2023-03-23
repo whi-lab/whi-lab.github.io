@@ -29,7 +29,7 @@ UbiComp Mental Health & Sensing Workshop.
 
 ## Support ##
 
-Support for this research is provided by the National Science Foundation under Grant No. 1850287.
+Support for this research is provided by the [National Science Foundation][nsf] under [Grant No. 1850287][nsf-grant].
 
 ## People ##
 
@@ -39,6 +39,10 @@ Support for this research is provided by the National Science Foundation under G
 [Jason E Owen](https://www.ptsd.va.gov/about/divisions/dissemination/owen_j.asp)  
 [Saeed Abdullah](https://saeedabdullah.com)
 
+
 [ptsd-coach]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4607374
 [supportive-accountability]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3221353
 [engagement-impact]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222162
+[nsf]: https://www.nsf.gov/index.jsp
+[nsf-grant]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850287
+[ubicomp-mhs-workshop]: /files/pubs/ca-engagement-ubicomp-2022.pdf

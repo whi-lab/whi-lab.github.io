@@ -24,7 +24,7 @@ UbiComp Adjunct.
 
 ## Support ##
 
-Support for this research is provided by the IST Seed Grant Award.
+Support for this research is provided by the [IST Seed Grant Award][ist-seed].
 
 ## People ##
 
@@ -35,5 +35,7 @@ Support for this research is provided by the IST Seed Grant Award.
 
 [jmir-protocol-2022]: /files/pubs/watch-over-jmir-protocol-2022.pdf
 [ubicomp-poster-2020]: /files/posters/watch-over-ubicomp-2020.pdf
+
+[ist-seed]: https://www.psu.edu/news/research/story/college-ist-awards-eight-seed-grants-research-projects/
 
 <small><a href="https://www.freepik.com/free-photo/woman-having-glass-milkshake_976954.htm">Image</a> by <a href="https://www.freepik.com/author/peoplecreations">peoplecreations</a> on <a href="https://www.freepik.com/">Freepik</a></small>

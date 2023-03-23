@@ -27,12 +27,12 @@ Our long-term goal is to develop a computational framework that can identify beh
 
 <!-- * **Johnna Blair**, Dahlia Mukherjee, Erika FH Saunders, and **Saeed Abdullah**.
 [Knowing How Long a Storm Might Last Makes it Easier to Weather: Exploring Needs and Attitudes Toward a Data-driven and Preemptive Intervention System for Bipolar Disorder]. CHI '23. (forthcoming) -->
-* **Johnna Blair**.
+* **Johnna Blair**. (2021).
 [Designing for serious mental illnesses: Enabling early detection and supporting financial wellbeing in bipolar disorder][ubicomp-2021].
-UbiComp-ISWC ’21 Adjunct.
-* **Johnna Blair**, Dahlia Mukherjee, Erika FH Saunders, and **Saeed Abdullah**.
+UbiComp-ISWC Adjunct.
+* **Johnna Blair**, Dahlia Mukherjee, Erika FH Saunders, and **Saeed Abdullah**. (2020).
 [Opportunities for Collaborative Clinical Work: Predicting Relapse Onset in Bipolar Disorder from Online Behavior][pervasive-health-2020].
-PervasiveHealth ’20.
+PervasiveHealth.
 
 ## People ##
 [Johnna Blair](https://johnnablair.weebly.com)  

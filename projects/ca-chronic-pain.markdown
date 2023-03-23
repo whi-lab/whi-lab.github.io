@@ -17,6 +17,10 @@ Toward this, recent studies have identified Mindfulness-Based Stress Reduction (
 
 In this project, we aim to address this compliance and adherence issue by using a conversational agent. Specifically, we propose to leverage the Amazon Alexa ecosystem to develop an interactive, personalized virtual coach for delivering MBSR. Based on prior research, we believe that such a virtual coach will engender trust and social rapport, resulting in sustained high engagement over a long period of time. Furthermore, our proposed approach is highly scalable and can improve access to MBSR practices, including for those in rural communities.
 
+## Demo ##
+
+<iframe width="720" height="480" src="https://www.youtube.com/embed/ahU-LiFV8f4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 ## Support ##
 
 Support for this research is provided by a [seed grant](https://ssri.psu.edu/news/seed-grants-support-opioid-research-announced) sponsored by Penn State's [Social Science Research Institute (SSRI)](https://ssri.psu.edu/).
@@ -24,8 +28,8 @@ Support for this research is provided by a [seed grant](https://ssri.psu.edu/new
 ## People ##
 
 [Sanjana Mendu](https://www.sanjanamendu.com)  
-[Sebrina Doyle Fosco](http://prevention.psu.edu/people/doyle-sebrina)
-[Stephanie Lanza](https://methodology.psu.edu/people/slanza)
+[Sebrina Doyle Fosco](http://prevention.psu.edu/people/doyle-sebrina)  
+[Stephanie Lanza](https://methodology.psu.edu/people/slanza)  
 [Saeed Abdullah](https://saeedabdullah.com)
 
 [prevalence-pain]: https://doi.org/10.1016/j.jpain.2010.07.002
