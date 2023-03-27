@@ -21,7 +21,7 @@ Technical Overview: The backend of the Alexa skill is written in Python and is d
 
 ## Demo ##
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/4pKBvTatb9M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/4pKBvTatb9M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ## Papers ##
 

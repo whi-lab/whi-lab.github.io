@@ -19,9 +19,9 @@ Our project can lead to novel, supportive technologies to empower individuals wi
 
 ## Papers ##
 
-* **Johnna Blair**, **Jeff Brozena**, Mark Matthews, Thomas Richardson, and **Saeed Abdullah**.
+* **Johnna Blair**, **Jeff Brozena**, Mark Matthews, Thomas Richardson, and **Saeed Abdullah**. (2022).
 [Financial technologies (FinTech) for mental health: The potential of objective financial data to better understand the relationships between financial behavior and mental health][frontiers-2022].
-Frontiers in Psychiatry '22.
+Frontiers in Psychiatry.
 
 ## Support ##
 
