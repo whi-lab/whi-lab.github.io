@@ -6,6 +6,8 @@ layout: page
 2023
 ----
 
+* _March, 2023_: [Jeff](https://brozena.net) was awarded the prestigious [NSF GRFP](https://www.nsfgrfp.org/) - congrats!
+
 * _March, 2023_: [Raju](https://www.rajumaharjan.com) will be an Assistant Professor in the [School of Visual Arts](https://www.ou.edu/finearts/visual-arts) at the [University of Oklahoma](https://www.ou.edu) starting this Fall!
 
 * _March, 2023_: [Johnna](https://johnnablair.weebly.com) has received the IST Graduate Student Award for Excellence in Teaching Support - congrats!
