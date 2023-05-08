@@ -6,6 +6,10 @@ layout: page
 2023
 ----
 
+* _April_, 2023_: [Suhas](https://sites.psu.edu/suhas) is joining [Samsung](https://sra.samsung.com) this summer as an AI research intern, where he will be working on using novel deep learning/reinforcement learning algorithms on multimodal data streams.
+
+* _March, 2023_: [Jeff](https://brozena.net) was awarded the prestigious [NSF GRFP](https://www.nsfgrfp.org/) - congrats!
+
 * _March, 2023_: [Raju](https://www.rajumaharjan.com) will be an Assistant Professor in the [School of Visual Arts](https://www.ou.edu/finearts/visual-arts) at the [University of Oklahoma](https://www.ou.edu) starting this Fall!
 
 * _March, 2023_: [Johnna](https://johnnablair.weebly.com) has received the IST Graduate Student Award for Excellence in Teaching Support - congrats!
