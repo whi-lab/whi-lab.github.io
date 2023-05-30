@@ -6,6 +6,10 @@ layout: page
 2023
 ----
 
+* _May, 2023_: We have received an NIMH R21 grant to assess financial behaviors in bipolar disorder. This project is a collaboration with [Erika F. H. Saunders](https://pennstate.pure.elsevier.com/en/persons/erika-f-h-saunders) and [Dahlia Mukherjee](https://pennstate.pure.elsevier.com/en/persons/dahlia-mukherjee).
+
+* _May, 2023_: [Saeed](https://saeedabdullah.com) has received the [Dean’s Circle of Teaching Excellence](https://www.psu.edu/news/information-sciences-and-technology/story/ist-announces-2023-deans-circle-teaching-excellence/) award - congrats!
+
 * _May, 2023_: Our [paper](https://formative.jmir.org/2023/1/e45894) on using a conversational agent for self-management of PTSD was accepted in [JMIR Formative Research](https://formative.jmir.org/).
 
 * _May, 2023_: [Sanjana](https://www.sanjanamendu.com) presented our work on using a voice interface to support mindfulness practice for individuals living with chronic pain at the [Penn State Consortium for Substance Use (CSUA) Annual Conference](https://csua.ssri.psu.edu/2023-annual-conference).
