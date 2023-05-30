@@ -12,7 +12,7 @@ layout: page
 
 * _May, 2023_: Our [paper](https://formative.jmir.org/2023/1/e45894) on using a conversational agent for self-management of PTSD was accepted in [JMIR Formative Research](https://formative.jmir.org/).
 
-* _May, 2023_: [Sanjana](https://www.sanjanamendu.com) presented our work on using a voice interface to support mindfulness practice for individuals living with chronic pain at the [Penn State Consortium for Substance Use (CSUA) Annual Conference](https://csua.ssri.psu.edu/2023-annual-conference).
+* _May, 2023_: [Sanjana](https://www.sanjanamendu.com) presented [our work](/files/posters/ca-chronic-pain-csua-2023.pdf) on using a voice interface to support mindfulness practice for individuals living with chronic pain at the [Penn State Consortium for Substance Use (CSUA) Annual Conference](https://csua.ssri.psu.edu/2023-annual-conference).
 
 * _April, 2023_: [Sanjana](https://www.sanjanamendu.com) attended the [2023 CRA-WP Grad Cohort for Women](https://web.cvent.com/event/9bcae8aa-6d9e-4942-acc8-a36e48734459/summary).
 
