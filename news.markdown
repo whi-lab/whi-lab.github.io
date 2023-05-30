@@ -6,7 +6,17 @@ layout: page
 2023
 ----
 
-* _April_, 2023_: [Suhas](https://sites.psu.edu/suhas) is joining [Samsung](https://sra.samsung.com) this summer as an AI research intern, where he will be working on using novel deep learning/reinforcement learning algorithms on multimodal data streams.
+* _May, 2023_: We have received an NIMH R21 grant to assess financial behaviors in bipolar disorder. This project is a collaboration with [Erika F. H. Saunders](https://pennstate.pure.elsevier.com/en/persons/erika-f-h-saunders) and [Dahlia Mukherjee](https://pennstate.pure.elsevier.com/en/persons/dahlia-mukherjee).
+
+* _May, 2023_: [Saeed](https://saeedabdullah.com) has received the [Dean’s Circle of Teaching Excellence](https://www.psu.edu/news/information-sciences-and-technology/story/ist-announces-2023-deans-circle-teaching-excellence/) award - congrats!
+
+* _May, 2023_: Our [paper](https://formative.jmir.org/2023/1/e45894) on using a conversational agent for self-management of PTSD was accepted in [JMIR Formative Research](https://formative.jmir.org/).
+
+* _May, 2023_: [Sanjana](https://www.sanjanamendu.com) presented [our work](/files/posters/ca-chronic-pain-csua-2023.pdf) on using a voice interface to support mindfulness practice for individuals living with chronic pain at the [Penn State Consortium for Substance Use (CSUA) Annual Conference](https://csua.ssri.psu.edu/2023-annual-conference).
+
+* _April, 2023_: [Sanjana](https://www.sanjanamendu.com) attended the [2023 CRA-WP Grad Cohort for Women](https://web.cvent.com/event/9bcae8aa-6d9e-4942-acc8-a36e48734459/summary).
+
+* _April, 2023_: [Suhas](https://sites.psu.edu/suhas) is joining [Samsung](https://sra.samsung.com) this summer as an AI research intern, where he will be working on using novel deep learning/reinforcement learning algorithms on multimodal data streams.
 
 * _March, 2023_: [Jeff](https://brozena.net) was awarded the prestigious [NSF GRFP](https://www.nsfgrfp.org/) - congrats!
 
@@ -37,7 +47,7 @@ layout: page
 
 * _October, 2022_: [Sahiti](https://sahitikunchay.github.io)'s internship work at [FitBit Research](https://healthsolutions.fitbit.com/researchers) was featured by the [Center for Technology and Behavioral Health](https://twitter.com/dartmouthctbh/status/1585614590733389824?s=46&t=zqmqtlt1mUfc1RNjlkPDxw) and [Penn State News](https://www.psu.edu/news/information-sciences-and-technology/story/ist-student-diversifies-wearable-tech-health-data-apps).
   
-* _October, 2022_: [Hee Jeong](https://heejeong-han.github.io) presented our work on [dementia diagnosis using text and speech data](files/posters/hackallenge-icds-symposium-2022-10-12.pdf) at the [ICDS Symposium](https://www.icds.psu.edu/news-events/icds-symposium/fall-2022-icds-symposium).
+* _October, 2022_: [Hee Jeong](https://heejeong-han.github.io) presented our work on [dementia diagnosis using text and speech data](files/posters/hackallenge-icds-symposium-2022.pdf) at the [ICDS Symposium](https://www.icds.psu.edu/news-events/icds-symposium/fall-2022-icds-symposium).
   
 * _September, 2022_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io) at [UbiComp 2022](https://www.ubicomp.org/ubicomp2022).
   
@@ -124,7 +134,7 @@ layout: page
 
 * _April, 2019_: [Johnna](https://johnnablair.weebly.com) attended the Computing Research Association Grad Cohort Workshop for Women ([CRA-W 2019](https://cra.org/cra-w/events/grad-cohort-2019)).
 
-* _March, 2019_: [Sahiti](https://sahitikunchay.github.io) presented her work on [light behaviors in smart-speakers](/files/2019/poster-sahiti-grad-exhibition-2019-03-22.pdf) at [Penn State Graduate Exhibition](http://gradschool.psu.edu/exhibition).
+* _March, 2019_: [Sahiti](https://sahitikunchay.github.io) presented her work on [light behaviors in smart-speakers](/files/posters/expressive-lights-exhibition-2019.pdf) at [Penn State Graduate Exhibition](http://gradschool.psu.edu/exhibition).
 
 * _March, 2019_: [Saeed](https://saeedabdullah.com) received the [2019 Junior Faculty Excellence Award in Research](https://news.psu.edu/story/567207/2019/04/03/faculty-and-staff-recognized-annual-ist-awards-reception) from IST.
 
