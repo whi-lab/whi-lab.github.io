@@ -6,7 +6,13 @@ layout: page
 2023
 ----
 
-* _April_, 2023_: [Suhas](https://sites.psu.edu/suhas) is joining [Samsung](https://sra.samsung.com) this summer as an AI research intern, where he will be working on using novel deep learning/reinforcement learning algorithms on multimodal data streams.
+* _May, 2023_: Our [paper](https://formative.jmir.org/2023/1/e45894) on the acceptability of a conversational agent for self-management of PTSD among clinical experts was accepted in [JMIR Formative Research](https://formative.jmir.org/).
+
+* _May, 2023_: [Sanjana](https://www.sanjanamendu.com) presented our work on the acceptability and feasibility of a voice interface to augment mindfulness practice among individuals living with chronic pain at the [Penn State Consortium for Substance Use (CSUA) Annual Conference](https://csua.ssri.psu.edu/2023-annual-conference).
+
+* _April, 2023_: [Sanjana](https://www.sanjanamendu.com) attended the [2023 CRA-WP Grad Cohort for Women](https://web.cvent.com/event/9bcae8aa-6d9e-4942-acc8-a36e48734459/summary) and presented our work the acceptability and feasibility of a voice interface to augment mindfulness practice among individuals living with chronic pain.
+
+* _April, 2023_: [Suhas](https://sites.psu.edu/suhas) is joining [Samsung](https://sra.samsung.com) this summer as an AI research intern, where he will be working on using novel deep learning/reinforcement learning algorithms on multimodal data streams.
 
 * _March, 2023_: [Jeff](https://brozena.net) was awarded the prestigious [NSF GRFP](https://www.nsfgrfp.org/) - congrats!
 
