@@ -6,6 +6,12 @@ layout: page
 2023
 ----
 
+* _July, 2022_: [Saeed](https://saeedabdullah.com) co-organized the ["Designing for and Reflecting upon Resilience in Health and Wellbeing" workshop](https://sites.psu.edu/dis2023workshophealthresilience) at [DIS 2023](https://dis.acm.org/2023).
+
+* _June, 2023_: [Sahiti](https://sahitikunchay.github.io) and [Sanjana](https://www.sanjanamendu.com) have been selected to attend the [Grace Hopper Celebration of Women in Computing (GHC)](https://ghc.anitab.org/)
+
+* _June, 2023_: [Johnna](https://johnnablair.weebly.com) has passed her dissertation defense - congrats Dr. Blair!!
+
 * _May, 2023_: We have received an NIMH R21 grant to assess financial behaviors in bipolar disorder. This project is a collaboration with [Erika F. H. Saunders](https://pennstate.pure.elsevier.com/en/persons/erika-f-h-saunders) and [Dahlia Mukherjee](https://pennstate.pure.elsevier.com/en/persons/dahlia-mukherjee).
 
 * _May, 2023_: [Saeed](https://saeedabdullah.com) has received the [Dean’s Circle of Teaching Excellence](https://www.psu.edu/news/information-sciences-and-technology/story/ist-announces-2023-deans-circle-teaching-excellence/) award - congrats!
