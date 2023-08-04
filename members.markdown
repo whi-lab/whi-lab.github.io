@@ -19,31 +19,31 @@ title: Members
            <p> <a href="https://sahitikunchay.github.io/" target="_blank">Sahiti Kunchay</a><br/>PhD Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://sanjanamendu.com/" target="_blank"><img class="img-circle img-center" src="/files/images/members/sanjana-mendu.jpg"></a>
-           <p> <a href="https://sanjanamendu.com/" target="_blank">Sanjana Mendu</a><br/>PhD Student</p>
+        <a href="https://heejeong-han.github.io/" target="_blank"><img class="img-circle img-center text-center" src="/files/images/members/heejeong-han.jpg"></a>
+           <p> <a href="https://heejeong-han.github.io/" target="_blank">Hee Jeong Han</a><br/>PhD Student</p>
     </div>
 </div>
 
 <div class="row">
-    <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://heejeong-han.github.io/" target="_blank"><img class="img-circle img-center text-center" src="/files/images/members/heejeong-han.jpg"></a>
-           <p> <a href="https://heejeong-han.github.io/" target="_blank">Hee Jeong Han</a><br/>PhD Student</p>
-    </div>
     <div class="col-lg-4 text-center">
         <a href="https://lingqiu3.github.io" target="_blank"><img class="img-circle img-center" src="/files/images/members/ling-qiu.jpg"></a>
            <p> <a href="https://lingqiu3.github.io" target="_blank">Ling Qiu</a><br/>PhD Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://brozena.net" target="_blank"><img class="img-circle img-center" src="/files/images/members/jeff-brozena.jpg"></a>
-           <p> <a href="https://brozena.net" target="_blank">Jeff Brozena</a><br/>PhD Student</p>
+        <a href="https://sanjanamendu.com/" target="_blank"><img class="img-circle img-center" src="/files/images/members/sanjana-mendu.jpg"></a>
+           <p> <a href="https://sanjanamendu.com/" target="_blank">Sanjana Mendu</a><br/>PhD Student</p>
+    </div>
+    <div class="col-lg-4 col-xs-12 text-center">
+        <a href="https://sites.psu.edu/suhas" target="_blank"><img class="img-circle img-center" src="/files/images/members/suhas-bn.jpg"></a>
+        <p> <a href="https://sites.psu.edu/suhas" target="_blank">Suhas Bettapalli Nagaraj</a><br/>PhD Student</p>
     </div>
 </div>
 
 <div class="row">
     <div class="col-lg-4 col-xs-12 text-center"></div>
     <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://sites.psu.edu/suhas" target="_blank"><img class="img-circle img-center" src="/files/images/members/suhas-bn.jpg"></a>
-        <p> <a href="https://sites.psu.edu/suhas" target="_blank">Suhas Bettapalli Nagaraj</a><br/>PhD Student</p>
+        <a href="https://brozena.net" target="_blank"><img class="img-circle img-center" src="/files/images/members/jeff-brozena.jpg"></a>
+           <p> <a href="https://brozena.net" target="_blank">Jeff Brozena</a><br/>PhD Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center"></div>
 </div>
