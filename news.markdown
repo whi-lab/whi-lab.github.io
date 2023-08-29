@@ -6,7 +6,11 @@ layout: page
 2023
 ----
 
-* _July, 2022_: [Saeed](https://saeedabdullah.com) co-organized the ["Designing for and Reflecting upon Resilience in Health and Wellbeing" workshop](https://sites.psu.edu/dis2023workshophealthresilience) at [DIS 2023](https://dis.acm.org/2023).
+* _August, 2023_: [Suhas](https://sites.psu.edu/suhas) presented our [work](files/posters/dementia-interspeech-2023.pdf) on differential privacy to balance accuracy and privacy in speech-based dementia diagnosis at [INTERSPEECH 2023](https://interspeech2023.org/).
+
+* _August, 2023_: Our [paper](https://doi.org/10.1016/j.ijhcs.2023.103126) on the effects of voice assistant personality on user perceptions of COVID misinformation was accepted in the [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies).
+
+* _July, 2023_: [Saeed](https://saeedabdullah.com) co-organized the ["Designing for and Reflecting upon Resilience in Health and Wellbeing" workshop](https://sites.psu.edu/dis2023workshophealthresilience) at [DIS 2023](https://dis.acm.org/2023).
 
 * _June, 2023_: [Sahiti](https://sahitikunchay.github.io) and [Sanjana](https://www.sanjanamendu.com) have been selected to attend the [Grace Hopper Celebration of Women in Computing (GHC)](https://ghc.anitab.org/)
 
