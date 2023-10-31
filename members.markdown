@@ -67,7 +67,7 @@ title: Members
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
         <a href="https://www.linkedin.com/in/devanshi-agnihotri-91241a151" target="_blank"><img class="img-circle img-center" src="/files/images/members/devanshi-agnihotri.jpg"></a>
-        <p> <a href="https://www.linkedin.com/in/devanshi-agnihotri-91241a151" target="_blank">Devanshi Agnihotri</a><br/>MS Student</p>
+        <p> <a href="https://www.linkedin.com/in/devanshi-agnihotri-91241a151" target="_blank">Devanshi Agnihotri</a><br/>Master's Student</p>
     </div>
     <div class="col-lg-4 col-xs-12 text-center">
         <a href="https://nasimmotalebi.com/" target="_blank"><img class="img-circle img-center" src="/files/images/members/nasim-motalebi.jpg"></a>
