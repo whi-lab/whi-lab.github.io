@@ -6,6 +6,10 @@ layout: page
 2023
 ----
 
+* _October, 2023_: Our [paper](https://doi.org/10.1177/20552076231204418) on using a voice interface to support mindfulness-based stress reduction home practice was accepted in [SAGE Digital Health](https://journals.sagepub.com/home/DHJ).
+
+* _September, 2023_: We have received an [NSF grant to develop AI teammates to support mental health workers](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326145). This is a collaboration with [Andrew Sherrill](https://med.emory.edu/directory/profile/?u=AMSHERR), [Christopher Wiese](https://www.christopherwiese.com/home), and [Rosa Arriaga](https://sites.google.com/view/riarriaga/home).
+
 * _August, 2023_: [Suhas](https://sites.psu.edu/suhas) presented our [work](files/posters/dementia-interspeech-2023.pdf) on differential privacy to balance accuracy and privacy in speech-based dementia diagnosis at [INTERSPEECH 2023](https://interspeech2023.org/).
 
 * _August, 2023_: Our [paper](https://doi.org/10.1016/j.ijhcs.2023.103126) on the effects of voice assistant personality on user perceptions of COVID misinformation was accepted in the [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies).
