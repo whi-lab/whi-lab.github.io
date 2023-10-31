@@ -40,6 +40,7 @@ title: Members
 </div>
 
 <div class="row">
+    <div class="col-lg-2 col-xs-12 text-center"></div>
     <div class="col-lg-4 col-xs-12 text-center">
         <a href="https://sites.psu.edu/suhas" target="_blank"><img class="img-circle img-center" src="/files/images/members/suhas-bn.jpg"></a>
         <p> <a href="https://sites.psu.edu/suhas" target="_blank">Suhas Bettapalli Nagaraj</a><br/>PhD Student</p>
@@ -48,7 +49,7 @@ title: Members
         <a href="https://brozena.net" target="_blank"><img class="img-circle img-center" src="/files/images/members/jeff-brozena.jpg"></a>
            <p> <a href="https://brozena.net" target="_blank">Jeff Brozena</a><br/>PhD Student</p>
     </div>
-    <div class="col-lg-4 col-xs-12 text-center"></div>
+    <div class="col-lg-2 col-xs-12 text-center"></div>
 </div>
 
 <div class="row">
@@ -75,6 +76,7 @@ title: Members
 </div>
 
 <div class="row">
+    <div class="col-lg-2 col-xs-12 text-center"></div>
     <div class="col-lg-4 col-xs-12 text-center">
         <a href="https://shanwang61.github.io/" target="_blank"><img class="img-circle img-center" src="/files/images/members/shan-wang.jpg"></a>
            <p> <a href="https://shanwang61.github.io/">Shan Wang</a><br/>Master's Student</p>
@@ -83,6 +85,6 @@ title: Members
         <a href="https://www.linkedin.com/in/ryan-jaeger-965b42144" target="_blank"><img class="img-circle img-center" src="/files/images/members/ryan-jaeger.jpg"></a>
            <p> <a href="https://www.linkedin.com/in/ryan-jaeger-965b42144">Ryan Jaeger</a><br/>Undergraduate Student</p>
     </div>
-    <div class="col-lg-4 col-xs-12 text-center"></div>
+    <div class="col-lg-2 col-xs-12 text-center"></div>
 </div>
 
