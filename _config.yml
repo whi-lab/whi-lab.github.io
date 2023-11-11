@@ -13,4 +13,8 @@ author:
   name:           'Saeed Abdullah'
   url:            https://saeedabdullah.com
 
+exclude:
+  - Makefile
+  - README.markdown
+
 # paginate:         5
