@@ -16,5 +16,6 @@ author:
 exclude:
   - Makefile
   - README.markdown
+  - sanitizers/
 
 # paginate:         5

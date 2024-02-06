@@ -21,3 +21,6 @@ Gemfile.lock
 .vscode/*
 *.code-workspace
 .history/
+
+# link checker utility
+wget-run.log

@@ -11,4 +11,12 @@ $(markdowns):
 spell: $(markdowns)
 	@:
 
-.PHONY: run, $(markdowns)
+# Check for broken links
+link:
+	wget --spider -r -nd -nv  -l 0 -o wget-run.log http://127.0.0.1:4000/
+
+# Update github pages bundle
+bundle:
+	bundle update github-pages
+
+.PHONY: run, $(markdowns), link, bundle
