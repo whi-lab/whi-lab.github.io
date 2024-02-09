@@ -46,7 +46,7 @@ layout: page
 
 * _February, 2023_: [Ling](https://lingqiu3.github.io) has passed the comprehensive exam - congrats!
 
-* _January, 2023_: We have two papers accepted at [CHI 2023](https://chi2023.acm.org)! The first paper focuses on [designing preemptive interventions for indviduals with bipolar disorder](https://saeedabdullah.com/files/pubs/2023-bd-premptive-intervention-chi.pdf). The second paper aims to [improve physical activity among Hispanic users](https://saeedabdullah.com/files/pubs/2023-fitness-chi.pdf).
+* _January, 2023_: We have two papers accepted at [CHI 2023](https://chi2023.acm.org)! The first paper focuses on [designing preemptive interventions for individuals with bipolar disorder](https://saeedabdullah.com/files/pubs/2023-bd-premptive-intervention-chi.pdf). The second paper aims to [improve physical activity among Hispanic users](https://saeedabdullah.com/files/pubs/2023-fitness-chi.pdf).
 
 2022
 ----
@@ -104,7 +104,7 @@ layout: page
 
 * _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her work at the [UbiComp](https://www.ubicomp.org/ubicomp2021) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4)!
 
-* _August, 2021_: We have [two](https://doi.org/10.1145/3460418.3479332) [papers](https://doi.org/10.1145/3460418.3479336) accepted in the [UbiComp/ISCWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
+* _August, 2021_: We have [two](https://doi.org/10.1145/3460418.3479332) [papers](https://doi.org/10.1145/3460418.3479336) accepted in the [UbiComp/ISWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
 
 * _August, 2021_: Welcome to 3 new members: [Suhas](https://sites.psu.edu/suhas), [Jeff](https://brozena.net), and [Sarah](https://sarah-tran.weebly.com)!!
 
