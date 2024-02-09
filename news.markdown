@@ -3,6 +3,10 @@ title: News
 layout: page
 ---
 
+2024
+----
+* _January, 2024_: We have published [a paper](https://doi.org/10.1089/jpm.2023.0534) exploring how conversational agents might be used in palliative care.
+
 2023
 ----
 
