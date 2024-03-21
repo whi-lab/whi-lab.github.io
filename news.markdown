@@ -5,6 +5,8 @@ layout: page
 
 2024
 ----
+* _March, 2024_: We have two submissions accepted at [CHI 2024](https://chi2024.acm.org/)! The first paper focuses on [supportive financial technology for individuals with bipolar disorder](https://saeedabdullah.com/files/pubs/2024-chi-fintech-bd.pdf). The second submission is a late-breaking paper [on managing finances for persons living with dementia](#).
+
 * _January, 2024_: We have published [a paper](https://doi.org/10.1089/jpm.2023.0534) exploring how conversational agents might be used in palliative care.
 
 2023

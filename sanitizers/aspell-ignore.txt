@@ -1,4 +1,4 @@
-personal_ws-1.1 en 131 
+personal_ws-1.1 en 135 
 ACM
 APL
 ASM
@@ -12,6 +12,7 @@ BodyClock
 Brozena
 CAs
 CBCT
+CHHA
 CRA
 CSCW
 CSUA
@@ -27,6 +28,7 @@ Doherty
 EMA
 FH
 FinTech
+FitBit
 Fosco
 Fredman
 Freepik
@@ -37,6 +39,7 @@ HCI
 Hao
 Hee
 Hsu
+IMWUT
 INTERSPEECH
 IST
 ISWC
@@ -68,6 +71,7 @@ NLP
 Nagaraj
 Napendra
 Nasim
+Nittany
 NonCommercial
 PTSD
 PTSDialogue
