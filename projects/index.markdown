@@ -4,54 +4,60 @@ title: Projects
 ---
 
 We are interested in designing, developing, and deploying novel
-technologies for improving health and wellbeing. Our recent projects
-focus on conversational agents, passive sensing, and circadian computing.
-If you are interested in some of our past projects, take a look <a href="past.html">here</a>.
+technologies to improve health and wellbeing. Our current projects
+focus on supportive financial technology (fintech) and human-centered AI for personalized health.
+If you are interested in some of our past projects, please take a look <a href="past.html">here</a>.
 
 <div class="row">
     <div class="col-md-12 text-center">
         <hr>
-        <h1> Conversational Agents </h1>
+        <h1>Democratizing Financial Technology (FinTech)</h1>
     </div>
 </div>
 
 <div class="row">
     <div class="col-lg-6">
-        <a href="ca-engagement.html"><img src="/files/images/projects/ca-engagement.jpg" ></a>
-        <h3><a href="ca-engagement.html">Sustaining Engagement in Health Interventions</a></h3>
-        <p>Using conversational agents to sustain longitudinal user engagement to eHealth technologies.</p>
+        <a href="bd-finhealth.html"><img src="/files/images/projects/bd-finhealth.jpg" ></a>
+        <h3><a href="bd-finhealth.html">Supportive fintech for individuals with bipolar disorder</a></h3>
+        <p>Collaborative fintech to address the needs across different stages of bipolar disorder.</p>
     </div>
     <div class="col-lg-6">
-        <a href="ca-chronic-pain.html"><img src="/files/images/projects/ca-chronic-pain.jpg" ></a>
-        <h3><a href="ca-chronic-pain">Mindfulness Intervention for Chronic Pain Management</a></h3>
-        <p>A virtual coach for patients with chronic pain with a focus on Mindfulness-Based Stress Reduction (MBSR) practices.</p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-lg-6">
-        <a href="nurse-amie.html"><img src="/files/images/projects/nurse-amie.jpg" ></a>
-        <h3><a href="nurse-amie.html">Nurse AMIE (Addressing Metastatic Individuals Everyday)</a></h3>
-        <p>Using smart speakers to provide supportive care intervention for women with metastatic breast cancer.</p>
+        <a href="dementia-fintech.html"><img src="/files/images/projects/dementia-fintech.jpg" ></a>
+        <h3><a href="dementia-fintech.html">Financial management needs in dementia care</a></h3>
+        <p>Financial needs and challenges for individuals with dementia and their care partners.</p>
     </div>
 </div>
 
 <div class="row">
     <div class="col-md-12 text-center">
         <hr>
-        <h1> Sensing Health & Wellbeing </h1>
+        <h1>Human-centered AI for Personalized Health</h1>
     </div>
 </div>
 
+
+
+
 <div class="row">
     <div class="col-lg-6">
-      <a href="finhealth.html"><img src="/files/images/projects/finhealth.jpg"></a>
-      <h3><a href="finhealth.html">Supporting Financial Wellbeing in Bipolar Disorder</a></h3>
-      <p>Using open banking technologies to support financial wellbeing for individuals living with serious mental illnesses.</p>
+        <a href="teammait.html"><img src="/files/images/projects/teammait.jpg" ></a>
+        <h3><a href="teammait.html">Interactive AI to support mental health worker training</a></h3>
+        <p>AI Teammates that can upskill the mental health workforce</p>
     </div>
     <div class="col-lg-6">
-      <a href="watch-over.html"><img src="/files/images/projects/watch-over.jpg"></a>
-      <h3><a href="watch-over.html">WatchOver</a></h3>
-      <p>Using smartwatches to understand and address substance misuse in young adults.</p>
+        <a href="dementia-va.html"><img src="/files/images/projects/ca-chronic-pain.jpg" ></a>
+        <h3><a href="dementia-va.html">Voice assistant for dementia care</a></h3>
+        <p>A voice assistant to support cognitive stimulation therapy (CST) at scale.</p>
+    </div>
+ <div class="row">
+    <div class="col-lg-6">
+        <a href="palliative-care.html"><img src="/files/images/projects/palliative-care.jpg" ></a>
+        <h3><a href="palliative-care.html">Supporting self-management in palliative care</a></h3>
+        <p>A conversational agent to provide personalized interventions to support self-management in palliative care.</p>
+    </div>
+    <div class="col-lg-6">
+        <a href="genai-health-intervention.html"><img src="/files/images/projects/genai-health-intervention.jpg" ></a>
+        <h3><a href="genai-health-intervention.html">Generative AI to design health interventions</a></h3>
+        <p>Using human-centered generative AI to promote physical activity.</p>
     </div>
 </div>
