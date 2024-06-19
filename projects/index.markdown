@@ -45,7 +45,7 @@ If you are interested in some of our past projects, please take a look <a href="
         <p>AI Teammates that can upskill the mental health workforce</p>
     </div>
     <div class="col-lg-6">
-        <a href="dementia-va.html"><img src="/files/images/projects/ca-chronic-pain.jpg" ></a>
+        <a href="dementia-va.html"><img src="/files/images/projects/dementia-va.jpg" ></a>
         <h3><a href="dementia-va.html">Voice assistant for dementia care</a></h3>
         <p>A voice assistant to support cognitive stimulation therapy (CST) at scale.</p>
     </div>
