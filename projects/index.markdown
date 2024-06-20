@@ -17,14 +17,14 @@ If you are interested in some of our past projects, please take a look <a href="
 
 <div class="row">
     <div class="col-lg-6">
-        <a href="bd-finhealth.html"><img src="/files/images/projects/bd-finhealth.jpg" ></a>
+        <a href="bd-finhealth.html"><img src="/files/images/projects/bd-finhealth.png" ></a>
         <h3><a href="bd-finhealth.html">Supportive fintech for individuals with bipolar disorder</a></h3>
-        <p>Collaborative fintech to address the needs across different stages of bipolar disorder.</p>
+        <p>Collaborative fintech to support financial management and decision-making across different stages of bipolar disorder.</p>
     </div>
     <div class="col-lg-6">
         <a href="dementia-fintech.html"><img src="/files/images/projects/dementia-fintech.jpg" ></a>
-        <h3><a href="dementia-fintech.html">Financial management needs in dementia care</a></h3>
-        <p>Financial needs and challenges for individuals with dementia and their care partners.</p>
+        <h3><a href="dementia-fintech.html">Financial management in dementia care</a></h3>
+        <p>Financial management needs and challenges for individuals with dementia and their care partners.</p>
     </div>
 </div>
 
