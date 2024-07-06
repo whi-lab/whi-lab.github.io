@@ -22,13 +22,13 @@ from the [College of Health and Human Development][hhd], [Hershey
 Medical Center][hershey-psychiatry], and [College of Communications][comm].
 
 ---
-We are looking for students to [join our lab](./prospective-students.html)!
+We are looking for students to [join our lab]({%link prospective-students.markdown %})!
 
 [ist-link]: https://ist.psu.edu/
-[clockwise-project]: projects/clockwise.html
-[sleep]: projects/cr-distruption-phone-sensing.html
-[bd-prediction]: projects/bd-prediction.html
-[alexa-ptsd]: projects/ca-ptsd.html
+[clockwise-project]: {%link projects/archived/clockwise.markdown %}
+[sleep]: {%link projects/archived/cr-distruption-phone-sensing.markdown %}
+[bd-prediction]: {%link projects/archived/bd-prediction.markdown %}
+[alexa-ptsd]: {%link projects/archived/ca-ptsd.markdown %}
 [hhd]: https://hhd.psu.edu/
 [hershey-psychiatry]: https://hmc.pennstatehealth.org/psychiatry
 [comm]: https://bellisario.psu.edu/

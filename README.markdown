@@ -17,6 +17,16 @@ Please make sure that there are no obvious visual inconsistencies in the added c
 * Check the changes you have made
 
 #### Check links ####
+
+Please follow the following two steps to ensure there are no broken links.
+
+##### link validation by default #####
+Internal links should be validated by default. That is, when linking to any internal
+urls, you should use the `link` tag (see [Jekyll documentation](https://jekyllrb.com/docs/liquid/tags/#links)).
+This will ensure that broken links are identified during the site generation step.
+
+##### wget to identify broken links #####
+
 Run `wget` locally to check for broken links using the following steps:
 
 * Run `make` to generate the website

@@ -6,7 +6,7 @@ title: Projects
 We are interested in designing, developing, and deploying novel
 technologies to improve health and wellbeing. Our current projects
 focus on supportive financial technology (fintech) and human-centered AI for personalized health.
-If you are interested in some of our past projects, please take a look <a href="past.html">here</a>.
+If you are interested in some of our past projects, please take a look [here]({% link projects/archived/index.markdown %}).
 
 <div class="row">
     <div class="col-md-12 text-center">
