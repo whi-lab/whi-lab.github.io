@@ -4,11 +4,11 @@ layout: page
 ---
 
 <div class="row">
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/projects/passive-sensing.jpg"/>
-        </div>
-    </div>
+<div class="col-md-12">
+<div class="col-xs-offset-1 col-md-10" markdown="1">
+![{{ page.title }}]({%link files/images/projects/passive-sensing.jpg %})
+</div>
+</div>
 </div>
 
 Persistent sleep and circadian disruptions can have severe consequences for
@@ -36,7 +36,7 @@ In other words, we need in-situ and broad data collection strategies that can re
 ## Papers ##
 * Saeed Abdullah, Mark Matthews, Elizabeth L. Murnane, Geri Gay, and Tanzeem Choudhury.
 [Towards Circadian Computing: “Early to Bed and Early to Rise” Makes Some of
-Us Unhealthy and Sleep Deprived](http://pac.cs.cornell.edu/pubs/clockwise-ubicomp-2014.pdf). _The 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing_ ([UbiComp 2014](http://ubicomp.org/ubicomp2014/)).
+Us Unhealthy and Sleep Deprived](https://saeedabdullah.com/files/pubs/2023-bd-intervention-chi.pdf). _The 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing_ ([UbiComp 2014](http://ubicomp.org/ubicomp2014/)).
 
 * Elizabeth L. Murnane, Saeed Abdullah, Mark Matthews, Tanzeem Choudhury,
 and Geri Gay. [Social (media) jet lag: How usage of social technology can
@@ -47,5 +47,4 @@ Symposium on Wearable Computers_
 ([UbiComp 2015](http://ubicomp.org/ubicomp2015/)).
 
 ## Supplementary Materials ##
-* [UbiComp 2014 presentation](https://dl.dropboxusercontent.com/u/6286713/permlinks/talk-ubicomp-2014.pdf)
-* [Large scale replication study confirms high accuracy of our phone usage based sleep algorithm](http://saeedabdullah.com/blog/sleep-algorithm-replication.html)
+* [Large scale replication study confirms high accuracy of our phone usage based sleep algorithm](https://saeedabdullah.com/blog/sleep-algorithm-replication.html)

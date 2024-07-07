@@ -5,11 +5,11 @@ layout: page
 
 <div class="row">
 
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/projects/social-media-image.jpg"/>
-        </div>
-    </div>
+<div class="col-md-12">
+<div class="col-xs-offset-1 col-md-10" markdown="1">
+![{{ page.title }}]({%link files/images/projects/social-media-image.jpg %})
+</div>
+</div>
 </div>
 
 
@@ -30,5 +30,3 @@ image content based systems allows cross-cultural sentiment analysis.
 *  Saeed Abdullah, Elizabeth L. Murnane, Jean MR Costa, and Tanzeem Choudhury.
 <a href="http://dl.acm.org/citation.cfm?id=2675186">Collective Smile: Measuring Societal Happiness from Geolocated Images.</a> <em>In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing</em> (<a href="http://cscw.acm.org/2015/">CSCW 2015</a>).
 
-## Supplementary materials ##
-* [CSCW presentation](https://dl.dropboxusercontent.com/u/6286713/permlinks/cscw-2015.pdf)

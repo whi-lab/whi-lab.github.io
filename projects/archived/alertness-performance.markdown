@@ -4,11 +4,11 @@ layout: page
 ---
 
 <div class="row">
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/projects/cognitive-rhythm.jpg"/>
-        </div>
-    </div>
+<div class="col-md-12">
+<div class="col-xs-offset-1 col-md-10" markdown="1">
+![{{ page.title }}]({%link files/images/projects/cognitive-rhythm.jpg %})
+</div>
+</div>
 </div>
 
 Our cognitive abilities wax and wane over the course of the day. In particular, alertness — a central component underlying a wide range of cognitive functions from learning to problem-solving to memory consolidation — fluctuates reflecting a circadian rhythm. It is also influenced by a number of other factors, including sleep and one’s internal body clock type (for example, whether one is an “early bird” or a “night owl”).

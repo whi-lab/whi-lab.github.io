@@ -5,12 +5,11 @@ layout: page
 
 
 <div class="row">
-
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/projects/mood-rhythm.jpg"/>
-        </div>
-    </div>
+<div class="col-md-12">
+<div class="col-xs-offset-1 col-md-10" markdown="1">
+![{{ page.title }}]({%link files/images/projects/mood-rhythm.jpg %})
+</div>
+</div>
 </div>
 
 
@@ -31,7 +30,7 @@ valuable information back to their physicians.
 
 ## Papers ##
 
-* Mark Matthews, Saeed Abdullah, Elizabeth Murnane, Steven Voida, Tanzeem Choudhury, Geri Gay, Ellen Frank. <a href="#">Development and evaluation of a smartphone-based measure of social rhythms for bipolar disorder</a>. <em>Special Issue of Assessment on measuring, modeling, and implementing dynamic processes</em>. <a href="https://us.sagepub.com/en-us/nam/assessment/journal201629">Assessment (ASM)</a> <em>(In Press)</em>.
+* Mark Matthews, Saeed Abdullah, Elizabeth Murnane, Steven Voida, Tanzeem Choudhury, Geri Gay, Ellen Frank. <a href="#">Development and evaluation of a smartphone-based measure of social rhythms for bipolar disorder</a>. <em>Special Issue of Assessment on measuring, modeling, and implementing dynamic processes</em>. <a href="https://us.sagepub.com/en-us/nam/assessment/journal201629">Assessment (ASM)</a>.
 
 * Saeed Abdullah, Mark Matthews, Ellen Frank, Gavin Doherty, Geri Gay, Tanzeem Choudhury. <a href="http://dx.doi.org/10.1093/jamia/ocv200"> Automatic detection of social rhythms in Bipolar Disorder</a>. <em>Journal of the American Medical Informatics Association (JAMIA)</em>.
 

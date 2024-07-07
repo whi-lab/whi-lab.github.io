@@ -16,7 +16,7 @@ layout: page
 
 * _September, 2023_: We have received an [NSF grant to develop AI teammates to support mental health workers](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326145). This is a collaboration with [Andrew Sherrill](https://med.emory.edu/directory/profile/?u=AMSHERR), [Christopher Wiese](https://www.christopherwiese.com/home), and [Rosa Arriaga](https://sites.google.com/view/riarriaga/home).
 
-* _August, 2023_: [Suhas](https://sites.psu.edu/suhas) presented our [work](files/posters/dementia-interspeech-2023.pdf) on differential privacy to balance accuracy and privacy in speech-based dementia diagnosis at [INTERSPEECH 2023](https://interspeech2023.org/).
+* _August, 2023_: [Suhas](https://sites.psu.edu/suhas) presented our [work]({%link files/posters/dementia-interspeech-2023.pdf %}) on differential privacy to balance accuracy and privacy in speech-based dementia diagnosis at [INTERSPEECH 2023](https://interspeech2023.org/).
 
 * _August, 2023_: Our [paper](https://doi.org/10.1016/j.ijhcs.2023.103126) on the effects of voice assistant personality on user perceptions of COVID misinformation was accepted in the [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies).
 
@@ -32,7 +32,7 @@ layout: page
 
 * _May, 2023_: Our [paper](https://formative.jmir.org/2023/1/e45894) on using a conversational agent for self-management of PTSD was accepted in [JMIR Formative Research](https://formative.jmir.org/).
 
-* _May, 2023_: [Sanjana](https://www.sanjanamendu.com) presented [our work](/files/posters/ca-chronic-pain-csua-2023.pdf) on using a voice interface to support mindfulness practice for individuals living with chronic pain at the [Penn State Consortium for Substance Use (CSUA) Annual Conference](https://csua.ssri.psu.edu/2023-annual-conference).
+* _May, 2023_: [Sanjana](https://www.sanjanamendu.com) presented [our work]({%link files/posters/ca-chronic-pain-csua-2023.pdf %}) on using a voice interface to support mindfulness practice for individuals living with chronic pain at the [Penn State Consortium for Substance Use (CSUA) Annual Conference](https://csua.ssri.psu.edu/2023-annual-conference).
 
 * _April, 2023_: [Sanjana](https://www.sanjanamendu.com) attended the [2023 CRA-WP Grad Cohort for Women](https://web.cvent.com/event/9bcae8aa-6d9e-4942-acc8-a36e48734459/summary).
 
@@ -53,7 +53,7 @@ layout: page
 2022
 ----
 
-* _December, 2022_: [Raju](https://www.rajumaharjan.com) gave an [invited talk](files/slides/maharjan-postdoc-symposium.pdf) on "Research at the Intersection of Design, Technology, and Mental Health & Best Wellness Apps to Reduce Stress" at the [15th annual Penn State Postdoctoral Symposium](https://www.research.psu.edu/node/5503).
+* _December, 2022_: [Raju](https://www.rajumaharjan.com) gave an [invited talk]({%link files/slides/maharjan-postdoc-symposium.pdf %}) on "Research at the Intersection of Design, Technology, and Mental Health & Best Wellness Apps to Reduce Stress" at the [15th annual Penn State Postdoctoral Symposium](https://www.research.psu.edu/node/5503).
 
 * _December, 2022_: [Sanjana](https://www.sanjanamendu.com) presented our work on evaluating the acceptability of a voice interface for facilitating mindfulness practice among expert facilitators at the [8th annual Penn State Addiction Symposium](https://research.med.psu.edu/addiction-symposium/).
 
@@ -67,7 +67,7 @@ layout: page
 
 * _October, 2022_: [Sahiti](https://sahitikunchay.github.io)'s internship work at [FitBit Research](https://healthsolutions.fitbit.com/researchers) was featured by the [Center for Technology and Behavioral Health](https://twitter.com/dartmouthctbh/status/1585614590733389824?s=46&t=zqmqtlt1mUfc1RNjlkPDxw) and [Penn State News](https://www.psu.edu/news/information-sciences-and-technology/story/ist-student-diversifies-wearable-tech-health-data-apps).
   
-* _October, 2022_: [Hee Jeong](https://heejeong-han.github.io) presented our work on [dementia diagnosis using text and speech data](files/posters/hackallenge-icds-symposium-2022.pdf) at the [ICDS Symposium](https://www.icds.psu.edu/news-events/icds-symposium/fall-2022-icds-symposium).
+* _October, 2022_: [Hee Jeong](https://heejeong-han.github.io) presented our work on [dementia diagnosis using text and speech data]({%link files/posters/hackallenge-icds-symposium-2022.pdf %}) at the [ICDS Symposium](https://www.icds.psu.edu/news-events/icds-symposium/fall-2022-icds-symposium).
   
 * _September, 2022_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health : Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io) at [UbiComp 2022](https://www.ubicomp.org/ubicomp2022).
   
@@ -118,7 +118,7 @@ layout: page
 
 * _March, 2021_: [Johnna](https://johnnablair.weebly.com) passed her comprehensive exam with flying colors!
 
-* _January, 2021_: We have [two](/files/pubs/covid-twitter-chi-lbw-2021.pdf) [papers](/files/pubs/nurse-amie-chi-lbw-2021.pdf) accepted in [CHI 2021 Late Breaking Work](https://chi2021.acm.org).
+* _January, 2021_: We have [two]({%link files/pubs/covid-twitter-chi-lbw-2021.pdf %}) [papers]({%link files/pubs/nurse-amie-chi-lbw-2021.pdf %}) accepted in [CHI 2021 Late Breaking Work](https://chi2021.acm.org).
 
 * _January, 2021_: [Johnna](https://johnnablair.weebly.com) participated in a [podcast](https://www.byuradio.org/topofmind) [interview](https://www.byuradio.org/b30d7f99-9ed6-4e36-b597-6b4840718d4b) discussing her work on smart assistant accessibility.
  
@@ -127,7 +127,7 @@ layout: page
 2020
 ----
 
-* _December, 2020_: Our [paper](/files/pubs/speaker-accessibility-ubicomp-2021.pdf) on smart assistant accessibility was accepted in [UbiComp/ACM IMWUT](https://www.ubicomp.org/ubicomp2021).
+* _December, 2020_: Our [paper]({%link files/pubs/speaker-accessibility-ubicomp-2021.pdf %}) on smart assistant accessibility was accepted in [UbiComp/ACM IMWUT](https://www.ubicomp.org/ubicomp2021).
 
 * _October, 2020_: Our [workshop paper](https://doi.org/10.1145/3421937.3421947) presenting preliminary findings on collaborative clinical work and predicting relapse onset in bipolar disorder from online behavioral data was accepted in [PervasiveHealth 2020](https://pervasivehealth.eai-conferences.org/2020).
 
@@ -154,7 +154,7 @@ layout: page
 
 * _April, 2019_: [Johnna](https://johnnablair.weebly.com) attended the Computing Research Association Grad Cohort Workshop for Women ([CRA-W 2019](https://cra.org/cra-w/events/grad-cohort-2019)).
 
-* _March, 2019_: [Sahiti](https://sahitikunchay.github.io) presented her work on [light behaviors in smart-speakers](/files/posters/expressive-lights-exhibition-2019.pdf) at [Penn State Graduate Exhibition](http://gradschool.psu.edu/exhibition).
+* _March, 2019_: [Sahiti](https://sahitikunchay.github.io) presented her work on [light behaviors in smart-speakers]({%link files/posters/expressive-lights-exhibition-2019.pdf %}) at [Penn State Graduate Exhibition](http://gradschool.psu.edu/exhibition).
 
 * _March, 2019_: [Saeed](https://saeedabdullah.com) received the [2019 Junior Faculty Excellence Award in Research](https://news.psu.edu/story/567207/2019/04/03/faculty-and-staff-recognized-annual-ist-awards-reception) from IST.
 
@@ -163,7 +163,7 @@ layout: page
 2018
 ----
 
-* _November, 2018_: [Johnna](https://johnnablair.weebly.com) presented her paper on [photo based meal tracking](/files/pubs/amia-onenote-2018.pdf) at the American Medical Informatics Association Conference ([AMIA 2018](http://www.amiaconference.net/amia-2018)).
+* _November, 2018_: [Johnna](https://johnnablair.weebly.com) presented her paper on [photo based meal tracking]({%link files/pubs/amia-onenote-2018.pdf %}) at the American Medical Informatics Association Conference ([AMIA 2018](http://www.amiaconference.net/amia-2018)).
 
 * _September, 2018_: We have been awarded [a seed grant from SSRI](http://www.ssri.psu.edu/news/seed-grants-support-opioid-research-announced). This project aims to use [Amazon Alexa for real-time mindfulness intervention delivery to patients with chronic pain]({%link projects/archived/ca-chronic-pain.markdown %}).
 

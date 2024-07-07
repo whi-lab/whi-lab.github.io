@@ -26,7 +26,7 @@ We are looking for students to [join our lab]({%link prospective-students.markdo
 
 [ist-link]: https://ist.psu.edu/
 [clockwise-project]: {%link projects/archived/clockwise.markdown %}
-[sleep]: {%link projects/archived/cr-distruption-phone-sensing.markdown %}
+[sleep]: {%link projects/archived/cr-disruption-phone-sensing.markdown %}
 [bd-prediction]: {%link projects/archived/bd-prediction.markdown %}
 [alexa-ptsd]: {%link projects/archived/ca-ptsd.markdown %}
 [hhd]: https://hhd.psu.edu/

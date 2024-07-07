@@ -4,11 +4,11 @@ layout: page
 ---
 
 <div class="row">
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/projects/ca-engagement.jpg"/>
-        </div>
-    </div>
+<div class="col-md-12">
+<div class="col-xs-offset-1 col-md-10" markdown="1">
+![{{ page.title }}]({%link files/images/projects/ca-engagement.jpg %})
+</div>
+</div>
 </div>
 
 In recent years, there has been a significant rise in digital health technologies including smartphone apps. These technologies potentially solve a critical issue in health care delivery — wide dissemination of evidence-based interventions in a scalable manner. As such, it is understandable that there is a certain optimism and enthusiasm about eHealth technologies and their potential ability to reshape health care.
@@ -45,4 +45,4 @@ Support for this research is provided by the [National Science Foundation][nsf] 
 [engagement-impact]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222162
 [nsf]: https://www.nsf.gov/index.jsp
 [nsf-grant]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850287
-[ubicomp-mhs-workshop]: /files/pubs/ca-engagement-ubicomp-2022.pdf
+[ubicomp-mhs-workshop]: {%link files/pubs/ca-engagement-ubicomp-2022.pdf %}

@@ -4,11 +4,11 @@ layout: page
 ---
 
 <div class="row">
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/projects/ca-alexa-ptsd.jpg"/>
-        </div>
-    </div>
+<div class="col-md-12">
+<div class="col-xs-offset-1 col-md-10" markdown="1">
+![{{ page.title }}]({%link files/images/projects/ca-alexa-ptsd.jpg %})
+</div>
+</div>
 </div>
 
 

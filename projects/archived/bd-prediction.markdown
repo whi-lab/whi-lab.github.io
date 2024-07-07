@@ -4,11 +4,11 @@ layout: page
 ---
 
 <div class="row">
-    <div class="col-md-12">
-	<div class="col-xs-offset-1 col-md-10">
-	    <img src="/files/images/projects/bd-prediction.jpg"/>
-	</div>
-    </div>
+<div class="col-md-12">
+<div class="col-xs-offset-1 col-md-10" markdown="1">
+![{{ page.title }}]({%link files/images/projects/bd-prediction.jpg %})
+</div>
+</div>
 </div>
 
 Bipolar disorder (BD) is characterized by extreme fluctuations in mood, energy, and cognition resulting in manic and depressive episodes. There is no cure for BD; traditional treatment steps involve lifelong illness management and constant vigilance against relapse. Indeed, preventing relapse is a key clinical focus since it results in better patient outcomes, improves quality of life, and reduces the need for hospitalization1 — a major source of national health care cost.
@@ -40,7 +40,7 @@ PervasiveHealth.
 [Dahlia Mukherjee](https://profiles.psu.edu/profiles/display/158660182)  
 [Saeed Abdullah](https://saeedabdullah.com)
 
-[ubicomp-2021]: /files/pubs/bd-prediction-ubicomp-2021.pdf
-[pervasive-health-2020]: /files/pubs/bd-prediction-pervasive-health-2020.pdf
+[ubicomp-2021]: {%link files/pubs/bd-prediction-ubicomp-2021.pdf %}
+[pervasive-health-2020]: {%link files/pubs/bd-prediction-pervasive-health-2020.pdf %}
 
 <small><a href="https://www.freepik.com/free-vector/online-concept-illustration_7769789.htm">Image</a> by <a href="https://www.freepik.com/author/stories">storyset</a> on <a href="https://www.freepik.com/">Freepik</a></small>

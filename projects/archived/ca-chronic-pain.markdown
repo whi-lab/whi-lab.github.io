@@ -4,11 +4,11 @@ layout: page
 ---
 
 <div class="row">
-    <div class="col-md-12">
-		<div class="col-xs-offset-1 col-md-10">
-			<img src="/files/images/projects/ca-chronic-pain.jpg"/>
-		</div>
-    </div>
+<div class="col-md-12">
+<div class="col-xs-offset-1 col-md-10" markdown="1">
+![{{ page.title }}]({%link files/images/projects/ca-chronic-pain.jpg %})
+</div>
+</div>
 </div>
 
 Chronic pain is a serious public health issue affecting [approximately][prevalence-pain] [30-40%][iom-prevalence] of the US adult population. The widespread use of opioid pain medication has contributed to a national epidemic of addiction in the US; more than [165,000 deaths occurred between 1999 and 2014][cdc-jama] due to opioid overdose. As such, there is an urgent need to develop and deploy non-addictive chronic pain management methods.

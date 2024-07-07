@@ -3,11 +3,11 @@ title: ClockWise
 layout: page
 ---
 <div class="row">
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/projects/clockwise.jpg"/>
-        </div>
-    </div>
+<div class="col-md-12">
+<div class="col-xs-offset-1 col-md-10" markdown="1">
+![{{ page.title }}]({%link files/images/projects/clockwise.jpg %})
+</div>
+</div>
 </div>
 
 Human physiology and behavior are deeply rooted in the daily 24 hour temporal structure. Our biological processes vary significantly, predictably, and idiosyncratically throughout the day in accordance with these circadian rhythms, which in turn influence our physical and mental performance. Persistent disruptions to our innate biological rhythms can have serious consequences for physical and mental well-being — contributing to cardiovascular disease, cancer, obesity, and mental health problems. However, in our modern mobile world, with its “always-on” ethos, circadian disruptions are becoming increasingly wide-spread.
@@ -23,9 +23,5 @@ In this work, we focus on advancing a vision of “_Circadian Computing_” — 
 _In Adjunct Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers_([UbiComp 2015](http://ubicomp.org/ubicomp2015/)).
 
 * Saeed Abdullah, Mark Matthews, Elizabeth L. Murnane, Geri Gay, and Tanzeem Choudhury.
-[Towards Circadian Computing: “Early to Bed and Early to Rise” Makes Some of Us Unhealthy and Sleep Deprived](http://pac.cs.cornell.edu/pubs/clockwise-ubicomp-2014.pdf).
+[Towards Circadian Computing: “Early to Bed and Early to Rise” Makes Some of Us Unhealthy and Sleep Deprived](https://saeedabdullah.com/files/pubs/circadian-computing-ubicomp-2014.pdf).
 _The 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing_ ([UbiComp 2014](http://ubicomp.org/ubicomp2014/)).
-
-## Supplementary Materials ##
-
-* [UbiComp 2014 presentation](https://dl.dropboxusercontent.com/u/6286713/permlinks/talk-ubicomp-2014.pdf)

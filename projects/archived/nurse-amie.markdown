@@ -1,14 +1,14 @@
 ---
-title: "Nurse AMIE: (Addressing Metastatic Individuals Everyday)" # TODO: review project title
+title: "Nurse AMIE: (Addressing Metastatic Individuals Everyday)"
 layout: page
 ---
 
 <div class="row">
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/projects/nurse-amie.jpg"/>
-        </div>
-    </div>
+<div class="col-md-12">
+<div class="col-xs-offset-1 col-md-10" markdown="1">
+![{{ page.title }}]({%link files/images/projects/nurse-amie.jpg %})
+</div>
+</div>
 </div>
 
 According to the estimation of American Cancer Society, there are more than 168,000 women living with metastatic breast cancer in the U.S. Metastatic breast cancer (also called stage IV or advanced breast cancer) is the most advanced stage of breast cancer. Although metastatic breast cancer can’t be cured today, it can be treated. Treatment focuses on extending life and maintaining quality of life. A study showed that patients prefer to routinely visit their health care providers in seek of the treatments, which is reasonable considering that the level of patients' symptoms are different, dynamic, and temporal. On the other hand, it generates a significant amount of pressure on hospitals and other health services.
@@ -45,7 +45,5 @@ CHI LBW.
 [Kathryn H. Schmitz, Ph.D.](https://twitter.com/fitaftercancer)  
 [Saeed Abdullah, Ph.D.](https://saeedabdullah.com)
 
-[msse-2022]: /files/pubs/nurse-amie-mmse-2022.pdf
-[chi-lbw-2021]: /files/pubs/nurse-amie-chi-lbw-2021.pdf
-
-<!-- https://www.youtube.com/watch?v=ADtX-uLfGJs (2022 SBM Research Spotlight Presentation) -->
+[msse-2022]: {%link files/pubs/nurse-amie-mmse-2022.pdf %}
+[chi-lbw-2021]: {%link files/pubs/nurse-amie-chi-lbw-2021.pdf %}

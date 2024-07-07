@@ -10,46 +10,63 @@ title: Members
 </div>
 
 <div class="row">
-    <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://saeedabdullah.com"><img class="img-circle img-center text-center" src="/files/images/members/saeed-abdullah.jpg"></a>
-           <p> <a href="https://saeedabdullah.com">Saeed Abdullah</a><br/>Associate Professor</p>
-    </div>
-    <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://johnnablair.weebly.com"><img class="img-circle img-center" src="/files/images/members/johnna-blair.jpg"></a>
-           <p> <a href="https://johnnablair.weebly.com">Johnna Blair</a><br/>Postdoctoral Researcher</p>
-    </div>
-    <div class="col-lg-4 text-center">
-        <a href="https://sahitikunchay.github.io/"><img class="img-circle img-center" src="/files/images/members/sahiti-kunchay.jpg"></a>
-           <p> <a href="https://sahitikunchay.github.io/">Sahiti Kunchay</a><br/>PhD Student</p>
-    </div>
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Saeed Abdullah]({%link files/images/members/saeed-abdullah.jpg %}){: class="img-circle img-center text-center"}](https://saeedabdullah.com)
+[Saeed Abdullah](https://saeedabdullah.com)\\
+Associate Professor
+</div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Johnna Blair]({%link files/images/members/johnna-blair.jpg %}){: class="img-circle img-center text-center"}](https://johnnablair.weebly.com)
+[Johnna Blair](https://johnnablair.weebly.com)\\
+Postdoctoral Researcher
+</div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Sahiti Kunchay]({%link files/images/members/sahiti-kunchay.jpg %}){: class="img-circle img-center text-center"}](https://sahitikunchay.github.io/)
+[Sahiti Kunchay](https://sahitikunchay.github.io/)\\
+PhD Student
+</div>
+
 </div>
 
 <div class="row">
-    <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://heejeong-han.github.io/"><img class="img-circle img-center text-center" src="/files/images/members/heejeong-han.jpg"></a>
-           <p> <a href="https://heejeong-han.github.io/">Hee Jeong Han</a><br/>PhD Student</p>
-    </div>
-    <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://sanjanamendu.com/"><img class="img-circle img-center" src="/files/images/members/sanjana-mendu.jpg"></a>
-           <p> <a href="https://sanjanamendu.com/">Sanjana Mendu</a><br/>PhD Student</p>
-    </div>
-    <div class="col-lg-4 text-center">
-        <a href="https://lingqiu3.github.io"><img class="img-circle img-center" src="/files/images/members/ling-qiu.jpg"></a>
-           <p> <a href="https://lingqiu3.github.io">Ling Qiu</a><br/>PhD Student</p>
-    </div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Hee Jeong Han]({%link files/images/members/heejeong-han.jpg %}){: class="img-circle img-center text-center"}](https://heejeong-han.github.io/)
+[Hee Jeong Han](https://heejeong-han.github.io/)\\
+PhD Student
+</div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Sanjana Mendu]({%link files/images/members/sanjana-mendu.jpg %}){: class="img-circle img-center text-center"}](https://sanjanamendu.com/)
+[Sanjana Mendu](https://sanjanamendu.com/)\\
+PhD Student
+</div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Ling Qiu]({%link files/images/members/ling-qiu.jpg %}){: class="img-circle img-center text-center"}](https://lingqiu3.github.io)
+[Ling Qiu](https://lingqiu3.github.io)\\
+PhD Student
+</div>
+
 </div>
 
 <div class="row">
-    <div class="col-lg-2 col-xs-12 text-center"></div>
-    <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://sites.psu.edu/suhas"><img class="img-circle img-center" src="/files/images/members/suhas-bn.jpg"></a>
-        <p> <a href="https://sites.psu.edu/suhas">Suhas Bettapalli Nagaraj</a><br/>PhD Student</p>
-    </div>
-    <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://brozena.net"><img class="img-circle img-center" src="/files/images/members/jeff-brozena.jpg"></a>
-           <p> <a href="https://brozena.net">Jeff Brozena</a><br/>PhD Student</p>
-    </div>
-    <div class="col-lg-2 col-xs-12 text-center"></div>
+<div class="col-lg-2 col-xs-12 text-center"></div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Suhas Bettapalli Nagaraj]({%link files/images/members/suhas-bn.jpg %}){: class="img-circle img-center text-center"}](https://sites.psu.edu/suhas)
+[Suhas Bettapalli Nagaraj](https://sites.psu.edu/suhas)\\
+PhD Student
+</div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Jeff Brozena]({%link files/images/members/jeff-brozena.jpg %}){: class="img-circle img-center text-center"}](https://brozena.net)
+[Jeff Brozena](https://brozena.net)\\
+PhD Student
+</div>
+
 </div>
 
 <div class="row">
@@ -61,30 +78,42 @@ title: Members
 </div>
 
 <div class="row">
-    <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://www.rajumaharjan.com"><img class="img-circle img-center text-center" src="/files/images/members/raju-maharjan.jpg"></a>
-           <p> <a href="https://www.rajumaharjan.com">Raju Maharjan</a><br/>Postdoctoral Researcher</p>
-    </div>
-    <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://www.linkedin.com/in/devanshi-agnihotri-91241a151"><img class="img-circle img-center" src="/files/images/members/devanshi-agnihotri.jpg"></a>
-        <p> <a href="https://www.linkedin.com/in/devanshi-agnihotri-91241a151">Devanshi Agnihotri</a><br/>Master's Student</p>
-    </div>
-    <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://nasimmotalebi.com/"><img class="img-circle img-center" src="/files/images/members/nasim-motalebi.jpg"></a>
-           <p> <a href="https://nasimmotalebi.com/">Nasim Motalebi</a><br/>Master's Student</p>
-    </div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Raju Maharjan]({%link files/images/members/raju-maharjan.jpg %}){: class="img-circle img-center text-center"}](https://www.rajumaharjan.com)
+[Raju Maharjan](https://www.rajumaharjan.com)\\
+Postdoctoral Researcher
+</div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Devanshi Agnihotri]({%link files/images/members/devanshi-agnihotri.jpg %}){: class="img-circle img-center text-center"}](https://www.linkedin.com/in/devanshi-agnihotri-91241a151)
+[Devanshi Agnihotri](https://www.linkedin.com/in/devanshi-agnihotri-91241a151)\\
+Master's Student
+</div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Nasim Motalebi]({%link files/images/members/nasim-motalebi.jpg %}){: class="img-circle img-center text-center"}](https://nasimmotalebi.com/)
+[Nasim Motalebi](https://nasimmotalebi.com/)\\
+Master's Student
+</div>
+
 </div>
 
 <div class="row">
-    <div class="col-lg-2 col-xs-12 text-center"></div>
-    <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://shanwang61.github.io/"><img class="img-circle img-center" src="/files/images/members/shan-wang.jpg"></a>
-           <p> <a href="https://shanwang61.github.io/">Shan Wang</a><br/>Master's Student</p>
-    </div>
-    <div class="col-lg-4 col-xs-12 text-center">
-        <a href="https://www.linkedin.com/in/ryan-jaeger-965b42144"><img class="img-circle img-center" src="/files/images/members/ryan-jaeger.jpg"></a>
-           <p> <a href="https://www.linkedin.com/in/ryan-jaeger-965b42144">Ryan Jaeger</a><br/>Undergraduate Student</p>
-    </div>
-    <div class="col-lg-2 col-xs-12 text-center"></div>
+<div class="col-lg-2 col-xs-12 text-center"></div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Shan Wang]({%link files/images/members/shan-wang.jpg %}){: class="img-circle img-center text-center"}](https://shanwang61.github.io/)
+[Shan Wang](https://shanwang61.github.io/)\\
+Master's Student
+</div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+[![Ryan Jaeger]({%link files/images/members/ryan-jaeger.jpg %}){: class="img-circle img-center text-center"}](https://www.linkedin.com/in/ryan-jaeger-965b42144)
+[Ryan Jaeger](https://www.linkedin.com/in/ryan-jaeger-965b42144)\\
+Undergraduate Student
+</div>
+
+<div class="col-lg-2 col-xs-12 text-center"></div>
 </div>
 

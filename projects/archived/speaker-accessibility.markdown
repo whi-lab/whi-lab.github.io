@@ -4,11 +4,11 @@ layout: page
 ---
 
 <div class="row">
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-	        <img src="/files/images/projects/speaker-accessibility.jpg"/>
-        </div>
-    </div>
+<div class="col-md-12">
+<div class="col-xs-offset-1 col-md-10" markdown="1">
+![{{ page.title }}]({%link files/images/projects/speaker-accessibility.jpg %})
+</div>
+</div>
 </div>
 
 Given the rise in popularity of smart assistants (SA) and smart home speakers, and voice-based interfaces, more diverse user groups are adopting such technologies for everyday purposes. Previous work has highlighted the promise these devices can offer for users with low vision or mobility concerns to increase their independence in everyday tasks. However, their use by individuals with hearing concerns have been largely overlooked. The current use, opportunities, and challenges faced by deaf or hard of hearing (DHH) users have yet to be addressed, despite evidence that shows a growing interest in these technologies, especially in older adult populations and hearing aid users. To understand the use of SAs, we conducted in-depth interviews with deaf SA users and surveyed 73 individuals who had profound to mild hearing loss. Through this work, we document that despite inherent challenges with the current design of SAs, DHH users are highly motivated to use SAs for a wide range of use cases and believed that SAs held additional opportunities for them, if made more accessible, such as moderating workplace meetings.
@@ -31,8 +31,8 @@ CSCW '19 Companion. ([Poster][cscw-poster-2019])
 [Johnna Blair](https://johnnablair.weebly.com)  
 [Saeed Abdullah](https://saeedabdullah.com)
 
-[ubicomp-2020]: /files/pubs/speaker-accessibility-ubicomp-2021.pdf
-[cscw-poster-abstract-2019]: /files/pubs/speaker-accessibility-cscw-2019.pdf
-[cscw-poster-2019]: /files/posters/speaker-accessibility-cscw-2019.pdf
+[ubicomp-2020]: {%link files/pubs/speaker-accessibility-ubicomp-2021.pdf %}
+[cscw-poster-abstract-2019]: {%link files/pubs/speaker-accessibility-cscw-2019.pdf %} 
+[cscw-poster-2019]: {%link files/posters/speaker-accessibility-cscw-2019.pdf %}
 
 <small><a href="https://www.freepik.com/free-vector/users-buying-smart-speaker-applications-online-smart-assistant-applications-online-store-voice-activated-digital-assistants-apps-market-concept-vector-isolated-illustration_11668669.htm">Image</a> by <a href="https://www.freepik.com/author/vectorjuice">vectorjuice</a> on <a href="https://www.freepik.com/">Freepik</a></small>

@@ -21,8 +21,8 @@ Please make sure that there are no obvious visual inconsistencies in the added c
 Please follow the following two steps to ensure there are no broken links.
 
 ##### link validation by default #####
-Internal links should be validated by default. That is, when linking to any internal
-urls, you should use the `link` tag (see [Jekyll documentation](https://jekyllrb.com/docs/liquid/tags/#links)).
+Internal links should be validated by default. That is, when pointing to any internal
+URL, you should use the `link` tag (see [Jekyll documentation](https://jekyllrb.com/docs/liquid/tags/#links)).
 This will ensure that broken links are identified during the site generation step.
 
 ##### wget to identify broken links #####
