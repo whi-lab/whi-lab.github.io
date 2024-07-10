@@ -30,7 +30,7 @@ Collaborative fintech for financial management and decision-making across differ
 Identifying financial management needs and challenges for individuals with dementia and their care partners
 </div>
 
-</div>
+</div> <!-- ends the row -->
 
 <div class="row">
 <div class="col-md-12 text-center" markdown="1">
@@ -54,6 +54,8 @@ Human-AI collaboration to promote learning and skill development for future ment
 A voice assistant to provide cognitive stimulation therapy (CST) for persons living with dementia
 </div>
 
+</div> <!-- ends the row -->
+
 <div class="row">
 <div class="col-lg-6" markdown="1">
 [![Palliative care]({%link files/images/projects/palliative-care.png %})]({%link projects/palliative-care.markdown %})
@@ -67,4 +69,4 @@ A conversational agent to provide personalized interventions for self-management
 Integrating human supervision and generative AI to create theory-driven and personalized health intervention messages
 </div>
 
-</div>
+</div> <!-- ends the row -->
