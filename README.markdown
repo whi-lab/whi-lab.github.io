@@ -33,5 +33,9 @@ Run `wget` locally to check for broken links using the following steps:
 * On a separate terminal, run `make link`
 * Check `wget-run.log` for any broken links.
 
-If you want to check for broken links in the deployed website, you can use the following command:
-`wget --spider -H --domains whilab.org -r -nd -nv  -l 0 -o  run.log -w 1 whilab.org`. You can then check `run.log` to find any broken links.
+Note that several links point to resources in saeedabdullah.com. You can check
+that those links are valid by running the following command:
+`make link-local-sa`. Then check `wget-run.log` for broken links.
+
+If you want to check the links in the live (deployed) site, you can run
+`make link-live-sa` and check `wget-run.log` for broken links.
