@@ -9,9 +9,10 @@ focus on supportive financial technology (fintech) and human-centered AI for per
 If you are interested in some of our past projects, please take a look [here]({% link projects/archived/index.markdown %}).
 
 <div class="row">
-<div class="col-md-12 text-center">
-<hr>
-<h1>Democratizing Financial Technology (FinTech)</h1>
+<div class="col-md-12 text-center" markdown="1">
+
+---
+## Democratizing Financial Technology (FinTech) ##
 </div>
 </div>
 
@@ -20,21 +21,22 @@ If you are interested in some of our past projects, please take a look [here]({%
 <div class="col-lg-6" markdown="1">
 [![Supportive fintech for BD]({%link files/images/projects/bd-finhealth.png %})]({%link projects/bd-finhealth.markdown %})
 ### [Supportive fintech for individuals with bipolar disorder]({%link projects/bd-finhealth.markdown %})
-Collaborative fintech for financial management and decision-making across different stages of bipolar disorder.
+Collaborative fintech for financial management and decision-making across different stages of bipolar disorder
 </div>
 
 <div class="col-lg-6" markdown="1">
 [![Collaborative financial management in dementia]({%link files/images/projects/dementia-fintech.png %})]({%link projects/dementia-fintech.markdown %})
 ### [Collaborative financial management in dementia care]({%link projects/dementia-fintech.markdown %})
-Identifying financial management needs and challenges for individuals with dementia and their care partners.
+Identifying financial management needs and challenges for individuals with dementia and their care partners
 </div>
 
 </div>
 
 <div class="row">
-<div class="col-md-12 text-center">
-<hr>
-<h1>Human-centered AI for Personalized Health</h1>
+<div class="col-md-12 text-center" markdown="1">
+
+---
+## Human-centered AI for Health ##
 </div>
 </div>
 
@@ -42,27 +44,27 @@ Identifying financial management needs and challenges for individuals with demen
 
 <div class="col-lg-6" markdown="1">
 [![TEAMMAIT]({%link files/images/projects/teammait.png %})]({%link projects/teammait.markdown %})
-### [Interactive AI to support mental health worker training]({%link projects/teammait.markdown %})###
-AI Teammates that can upskill the mental health workforce
+### [Human-AI teams to support mental health worker training]({%link projects/teammait.markdown %})
+Human-AI collaboration to promote learning and skill development for future mental health workforce
 </div>
 
 <div class="col-lg-6" markdown="1">
-[![Voice assistant for dementia care]({%link files/images/projects/dementia-va.jpg %})]({%link projects/dementia-va.markdown %})
-### [Voice assistant for dementia care]({%link projects/dementia-va.markdown %})
-A voice assistant to support cognitive stimulation therapy (CST) at scale.
+[![Voice assistant to support dementia care]({%link files/images/projects/dementia-va.jpg %})]({%link projects/dementia-va.markdown %})
+### [Voice assistant for cognitive stimulation therapy in dementia care]({%link projects/dementia-va.markdown %})
+A voice assistant to provide cognitive stimulation therapy (CST) for persons living with dementia
 </div>
 
 <div class="row">
 <div class="col-lg-6" markdown="1">
 [![Palliative care]({%link files/images/projects/palliative-care.png %})]({%link projects/palliative-care.markdown %})
 ### [Supporting self-management in palliative care]({%link projects/palliative-care.markdown %})
-A conversational agent to provide personalized interventions to support self-management in palliative care.
+A conversational agent to provide personalized interventions for self-management in palliative care
 </div>
 
 <div class="col-lg-6" markdown="1">
-[![GENAI intervention]({%link files/images/projects/genai-health-intervention.jpg %})]({%link projects/genai-intervention.markdown %})
-### [Generative AI to design health interventions]({%link projects/genai-intervention.markdown %})
-Using human-centered generative AI to promote physical activity.
+[![GENAI intervention]({%link files/images/projects/genai-intervention.jpg %})]({%link projects/genai-intervention.markdown %})
+### [Human-centered generative AI for health interventions]({%link projects/genai-intervention.markdown %})
+Integrating human supervision and generative AI to create theory-driven and personalized health intervention messages
 </div>
 
 </div>

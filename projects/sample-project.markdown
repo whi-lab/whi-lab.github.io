@@ -32,7 +32,7 @@ Support for this research is provided by [insert grant info here] grant.
 
 ## People ##
 <!-- TODO: list project team members w/ links to personal websites  -->
-[PhD student #1](#)
-[PhD student #2](#)
-[Collaborator #1](#)
-[Collaborator #2](#)
+* [PhD student #1](#)
+* [PhD student #2](#)
+* [Collaborator #1](#)
+* [Collaborator #2](#)

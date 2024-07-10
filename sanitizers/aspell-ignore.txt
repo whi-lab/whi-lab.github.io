@@ -1,4 +1,4 @@
-personal_ws-1.1 en 137 
+personal_ws-1.1 en 152 
 ACM
 APL
 ASM
@@ -19,6 +19,7 @@ CSUA
 CUI
 Choudhury
 ClockWise
+Conroy
 Cosley
 Costa
 DHH
@@ -27,6 +28,7 @@ Doerksen
 Doherty
 EMA
 FH
+Fick
 FinTech
 FitBit
 Fosco
@@ -73,6 +75,7 @@ Napendra
 Nasim
 Nittany
 NonCommercial
+PLwDs
 PTSD
 PTSDialogue
 PervasiveHealth
@@ -89,14 +92,17 @@ Saeed
 Sahiti
 Sangha
 Sanjana
+Schenker
 Schmitz
 Sebrina
 Shan
 ShareAlike
 Sherrill
 Shih
+Shyam
 Steffany
 Suhas
+Sundar
 TODO
 Tanzeem
 Tommi
@@ -110,14 +116,20 @@ WatchOver
 Wellbeing
 Wiese
 Winkels
+Yael
 affective
+amie
 backend
 centric
 chronobiologist
+cscw
 dertivative
 discoverability
+doi
 eHealth
+fintech
 frontend
+genai
 geolocated
 github
 hypersomnia
@@ -127,12 +139,15 @@ mHealth
 multimodal
 pdf
 peoplecreations
+png
 positivity
 preconference
 psychoeducation
 scalable
 storyset
+teammait
 th
+ubicomp
 understandability
 vectorjuice
 wellbeing
