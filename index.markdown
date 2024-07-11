@@ -3,32 +3,29 @@ layout: default
 title: Home
 ---
 
-The Wellbeing & Health Innovation (WHI) lab is affiliated with the
-[College of Information Sciences and Technology][ist-link] at Penn
-State.
 
-In the WHI lab, we develop novel HCI and UbiComp technologies to
-improve health and wellbeing at scale. Our research leverages
-mobile phones, sensors, and online data to passively model health
-behaviors and contexts. We also design data-driven and just-in-time
-interventions with a focus on sustained engagement.
+Welcome to the Wellbeing & Health Innovation (WHI: pronounced as ‘_why_’) lab!
+Our goal is to improve health equity and access _for all_. We develop
+human-centered and data-driven technologies to support health and wellbeing at
+scale. Our research is inherently interdisciplinary, contributing to both human
+computer interaction (HCI) and digital health domains.
 
-Our research spreads across several application domains including
-passive sensing of [sleep and circadian disruption][sleep], relapse
-detection in [bipolar disorder][bd-prediction], and using Amazon
-Alexa for effective [PTSD interventions][alexa-ptsd]. Our work is
-inherently interdisciplinary — we closely collaborate with teams
-from the [College of Health and Human Development][hhd], [Hershey
-Medical Center][hershey-psychiatry], and [College of Communications][comm].
+We are currently working on [democratizing financial technologies (fintech)]
+[fintech-projects] to support marginalized communities. We are creating
+collaborative fintech to address unique needs of individuals with
+[bipolar disorder][bd-fintech] and [dementia][dementia-fintech]. We are also
+working on [novel human-centered AI systems][hcai-projects] to improve health
+and wellbeing. We are particularly interested in human-AI collaboration for
+[training mental health workers] [teammait], [improving dementia care][dementia-va],
+[supporting palliative care][palliative-care], and
+[generating personalized health interventions] [genai-intervention].
 
----
-We are looking for students to [join our lab]({%link prospective-students.markdown %})!
+[fintech-projects]: {%link projects/index.markdown %}#democratizing-financial-technology-fintech
+[bd-fintech]: {%link projects/bd-finhealth.markdown %}
+[dementia-fintech]: {%link projects/dementia-fintech.markdown %}
+[hcai-projects]: {%link projects/index.markdown %}#human-centered-ai-for-health
+[teammait]: {%link projects/teammait.markdown %}
+[dementia-va]: {%link projects/dementia-va.markdown %}
+[palliative-care]: {%link projects/palliative-care.markdown %}
+[genai-intervention]: {%link projects/genai-intervention.markdown %}
 
-[ist-link]: https://ist.psu.edu/
-[clockwise-project]: {%link projects/archived/clockwise.markdown %}
-[sleep]: {%link projects/archived/cr-disruption-phone-sensing.markdown %}
-[bd-prediction]: {%link projects/archived/bd-prediction.markdown %}
-[alexa-ptsd]: {%link projects/archived/ca-ptsd.markdown %}
-[hhd]: https://hhd.psu.edu/
-[hershey-psychiatry]: https://hmc.pennstatehealth.org/psychiatry
-[comm]: https://bellisario.psu.edu/
