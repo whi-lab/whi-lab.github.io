@@ -114,12 +114,30 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0;
 }
 
+/*
+ * We want to display the links in the masthead for wide screens
+ * (i.e., 'desktops') only. It shouldn't be visible in narrow
+ * screens, otherwise it will overlap with the sidebar. See
+ * _includes/head.html for more details.
+ */
+
+.masthead-title-desktop-only {
+  font-size: 80%;
+  font-weight: 400;
+  color: #c0c0c0;
+  letter-spacing: 0;
+}
+
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;
   }
   .masthead-title small {
     display: none;
+  }
+
+  .masthead-title-desktop-only {
+      display: none;
   }
 }
 
