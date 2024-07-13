@@ -34,6 +34,13 @@
  * Update the foundational and global aspects of the page.
  */
 
+:root {
+  --font: "Warbler Variable", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-heading: "Roslindale Variable";
+  --font-heading-weight: 600;
+  --color-yellow: #d8b33d;
+}
+
 /* Prevent scroll on narrow devices */
 html,
 body {
@@ -41,14 +48,13 @@ body {
 }
 
 html {
-  font-family: "Crimson Text", Georgia, "Times New Roman", serif;
+  font-family:var(--font);
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Crimson Text", Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  color: #313131;
-  letter-spacing: -.025rem;
+  font-family:var(--font-heading),var(--font);
+  font-weight: var(--font-heading-weight);
+  font-stretch: 85%;
 }
 
 
@@ -122,10 +128,21 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .masthead-title-desktop-only {
-  font-size: 80%;
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
+}
+
+.bold-statement {
+  font-family: var(--font-heading);
+  font-size: 48px;
+  line-height: 1.1;
+  margin-bottom: 1.2em;
+}
+
+.bold-statement-cap {
+  color: var(--color-yellow);
+  font-variation-settings: "opsz" 48, "wdth" 100, "wght" 900, "slnt" -8;
 }
 
 @media (max-width: 48em) {
@@ -166,7 +183,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "Crimson Text", Helvetica, Arial, sans-serif;
+  font-family: var(--font-heading);
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -381,7 +398,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "Crimson Text", Helvetica, Arial, sans-serif;
+  font-family: var(--font);
   color: #ccc;
   text-align: center;
 }

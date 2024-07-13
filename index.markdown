@@ -2,30 +2,80 @@
 layout: default
 title: Home
 ---
+<div class="bold-statement">
+    <span class="bold-statement-cap">W</span>ellbeing & <br />
+    <span class="bold-statement-cap">H</span>ealth <br />
+    <span class="bold-statement-cap">I</span>nnovation Lab.
+</div>
+
+<div class="bold-statement">
+Our goal is to improve health equity and access <span class="bold-statement-cap">for all</span>.
+</div>
+
+We are a highly collaborative and interdisciplinary research lab.  Our work
+focuses on the intersection of digital health and human computer interaction
+(HCI).  We develop human-centered and data-driven technologies to
+support health and wellbeing needs of marginalized communities.
 
 
-Welcome to the Wellbeing & Health Innovation (WHI: pronounced as ‘_why_’) lab!
-Our goal is to improve health equity and access _for all_. We develop
-human-centered and data-driven technologies to support health and wellbeing at
-scale. Our research is inherently interdisciplinary, contributing to both human
-computer interaction (HCI) and digital health domains.
+<div class="row">
+<div class="col-md-12 text-center" markdown="1">
 
-We are currently working on [democratizing financial technologies (fintech)]
-[fintech-projects] to support marginalized communities. We are creating
-collaborative fintech to address unique needs of individuals with
-[bipolar disorder][bd-fintech] and [dementia][dementia-fintech]. We are also
-working on [novel human-centered AI systems][hcai-projects] to improve health
-and wellbeing. We are particularly interested in human-AI collaboration for
-[training mental health workers] [teammait], [improving dementia care][dementia-va],
-[supporting palliative care][palliative-care], and
-[generating personalized health interventions] [genai-intervention].
+---
 
-[fintech-projects]: {%link projects/index.markdown %}#democratizing-financial-technology-fintech
-[bd-fintech]: {%link projects/bd-finhealth.markdown %}
-[dementia-fintech]: {%link projects/dementia-fintech.markdown %}
-[hcai-projects]: {%link projects/index.markdown %}#human-centered-ai-for-health
-[teammait]: {%link projects/teammait.markdown %}
-[dementia-va]: {%link projects/dementia-va.markdown %}
-[palliative-care]: {%link projects/palliative-care.markdown %}
-[genai-intervention]: {%link projects/genai-intervention.markdown %}
+## Democratizing Financial Technology (FinTech) ##
+</div>
+</div>
 
+<div class="row">
+
+<div class="col-lg-6" markdown="1">
+[![Supportive fintech for BD]({%link files/images/projects/bd-finhealth.png %})]({%link projects/bd-finhealth.markdown %})
+### [Supportive fintech for persons with bipolar disorder]({%link projects/bd-finhealth.markdown %})
+Collaborative fintech for financial management and decision-making across stages of bipolar disorder
+</div>
+
+<div class="col-lg-6" markdown="1">
+[![Collaborative financial management in dementia]({%link files/images/projects/dementia-fintech.png %})]({%link projects/dementia-fintech.markdown %})
+### [Collaborative financial management in dementia care]({%link projects/dementia-fintech.markdown %})
+Identifying financial management needs and challenges for individuals with dementia and their care partners
+</div>
+
+</div> <!-- ends the row -->
+
+<div class="row">
+<div class="col-md-12 text-center" markdown="1">
+
+---
+## Human-centered AI for Health ##
+</div>
+</div>
+
+<div class="row">
+
+<div class="col-lg-6" markdown="1">
+[![TEAMMAIT]({%link files/images/projects/teammait.png %})]({%link projects/teammait.markdown %})
+### [Human-AI teams to support mental health worker training]({%link projects/teammait.markdown %})
+Human-AI collaboration to promote learning and skill development for future mental health workforce
+</div>
+
+<div class="col-lg-6" markdown="1">
+[![Voice assistant to support dementia care]({%link files/images/projects/dementia-va.jpg %})]({%link projects/dementia-va.markdown %})
+### [Voice assistant to support dementia care]({%link projects/dementia-va.markdown %})
+A voice assistant to provide cognitive stimulation therapy (CST) for persons living with dementia
+</div>
+
+</div> <!-- ends the row -->
+
+<div class="row">
+<div class="col-lg-6" markdown="1">
+[![Palliative care]({%link files/images/projects/palliative-care.png %})]({%link projects/palliative-care.markdown %})
+### [Supporting self-management in palliative care]({%link projects/palliative-care.markdown %})
+A conversational agent to provide personalized interventions for self-management in palliative care
+</div>
+
+<div class="col-lg-6" markdown="1">
+[![GENAI intervention]({%link files/images/projects/genai-intervention.jpg %})]({%link projects/genai-intervention.markdown %})
+### [Human-centered generative AI for health interventions]({%link projects/genai-intervention.markdown %})
+Integrating human supervision and generative AI to create theory-driven and personalized health interventions
+</div>
