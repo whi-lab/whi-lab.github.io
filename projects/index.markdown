@@ -20,8 +20,8 @@ If you are interested in some of our past projects, please take a look [here]({%
 
 <div class="col-lg-6" markdown="1">
 [![Supportive fintech for BD]({%link files/images/projects/bd-finhealth.png %})]({%link projects/bd-finhealth.markdown %})
-### [Supportive fintech for individuals with bipolar disorder]({%link projects/bd-finhealth.markdown %})
-Collaborative fintech for financial management and decision-making across different stages of bipolar disorder
+### [Supportive fintech for persons with bipolar disorder]({%link projects/bd-finhealth.markdown %})
+Collaborative fintech for financial management and decision-making across stages of bipolar disorder
 </div>
 
 <div class="col-lg-6" markdown="1">
@@ -50,7 +50,7 @@ Human-AI collaboration to promote learning and skill development for future ment
 
 <div class="col-lg-6" markdown="1">
 [![Voice assistant to support dementia care]({%link files/images/projects/dementia-va.jpg %})]({%link projects/dementia-va.markdown %})
-### [Voice assistant for cognitive stimulation therapy in dementia care]({%link projects/dementia-va.markdown %})
+### [Voice assistant to support dementia care]({%link projects/dementia-va.markdown %})
 A voice assistant to provide cognitive stimulation therapy (CST) for persons living with dementia
 </div>
 
@@ -66,7 +66,6 @@ A conversational agent to provide personalized interventions for self-management
 <div class="col-lg-6" markdown="1">
 [![GENAI intervention]({%link files/images/projects/genai-intervention.jpg %})]({%link projects/genai-intervention.markdown %})
 ### [Human-centered generative AI for health interventions]({%link projects/genai-intervention.markdown %})
-Integrating human supervision and generative AI to create theory-driven and personalized health intervention messages
+Integrating human supervision and generative AI to create theory-driven and personalized health interventions
 </div>
 
-</div> <!-- ends the row -->

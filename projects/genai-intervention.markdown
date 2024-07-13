@@ -1,5 +1,5 @@
 ---
-title: "Generative AI for personalized health interventions"
+title: "Human-centered generative AI for health interventions"
 layout: page
 ---
 

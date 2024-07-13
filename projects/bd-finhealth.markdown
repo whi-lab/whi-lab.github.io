@@ -1,5 +1,5 @@
 ---
-title: "Supportive fintech for individuals with bipolar disorder"
+title: "Supportive fintech for persons with bipolar disorder"
 layout: page
 ---
 
@@ -44,6 +44,7 @@ _Frontiers in Psychiatry_, 2022.\
 
 * [Johnna Blair](https://johnnablair.weebly.com)  
 * [Jeff Brozena](https://brozena.net)  
+* [Hee Jeong Han](https://heejeong-han.github.io/)
 * [Mark Matthews](https://people.ucd.ie/mark.matthews)  
 * [Thomas Richardson](https://www.southampton.ac.uk/people/5xbzmk/doctor-thomas-richardson)  
 * [Erika Saunders](https://profiles.psu.edu/profiles/display/112378)  

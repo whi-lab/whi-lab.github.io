@@ -1,5 +1,5 @@
 ---
-title: "Voice assistant for dementia care"
+title: "Voice assistant to support dementia care"
 layout: page
 ---
 
