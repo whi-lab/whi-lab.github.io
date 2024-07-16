@@ -68,6 +68,7 @@ A voice assistant to provide cognitive stimulation therapy (CST) for persons liv
 </div> <!-- ends the row -->
 
 <div class="row">
+
 <div class="col-lg-6" markdown="1">
 [![Palliative care]({%link files/images/projects/palliative-care.png %})]({%link projects/palliative-care.markdown %})
 ### [Supporting self-management in palliative care]({%link projects/palliative-care.markdown %})
@@ -79,3 +80,5 @@ A conversational agent to provide personalized interventions for self-management
 ### [Human-centered generative AI for health interventions]({%link projects/genai-intervention.markdown %})
 Integrating human supervision and generative AI to create theory-driven and personalized health interventions
 </div>
+
+</div> <!-- ends the row -->
