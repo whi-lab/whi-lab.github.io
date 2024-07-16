@@ -12,10 +12,11 @@ title: Home
 Our goal is to improve health equity and access <span class="bold-statement-cap">for all</span>.
 </div>
 
-We are a highly collaborative and interdisciplinary research lab.  Our work
-focuses on the intersection of digital health and human computer interaction
-(HCI).  We develop human-centered and data-driven technologies to
-support health and wellbeing needs of marginalized communities.
+We are an interdisciplinary research lab from
+[Penn State](https://ist.psu.edu/). Our work focuses on the
+intersection of digital health and human computer interaction (HCI). We create
+human-centered, scalable, and data-driven technologies to support health and
+wellbeing needs of marginalized communities.
 
 
 <div class="row">
@@ -30,14 +31,14 @@ support health and wellbeing needs of marginalized communities.
 <div class="row">
 
 <div class="col-lg-6" markdown="1">
-[![Supportive fintech for BD]({%link files/images/projects/bd-finhealth.png %})]({%link projects/bd-finhealth.markdown %})
-### [Supportive fintech for persons with bipolar disorder]({%link projects/bd-finhealth.markdown %})
+[![Fintech to support persons with bipolar disorder]({%link files/images/projects/bd-finhealth.png %})]({%link projects/bd-finhealth.markdown %})
+### [Fintech to support persons with bipolar disorder]({%link projects/bd-finhealth.markdown %})
 Collaborative fintech for financial management and decision-making across stages of bipolar disorder
 </div>
 
 <div class="col-lg-6" markdown="1">
-[![Collaborative financial management in dementia]({%link files/images/projects/dementia-fintech.png %})]({%link projects/dementia-fintech.markdown %})
-### [Collaborative financial management in dementia care]({%link projects/dementia-fintech.markdown %})
+[![Financial management in dementia care]({%link files/images/projects/dementia-fintech.png %})]({%link projects/dementia-fintech.markdown %})
+### [Financial management in dementia care]({%link projects/dementia-fintech.markdown %})
 Identifying financial management needs and challenges for individuals with dementia and their care partners
 </div>
 
@@ -55,7 +56,7 @@ Identifying financial management needs and challenges for individuals with demen
 
 <div class="col-lg-6" markdown="1">
 [![TEAMMAIT]({%link files/images/projects/teammait.png %})]({%link projects/teammait.markdown %})
-### [Human-AI teams to support mental health worker training]({%link projects/teammait.markdown %})
+### [Human-AI team for mental health worker training]({%link projects/teammait.markdown %})
 Human-AI collaboration to promote learning and skill development for future mental health workforce
 </div>
 
@@ -70,8 +71,8 @@ A voice assistant to provide cognitive stimulation therapy (CST) for persons liv
 <div class="row">
 
 <div class="col-lg-6" markdown="1">
-[![Palliative care]({%link files/images/projects/palliative-care.png %})]({%link projects/palliative-care.markdown %})
-### [Supporting self-management in palliative care]({%link projects/palliative-care.markdown %})
+[![Self-management in palliative care]({%link files/images/projects/palliative-care.png %})]({%link projects/palliative-care.markdown %})
+### [Self-management in palliative care]({%link projects/palliative-care.markdown %})
 A conversational agent to provide personalized interventions for self-management in palliative care
 </div>
 
