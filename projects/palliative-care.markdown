@@ -22,6 +22,12 @@ with advanced cancer. We are using generative AI under the supervision of
 clinical experts to provide interventions focusing on personalized
 self-management support in palliative care.
 
+
+## Papers ##
+* **Conversational Agents in Palliative Care: Potential Benefits, Risks, and Next Steps**\
+_Journal of Palliative Medicine_, 2024\
+\[[doi](https://doi.org/10.1089/jpm.2023.0534)\]
+
 ## People ##
 * [Ling Qiu](https://lingqiu3.github.io)
 * [Kathryn Schmitz](https://profiles.dom.pitt.edu/faculty_info.aspx/Schmitz7385)
