@@ -3,13 +3,13 @@ layout: default
 title: Home
 ---
 <div class="bold-statement">
-    <span class="bold-statement-cap">W</span>ellbeing & <br />
-    <span class="bold-statement-cap">H</span>ealth <br />
-    <span class="bold-statement-cap">I</span>nnovation Lab.
+    <span class="bold-statement-hl">W</span>ellbeing & <br />
+    <span class="bold-statement-hl">H</span>ealth <br />
+    <span class="bold-statement-hl">I</span>nnovation Lab.
 </div>
 
 <div class="bold-statement">
-Our goal is to improve health equity and access <span class="bold-statement-cap">for all</span>.
+Our goal is to improve health equity and access <span class="bold-statement-hl">for all</span>.
 </div>
 
 We are an interdisciplinary research lab from

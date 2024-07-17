@@ -13,3 +13,11 @@
   font-style: normal;
   font-weight: normal;
 }
+
+@font-face {
+  src: url('/files/fonts/WarblerItalicVariable.woff2') format('woff2-variations');
+  src: url('/files/fonts/WarblerItalicVariable.woff2') format('woff2') tech('variations');
+  font-family: 'Warbler Variable';
+  font-style: italic;
+  font-weight: normal;
+}

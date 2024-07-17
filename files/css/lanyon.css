@@ -39,6 +39,7 @@
   --font-heading: "Roslindale Variable";
   --font-heading-weight: 600;
   --color-yellow: #d8b33d;
+  --body-color: #444;
 }
 
 /* Prevent scroll on narrow devices */
@@ -49,6 +50,10 @@ body {
 
 html {
   font-family:var(--font);
+}
+
+body {
+  color:var(--body-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -139,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1.2em;
 }
 
-.bold-statement-cap {
+.bold-statement-hl {
   color: var(--color-yellow);
   font-variation-settings: "opsz" 48, "wdth" 100, "wght" 900, "slnt" -8;
 }
