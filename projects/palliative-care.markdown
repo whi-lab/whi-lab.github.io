@@ -1,5 +1,5 @@
 ---
-title: "Supporting self-management in palliative care"
+title: "Self-management in palliative care"
 layout: page
 ---
 

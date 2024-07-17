@@ -1,5 +1,5 @@
 ---
-title: "Collaborative financial management in dementia care"
+title: "Financial management in dementia care"
 layout: page
 ---
 

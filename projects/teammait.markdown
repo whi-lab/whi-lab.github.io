@@ -1,5 +1,5 @@
 ---
-title: Human-AI teams to support mental health worker training
+title: "Human-AI team for mental health worker training"
 layout: page
 ---
 

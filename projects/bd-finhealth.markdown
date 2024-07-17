@@ -1,5 +1,5 @@
 ---
-title: "Supportive fintech for persons with bipolar disorder"
+title: "Fintech to support persons with bipolar disorder"
 layout: page
 ---
 
