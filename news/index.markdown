@@ -5,6 +5,12 @@ layout: page
 
 2024
 ----
+* _November, 2024_: We have two submissions in [AAAI Fall Symposium Series 2024 — AI for Aging in Place](https://sites.google.com/view/ai-aip-2024/home). The first paper focuses on [supporting financial stability in dementia]({%link projects/dementia-fintech.markdown %}). The second paper explores [voice assistants to support dementia care]({%link projects/dementia-va.markdown %}).
+
+* _October, 2024_: We have published [a paper](https://doi.org/10.1177/20552076241286133) exploring acceptance and feasibility of a conversational agent to support individuals living with PTSD.
+
+* _August, 2024_: Our team has received an [NIH P30 grant](https://reporter.nih.gov/project-details/10875160) to develop [principle-driven and scalable digital interventions]({%link projects/genai-intervention.markdown %}) that promote physical activity and enhance cognitive function.
+
 * _July, 2024_: Sanjana and Sahiti have successfully defended their dissertations! Sanjana will be a postdoc in the MRCAS lab at Harvard Medical School. Sahiti will be a postdoc in the DIGITAL Insights Lab at Yale School of Medicine. Congrats, Drs. Sanjana and Sahiti!!
 
 * _June, 2024_: We have received an [NIA R21 grant](https://reporter.nih.gov/project-details/10807347) to create a voice assistant to support dementia care.
