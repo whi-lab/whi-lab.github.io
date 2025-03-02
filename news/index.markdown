@@ -3,8 +3,17 @@ title: News
 layout: page
 ---
 
+2025
+----
+
+* _February, 2025_: We are organizing a CHI workshop on [Future of Money and HCI](https://hci.money/).
+
+* _January, 2025_: Our team (PI: [James Wang](https://wang.ist.psu.edu/docs/home.shtml)) has received an [NIH R01 grant focusing on the detection of acute stroke](https://reporter.nih.gov/project-details/11022333).
+
 2024
 ----
+* _December, 2024_: Two postdocs are [joining our lab]({%link members.markdown %})! Welcome [Dom]({%link members.markdown %}#dominik-mattioli) and [Ita]({%link members.markdown %}#ita-daryanti)!
+
 * _November, 2024_: We have two submissions in [AAAI Fall Symposium Series 2024 — AI for Aging in Place](https://sites.google.com/view/ai-aip-2024/home). The first paper focuses on [supporting financial stability in dementia]({%link projects/dementia-fintech.markdown %}). The second paper explores [voice assistants to support dementia care]({%link projects/dementia-va.markdown %}).
 
 * _October, 2024_: We have published [a paper](https://doi.org/10.1177/20552076241286133) exploring acceptance and feasibility of a conversational agent to support individuals living with PTSD.
