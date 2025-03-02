@@ -22,16 +22,21 @@ Associate Professor
 Postdoctoral Researcher
 </div>
 
-<div class="col-lg-4 col-xs-12 text-center" markdown="1">
-[![Hee Jeong Han]({%link files/images/members/heejeong-han.jpg %}){: class="img-circle img-center text-center"}](https://heejeong-han.github.io/)
-[Hee Jeong Han](https://heejeong-han.github.io/)\\
-PhD Student
+<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="dominik-mattioli">
+[![Dominik Mattioli]({%link files/images/members/dominik-mattioli.jpg %}){: class="img-circle img-center text-center"}](https://scholar.google.com/citations?user=IBFSkOcAAAAJ)
+[Dominik Mattioli](https://scholar.google.com/citations?user=IBFSkOcAAAAJ)\\
+Postdoctoral Researcher
 </div>
 
 </div>
 
 
 <div class="row">
+<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="ita-daryanti">
+[![Ita Daryanti]({%link files/images/members/ita-daryanti.jpg %}){: class="img-circle img-center text-center"}](https://www.researchgate.net/profile/Ita-Saragih)
+[Ita Daryanti](https://www.researchgate.net/profile/Ita-Saragih)\\
+Postdoctoral Researcher
+</div>
 
 <div class="col-lg-4 col-xs-12 text-center" markdown="1" id="heejeong-han">
 [![Hee Jeong Han]({%link files/images/members/heejeong-han.jpg %}){: class="img-circle img-center text-center"}](https://heejeong-han.github.io/)
