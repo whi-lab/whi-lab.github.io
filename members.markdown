@@ -10,13 +10,13 @@ title: Members
 </div>
 
 <div class="row">
-<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="saeed-abdullah">
 [![Saeed Abdullah]({%link files/images/members/saeed-abdullah.jpg %}){: class="img-circle img-center text-center"}](https://saeedabdullah.com)
 [Saeed Abdullah](https://saeedabdullah.com)\\
 Associate Professor
 </div>
 
-<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="johnna-blair">
 [![Johnna Blair]({%link files/images/members/johnna-blair.jpg %}){: class="img-circle img-center text-center"}](https://johnnablair.weebly.com)
 [Johnna Blair](https://johnnablair.weebly.com)\\
 Postdoctoral Researcher
@@ -28,23 +28,35 @@ Postdoctoral Researcher
 PhD Student
 </div>
 
-
 </div>
+
 
 <div class="row">
 
-<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="heejeong-han">
+[![Hee Jeong Han]({%link files/images/members/heejeong-han.jpg %}){: class="img-circle img-center text-center"}](https://heejeong-han.github.io/)
+[Hee Jeong Han](https://heejeong-han.github.io/)\\
+PhD Student
+</div>
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="ling-qiu">
 [![Ling Qiu]({%link files/images/members/ling-qiu.jpg %}){: class="img-circle img-center text-center"}](https://lingqiu3.github.io)
 [Ling Qiu](https://lingqiu3.github.io)\\
 PhD Student
 </div>
-<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+
+</div>
+
+
+<div class="row">
+
+<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="suhas-bn">
 [![Suhas Bettapalli Nagaraj]({%link files/images/members/suhas-bn.jpg %}){: class="img-circle img-center text-center"}](https://sites.psu.edu/suhas)
 [Suhas Bettapalli Nagaraj](https://sites.psu.edu/suhas)\\
 PhD Student
 </div>
 
-<div class="col-lg-4 col-xs-12 text-center" markdown="1">
+<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="jeff-brozena">
 [![Jeff Brozena]({%link files/images/members/jeff-brozena.jpg %}){: class="img-circle img-center text-center"}](https://brozena.net)
 [Jeff Brozena](https://brozena.net)\\
 PhD Student
