@@ -1,4 +1,4 @@
-personal_ws-1.1 en 152 
+personal_ws-1.1 en 160 
 ACM
 APL
 ASM
@@ -23,9 +23,11 @@ Conroy
 Cosley
 Costa
 DHH
+Daryanti
 Devanshi
 Doerksen
 Doherty
+Dominik
 EMA
 FH
 Fick
@@ -48,6 +50,7 @@ ISWC
 Im
 Interpretability
 Interpretable
+Ita
 JAMIA
 JMIR
 Jaeger
@@ -61,7 +64,9 @@ Kunchay
 Lanyon
 Lanza
 MBSR
+MRCAS
 Maharjan
+Mattioli
 Mendu
 MobileHCI
 MoodRhythm
@@ -123,9 +128,11 @@ backend
 centric
 chronobiologist
 cscw
+daryanti
 dertivative
 discoverability
 doi
+dominik
 eHealth
 fintech
 frontend
@@ -136,6 +143,7 @@ hypersomnia
 interpretability
 jpg
 mHealth
+mattioli
 multimodal
 pdf
 peoplecreations
