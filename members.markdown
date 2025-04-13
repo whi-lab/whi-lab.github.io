@@ -44,9 +44,9 @@ Postdoctoral Researcher
 PhD Student
 </div>
 
-<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="ling-qiu">
-[![Ling Qiu]({%link files/images/members/ling-qiu.jpg %}){: class="img-circle img-center text-center"}](https://lingqiu3.github.io)
-[Ling Qiu](https://lingqiu3.github.io)\\
+<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="suhas-bn">
+[![Suhas Bettapalli Nagaraj]({%link files/images/members/suhas-bn.jpg %}){: class="img-circle img-center text-center"}](https://sites.psu.edu/suhas)
+[Suhas Bettapalli Nagaraj](https://sites.psu.edu/suhas)\\
 PhD Student
 </div>
 
@@ -54,12 +54,6 @@ PhD Student
 
 
 <div class="row">
-
-<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="suhas-bn">
-[![Suhas Bettapalli Nagaraj]({%link files/images/members/suhas-bn.jpg %}){: class="img-circle img-center text-center"}](https://sites.psu.edu/suhas)
-[Suhas Bettapalli Nagaraj](https://sites.psu.edu/suhas)\\
-PhD Student
-</div>
 
 <div class="col-lg-4 col-xs-12 text-center" markdown="1" id="jeff-brozena">
 [![Jeff Brozena]({%link files/images/members/jeff-brozena.jpg %}){: class="img-circle img-center text-center"}](https://brozena.net)
@@ -83,6 +77,7 @@ PhD Student
 ### PhD Student
 * [Sanjana Mendu](https://sanjanamendu.com/) (Postdoc at Harvard University)
 * [Sahiti Kunchay](https://sahitikunchay.github.io/) (Postdoc at Yale University)
+* [Ling Qiu](https://lingqiu3.github.io){: #ling-qiu} (Meta)
 
 ### Master’s Student
 * [Nasim Motalebi](https://nasimmotalebi.com/)
