@@ -5,6 +5,9 @@ layout: page
 
 2025
 ----
+* _April, 2025_: [Suhas]({%link members.markdown %}#suhas-bn) received a Best Poster Award at [MASC-SLL 2025](https://www.mascsll.org/program/)! The project focuses on using generative AI for [mental health support]({%link projects/teammait.markdown %}).
+
+* _March, 2025_: [Ling Qiu]({%link members.markdown %}#ling-qiu) has successfully defended his Ph.D. thesis! He will be joining [Meta](https://www.meta.com/).
 
 * _February, 2025_: We are organizing a CHI workshop on [Future of Money and HCI](https://hci.money/).
 
@@ -20,11 +23,11 @@ layout: page
 
 * _August, 2024_: Our team (PI: [David Conroy](https://www.kines.umich.edu/directory/david-conroy)) has received an [NIH P30 grant](https://reporter.nih.gov/project-details/10875160) to develop [principle-driven and scalable digital interventions]({%link projects/genai-intervention.markdown %}) that promote physical activity and enhance cognitive function.
 
-* _July, 2024_: Sanjana and Sahiti have successfully defended their dissertations! Sanjana will be a postdoc in the MRCAS lab at Harvard Medical School. Sahiti will be a postdoc in the DIGITAL Insights Lab at Yale School of Medicine. Congrats, Drs. Sanjana and Sahiti!!
+* _July, 2024_: [Sanjana]({%link members.markdown %}#sanjana-mendu) and [Sahiti]({%link members.markdown %}#sahiti-kunchay) have successfully defended their dissertations! Sanjana will be a postdoc in the MRCAS lab at Harvard Medical School. Sahiti will be a postdoc in the DIGITAL Insights Lab at Yale School of Medicine. Congrats, Drs. Sanjana and Sahiti!!
 
 * _June, 2024_: We have received an [NIA R21 grant](https://reporter.nih.gov/project-details/10807347) to create a voice assistant to support dementia care.
 
-* _May, 2024_: Saeed has been [awarded tenure and promoted to associate professor](https://www.psu.edu/news/academics/story/penn-state-announces-tenure-line-faculty-promotions-effective-july-1-2024/)!
+* _May, 2024_: [Saeed]({%link members.markdown %}#saeed-abdullah) has been [awarded tenure and promoted to associate professor](https://www.psu.edu/news/academics/story/penn-state-announces-tenure-line-faculty-promotions-effective-july-1-2024/)!
 
 * _March, 2024_: We have two submissions accepted at [CHI 2024](https://chi2024.acm.org/)! The first paper focuses on [supportive financial technology for individuals with bipolar disorder](https://saeedabdullah.com/files/pubs/2024-chi-fintech-bd.pdf). The second submission is a late-breaking paper [on managing finances for persons living with dementia](https://saeedabdullah.com/files/pubs/2024-chi-lbw-dementia-fintech.pdf).
 
