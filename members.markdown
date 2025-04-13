@@ -72,19 +72,19 @@ PhD Student
 </div>
 
 ### Postdoc
-* [Raju Maharjan](https://www.rajumaharjan.com) (Assistant Professor at the University of Oklahoma)
+* [Raju Maharjan](https://www.rajumaharjan.com){: #raju-maharjan} (Assistant Professor at the University of Oklahoma)
 
 ### PhD Student
-* [Sanjana Mendu](https://sanjanamendu.com/) (Postdoc at Harvard University)
-* [Sahiti Kunchay](https://sahitikunchay.github.io/) (Postdoc at Yale University)
 * [Ling Qiu](https://lingqiu3.github.io){: #ling-qiu} (Meta)
+* [Sanjana Mendu](https://sanjanamendu.com/){: #sanjana-mendu} (Postdoc at Harvard University)
+* [Sahiti Kunchay](https://sahitikunchay.github.io/){: #sahiti-kunchay} (Postdoc at Yale University)
 
 ### Master’s Student
-* [Nasim Motalebi](https://nasimmotalebi.com/)
-* [Shan Wang](https://shanwang61.github.io/)
+* [Nasim Motalebi](https://nasimmotalebi.com/){: #nasim-motalebi}
+* [Shan Wang](https://shanwang61.github.io/){: #shan-wang}
 
 ### Undergraduate Student
-* [Nolan Pye](https://www.linkedin.com/in/nolanpye)
-* [Ryan Jaeger](https://www.linkedin.com/in/ryan-jaeger-965b42144)
+* [Nolan Pye](https://www.linkedin.com/in/nolanpye){: #nolan-pye}
+* [Ryan Jaeger](https://www.linkedin.com/in/ryan-jaeger-965b42144){: #ryan-jaeger}
 
 
