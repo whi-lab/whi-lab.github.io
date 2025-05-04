@@ -61,6 +61,14 @@ PhD Student
 PhD Student
 </div>
 
+<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="sam-moradzadeh">
+[![Sam Moradzadeh]({%link files/images/members/sam-moradzadeh.jpg %}){: class="img-circle img-center text-center"}](https://www.sammoradzadeh.me/)
+[Sam Moradzadeh](https://www.sammoradzadeh.me/)\\
+PhD Student
+</div>
+
+
+
 </div>
 
 <div class="row">
