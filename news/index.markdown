@@ -5,7 +5,7 @@ layout: page
 
 2025
 ----
-* _April, 2025_: [Suhas]({%link members.markdown %}#suhas-bn) received a Best Poster Award at [MASC-SLL 2025](https://www.mascsll.org/program/)! The project focuses on using generative AI for [mental health support]({%link projects/teammait.markdown %}).
+* _April, 2025_: [Suhas]({%link members.markdown %}#suhas-bn) received a **Best Poster Award** at [MASC-SLL 2025](https://www.mascsll.org/program/) (out of 62 posters). He also received **3rd Best Poster Award** at [Penn State Startup Week](https://web.archive.org/web/20250504213359/https://www.linkedin.com/posts/penn-state-ai-hub_pennstateaiweek-weare-pennstateai-activity-7318664616903860225-NruB) (out of 80+ posters)! The project focuses on using generative AI for [mental health support]({%link projects/teammait.markdown %}).
 
 * _March, 2025_: [Ling Qiu]({%link members.markdown %}#ling-qiu) has successfully defended his Ph.D. thesis! He will be joining [Meta](https://www.meta.com/).
 
