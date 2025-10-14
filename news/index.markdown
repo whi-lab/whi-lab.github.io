@@ -5,6 +5,16 @@ layout: page
 
 2025
 ----
+* _October, 2025_: Penn State News has an article on [student success from our lab](https://www.psu.edu/news/information-sciences-and-technology/story/informatics-doctoral-program-provides-interdisciplinary)!
+
+* _September, 2025_: We have a paper in [NeurIPS 2025 Datasets and Benchmarks Track](https://neurips.cc/Conferences/2025/CallForDatasetsBenchmarks)! The [thousand voices of trauma](https://arxiv.org/abs/2504.13955) paper describes a synthetic benchmark dataset for Prolonged Exposure therapy protocol.
+
+* _August, 2025_: We have two papers in [EMNLP](https://2025.emnlp.org/)! The first paper on [evaluating small language models for PTSD support](https://arxiv.org/abs/2505.15065) has been accepted for oral presentation. The second paper on [synthetic therapy conversations](https://arxiv.org/abs/2504.21800) has been accepted for poster presentation.
+
+* _July, 2025_: [Hee Jeong]({%link members.markdown %}#heejeong-han) has defended her dissertation! She will be a postdoctoral fellow at the Center for Technology and Behavioral Health (CTBH) at Dartmouth. Congrats, Dr. Hee Jeong!
+
+* _June, 2025_: [Suhas]({%link members.markdown %}#suhas-bn) has successfully defended his dissertation! He will be joining Amazon as an Applied scientist. Congrats, Dr. Suhas!
+
 * _May, 2025_: [Penn State News](https://www.psu.edu/news/institute-computational-and-data-sciences/story/ai-week-spotlights-student-faculty-research) highlighted [Suhas]({%link members.markdown %}#suhas-bn) and his research [project]({%link projects/teammait.markdown %}).
 
 * _April, 2025_: [Suhas]({%link members.markdown %}#suhas-bn) received a **Best Poster Award** at [MASC-SLL 2025](https://www.mascsll.org/program/) (out of 62 posters). He also received **3rd Best Poster Award** at [Penn State Startup Week](https://web.archive.org/web/20250504213359/https://www.linkedin.com/posts/penn-state-ai-hub_pennstateaiweek-weare-pennstateai-activity-7318664616903860225-NruB) (out of 80+ posters)! The project focuses on using generative AI for [mental health support]({%link projects/teammait.markdown %}).
