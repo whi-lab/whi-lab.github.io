@@ -3,6 +3,16 @@ title: News
 layout: page
 ---
 
+2026
+----
+
+
+* _April, 2026_: [Jeff Brozena]({%link members.markdown %}#jeff-brozena) has received **Exemplary Graduate Student Research Poster** award at the Department of Psychiatry and Behavioral Health Research Conference. Congrats, Jeff 👏🏾👏🏾
+
+* _April, 2026_: [Bhavika Jain](https://scholar.google.com/citations?user=mZPAPC0AAAAJ&hl=en) has won **Best Poster** award at the [College of Engineering Research Symposium](https://www.cers.psu.edu/). Congrats, Bhavika 🎉
+
+* _April, 2026_: [Honorable Mention Award](https://programs.sigchi.org/chi/2026/program/content/222848) at CHI 2026!
+
 2025
 ----
 * _October, 2025_: Penn State News has an article on [student success from our lab](https://www.psu.edu/news/information-sciences-and-technology/story/informatics-doctoral-program-provides-interdisciplinary)!
