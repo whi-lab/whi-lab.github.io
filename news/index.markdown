@@ -7,7 +7,7 @@ layout: page
 ----
 
 
-* _April, 2026_: [Jeff Brozena]({%link members.markdown %}#jeff-brozena) has received **Exemplary Graduate Student Research Poster** award at the Department of Psychiatry and Behavioral Health Research Conference. Congrats, Jeff 👏🏾👏🏾
+* _April, 2026_: [Jeff Brozena]({%link members.markdown %}#jeff-brozena) has received the **Exemplary Graduate Student Research Poster** award at the Department of Psychiatry and Behavioral Health Research Conference, Penn State College of Medicine. Congrats, Jeff 👏🏾👏🏾
 
 * _April, 2026_: [Bhavika Jain](https://scholar.google.com/citations?user=mZPAPC0AAAAJ&hl=en) has won **Best Poster** award at the [College of Engineering Research Symposium](https://www.cers.psu.edu/). Congrats, Bhavika 🎉
 
