@@ -17,27 +17,21 @@ title: Members
 Associate Professor
 </div>
 
-<div class="col-lg-4 col-xs-12 text-center" markdown="1" id="dominik-mattioli">
-[![Dominik Mattioli]({%link files/images/members/dominik-mattioli.jpg %}){: class="img-circle img-center text-center"}](https://scholar.google.com/citations?user=IBFSkOcAAAAJ)
-[Dominik Mattioli](https://scholar.google.com/citations?user=IBFSkOcAAAAJ)\\
-Postdoctoral Researcher
-</div>
-
 <div class="col-lg-4 col-xs-12 text-center" markdown="1" id="ita-daryanti">
 [![Ita Daryanti]({%link files/images/members/ita-daryanti.jpg %}){: class="img-circle img-center text-center"}](https://www.researchgate.net/profile/Ita-Saragih)
 [Ita Daryanti](https://www.researchgate.net/profile/Ita-Saragih)\\
 Postdoctoral Researcher
 </div>
 
-</div>
-
-<div class="row">
-
 <div class="col-lg-4 col-xs-12 text-center" markdown="1" id="jeff-brozena">
 [![Jeff Brozena]({%link files/images/members/jeff-brozena.jpg %}){: class="img-circle img-center text-center"}](https://brozena.net)
 [Jeff Brozena](https://brozena.net)\\
 PhD Student
 </div>
+
+</div>
+
+<div class="row">
 
 <div class="col-lg-4 col-xs-12 text-center" markdown="1" id="sam-moradzadeh">
 [![Sam Moradzadeh]({%link files/images/members/sam-moradzadeh.jpg %}){: class="img-circle img-center text-center"}](https://www.sammoradzadeh.me/)
@@ -65,6 +59,7 @@ PhD Student
 </div>
 
 ### Postdoc
+* [Dominik Mattioli](https://scholar.google.com/citations?user=IBFSkOcAAAAJ){: #dominik-mattioli} (Department of Defense)
 * [Raju Maharjan](https://www.rajumaharjan.com){: #raju-maharjan} (Assistant Professor at the University of Oklahoma)
 
 
