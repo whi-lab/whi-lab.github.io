@@ -3,6 +3,82 @@ title: News (Archived)
 layout: page
 ---
 
+
+2022
+----
+
+* _December, 2022_: [Raju](https://www.rajumaharjan.com) gave an [invited talk]({%link files/slides/maharjan-postdoc-symposium.pdf %}) on "Research at the Intersection of Design, Technology, and Mental Health & Best Wellness Apps to Reduce Stress" at the [15th annual Penn State Postdoctoral Symposium](https://www.research.psu.edu/node/5503).
+
+* _December, 2022_: [Sanjana](https://www.sanjanamendu.com) presented our work on evaluating the acceptability of a voice interface for facilitating mindfulness practice among expert facilitators at the [8th annual Penn State Addiction Symposium](https://research.med.psu.edu/addiction-symposium/).
+
+* _December, 2022_: [Sanjana](https://www.sanjanamendu.com) and [Hee Jeong](https://heejeong-han.github.io) passed their comprehensive exams with flying colors!
+
+* _November, 2022_: Our [paper](https://link.springer.com/chapter/10.1007/978-3-031-14771-5_29) on automatic classification of dementia using text and speech data was accepted in [Multimodal AI in Healthcare](https://link.springer.com/book/10.1007/978-3-031-14771-5).
+
+* _November, 2022_: Our [paper](https://doi.org/10.3389/fpsyt.2022.810057) on understanding the relationship between financial behavior and mental health was accepted in [Frontiers](https://www.frontiersin.org/journals/psychiatry).
+
+* _October, 2022_: [Raju](https://www.rajumaharjan.com) gave an invited talk on "Leveraging Voice Interfaces to Support Health and Wellbeing" at the [University of Technology Sydney](https://www.uts.edu.au).
+
+* _October, 2022_: [Sahiti](https://sahitikunchay.github.io)'s internship work at [FitBit Research](https://healthsolutions.fitbit.com/researchers) was featured by the [Center for Technology and Behavioral Health](https://twitter.com/dartmouthctbh/status/1585614590733389824) and [Penn State News](https://www.psu.edu/news/information-sciences-and-technology/story/ist-student-diversifies-wearable-tech-health-data-apps).
+
+* _October, 2022_: [Hee Jeong](https://heejeong-han.github.io) presented our work on [dementia diagnosis using text and speech data]({%link files/posters/hackallenge-icds-symposium-2022.pdf %}) at the [ICDS Symposium](https://www.icds.psu.edu/news-events/icds-symposium/fall-2022-icds-symposium).
+
+* _September, 2022_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health: Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io) at [UbiComp 2022](https://www.ubicomp.org/ubicomp2022).
+
+* _September, 2022_: Our [paper](https://doi.org/10.1249/01.mss.0000879068.43957.d0) on comparing two delivery modes of a supportive care platform for metastatic breast cancer patients was accepted in [Medicine & Science in Sports & Exercise](https://journals.lww.com/acsm-msse/pages/default.aspx).
+
+* _September, 2022_: [Suhas](https://sites.psu.edu/suhas) was selected to be a part of [Google CS Research Mentorship Program](https://research.google/outreach/csrmp) (2022b Cohort).
+
+* _July, 2022_: Our [paper](https://doi.org/10.2196/35749) outlining a forthcoming systematic review of design approaches and evaluation methods in mHealth apps targeting substance use has been published on [JMIR Research Protocols](https://www.researchprotocols.org).
+
+* _July, 2022_: [Raju](https://www.rajumaharjan.com) has joined the lab as a postdoctoral researcher. Welcome, Raju!
+
+* _June, 2022_: [Suhas](https://sites.psu.edu/suhas) was awarded the [NSF NRT LINDIV Graduate Fellowship](https://lindiv.la.psu.edu/about).
+
+* _April, 2022_: We have received the [SSRI Large Pilot Award](https://ssri.psu.edu/funding/ssri-pilot-award) to support financial wellbeing of individuals with bipolar disorder.
+
+* _April, 2022_: [Sahiti](https://sahitikunchay.github.io) has passed the comprehensive exam — congrats!
+
+* _April, 2022_: Our team [has been selected to receive funding](https://www.psu.edu/news/academics/story/ten-student-teams-awarded-combined-15000-build-mvps-nittany-ai-challenge) for the next phase of the [Nittany AI Challenge](https://nittanyai.psu.edu/alliance-programs/nittany-ai-challenge).
+
+* _March, 2022_: [Sahiti](https://sahitikunchay.github.io) is attending the 2022 [CRA-WP Grad Cohort Workshop for IDEALS](https://cra.org/cra-wp/grad-cohort-ideals).
+
+* _February, 2022_: The WHI Lab's [Nittany AI](https://nittanyai.psu.edu) team has advanced to the second phase of the [Nittany AI Challenge](https://nittanyai.psu.edu/alliance-programs/nittany-ai-challenge).
+
+* _February, 2022_: [Sahiti](https://sahitikunchay.github.io) is joining [Google](https://research.google) this summer as a research intern with the [FitBit Research](https://healthsolutions.fitbit.com/researchers) team, where she will be working on understanding individuals' menstrual health journeys through biometric signals.
+
+* _January, 2022_: Our [paper](https://doi.org/10.1109/ICASSP43922.2022.9746827) on privacy sensitive speech analysis using federated learning to assess depression has been accepted in [ICASSP](https://2022.ieeeicassp.org).
+
+* _January, 2022_: Our paper on the use of Alexa as an active listener and its implication for mental health support has been accepted in [CSCW](https://cscw.acm.org/2022).
+
+2021
+----
+
+* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) was selected to be a part of the 2021 [Google CS Research Mentorship Program](https://research.google/outreach/csrmp).
+
+* _September, 2021_: [Sahiti](https://sahitikunchay.github.io) and [Saeed](https://saeedabdullah.com) co-organized the ["Mental Health: Sensing & Intervention" workshop](https://ubicomp-mental-health.github.io) at [UbiComp 2021](https://www.ubicomp.org/ubicomp2021).
+
+* _September, 2021_: [Johnna](https://johnnablair.weebly.com) presented her work at the [UbiComp](https://www.ubicomp.org/ubicomp2021) [doctoral colloquium](https://www.ubicomp.org/ubicomp2021/cfp/doctoral-symposium-4)!
+
+* _August, 2021_: We have [two](https://doi.org/10.1145/3460418.3479332) [papers](https://doi.org/10.1145/3460418.3479336) accepted in the [UbiComp/ISWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
+
+* _August, 2021_: Welcome to 3 new members: [Suhas](https://sites.psu.edu/suhas), [Jeff](https://brozena.net), and [Sarah](https://sarah-tran.weebly.com)!!
+
+* _June, 2021_: [Johnna](https://johnnablair.weebly.com) and [Saeed](https://saeedabdullah.com) gave a keynote speech at the [CHHA (Canadian Hard of Hearing Association) National Educational Conference](https://www.chhaconference.ca/agenda).
+
+* _April, 2021_: Our project using smart speakers to provide personalized care for women with metastatic breast cancer was featured in [Penn State News](https://news.psu.edu/story/656467/2021/04/27/research/amazon-alexa-skill-offers-supportive-care-breast-cancer-patients).
+
+* _April, 2021_: [Sanjana](https://www.sanjanamendu.com) and [Hee Jeong](https://heejeong-han.github.io) attended the [2021 CRA-WP Grad Cohort for Women](https://web.cvent.com/event/6bb235cd-85c6-4087-bc1f-fd19b2681eca/summary).
+
+* _March, 2021_: [Johnna](https://johnnablair.weebly.com) passed her comprehensive exam with flying colors!
+
+* _January, 2021_: We have [two]({%link files/pubs/covid-twitter-chi-lbw-2021.pdf %}) [papers]({%link files/pubs/nurse-amie-chi-lbw-2021.pdf %}) accepted in [CHI 2021 Late Breaking Work](https://chi2021.acm.org).
+
+* _January, 2021_: [Johnna](https://johnnablair.weebly.com) participated in a [podcast](https://www.byuradio.org/topofmind) [interview](https://www.byuradio.org/b30d7f99-9ed6-4e36-b597-6b4840718d4b) discussing her work on smart assistant accessibility.
+
+* _January, 2021_: Our project on smart assistant accessibility was featured in [Penn State News](https://news.psu.edu/story/643330/2021/01/07/research/study-suggests-smart-assistant-design-improvements-deaf-users), [Science Blog](https://scienceblog.com/520393/study-suggests-smart-assistant-design-improvements-for-deaf-users), [Hearing Review](https://www.hearingreview.com/inside-hearing/research/smart-assistant), and [The Hearing Health Foundation](https://hearinghealthfoundation.org/blogs/study-suggests-smart-assistant-design-improvements-for-deaf-users).
+
+
 2020
 ----
 
